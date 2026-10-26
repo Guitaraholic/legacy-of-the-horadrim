@@ -1,0 +1,1598 @@
+[
+  {
+    "civerbs_ward": {
+      "normal": "shield/stormguild",
+      "uber": "shield/stormguild",
+      "ultra": "shield/stormguild"
+    }
+  },
+  {
+    "civerbs_icon": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "civerbs_cudgel": {
+      "normal": "scepter/grand_scepter",
+      "uber": "scepter/grand_scepter",
+      "ultra": "scepter/grand_scepter"
+    }
+  },
+  {
+    "hsarus_iron_heel": {
+      "normal": "boot/chain_boots",
+      "uber": "boot/chain_boots",
+      "ultra": "boot/chain_boots"
+    }
+  },
+  {
+    "hsarus_iron_fist": {
+      "normal": "shield/pelta_lunata",
+      "uber": "shield/pelta_lunata",
+      "ultra": "shield/pelta_lunata"
+    }
+  },
+  {
+    "hsarus_iron_stay": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "cleglaws_tooth": {
+      "normal": "sword/hellplague",
+      "uber": "sword/hellplague",
+      "ultra": "sword/hellplague"
+    }
+  },
+  {
+    "cleglaws_claw": {
+      "normal": "shield/umbral_disk",
+      "uber": "shield/umbral_disk",
+      "ultra": "shield/umbral_disk"
+    }
+  },
+  {
+    "cleglaws_pincers": {
+      "normal": "glove/bracers_m",
+      "uber": "glove/bracers_m",
+      "ultra": "glove/bracers_m"
+    }
+  },
+  {
+    "irathas_collar": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "irathas_cuff": {
+      "normal": "glove/light_gauntlets",
+      "uber": "glove/light_gauntlets",
+      "ultra": "glove/light_gauntlets"
+    }
+  },
+  {
+    "irathas_coil": {
+      "normal": "helmet/crown",
+      "uber": "helmet/crown",
+      "ultra": "helmet/crown"
+    }
+  },
+  {
+    "irathas_cord": {
+      "normal": "belt/heavy_belt",
+      "uber": "belt/heavy_belt",
+      "ultra": "belt/heavy_belt"
+    }
+  },
+  {
+    "isenharts_lightbrand": {
+      "normal": "sword/griswolds_edge",
+      "uber": "sword/griswolds_edge",
+      "ultra": "sword/griswolds_edge"
+    }
+  },
+  {
+    "isenharts_parry": {
+      "normal": "shield/the_ward",
+      "uber": "shield/the_ward",
+      "ultra": "shield/the_ward"
+    }
+  },
+  {
+    "isenharts_case": {
+      "normal": "armor/breast_plate",
+      "uber": "armor/breast_plate",
+      "ultra": "armor/breast_plate"
+    }
+  },
+  {
+    "isenharts_horns": {
+      "normal": "helmet/duskdeep",
+      "uber": "helmet/duskdeep",
+      "ultra": "helmet/duskdeep"
+    }
+  },
+  {
+    "vidalas_barb": {
+      "normal": "bow/long_battle_bow",
+      "uber": "bow/long_battle_bow",
+      "ultra": "bow/long_battle_bow"
+    }
+  },
+  {
+    "vidalas_fetlock": {
+      "normal": "boot/light_plate_boots",
+      "uber": "boot/light_plate_boots",
+      "ultra": "boot/light_plate_boots"
+    }
+  },
+  {
+    "vidalas_ambush": {
+      "normal": "armor/leather_armor",
+      "uber": "armor/leather_armor",
+      "ultra": "armor/leather_armor"
+    }
+  },
+  {
+    "vidalas_snare": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "milabregas_orb": {
+      "normal": "shield/steelclash",
+      "uber": "shield/steelclash",
+      "ultra": "shield/steelclash"
+    }
+  },
+  {
+    "milabregas_rod": {
+      "normal": "scepter/war_scepter",
+      "uber": "scepter/war_scepter",
+      "ultra": "scepter/war_scepter"
+    }
+  },
+  {
+    "milabregas_diadem": {
+      "normal": "helmet/crown",
+      "uber": "helmet/crown",
+      "ultra": "helmet/crown"
+    }
+  },
+  {
+    "milabregas_robe": {
+      "normal": "armor/victors_silk",
+      "uber": "armor/victors_silk",
+      "ultra": "armor/victors_silk"
+    }
+  },
+  {
+    "cathans_rule": {
+      "normal": "staff/battle_staff",
+      "uber": "staff/battle_staff",
+      "ultra": "staff/battle_staff"
+    }
+  },
+  {
+    "cathans_mesh": {
+      "normal": "armor/chain_mail",
+      "uber": "armor/chain_mail",
+      "ultra": "armor/chain_mail"
+    }
+  },
+  {
+    "cathans_visage": {
+      "normal": "helmet/mask",
+      "uber": "helmet/mask",
+      "ultra": "helmet/mask"
+    }
+  },
+  {
+    "cathans_sigil": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "cathans_seal": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "tancreds_crowbill": {
+      "normal": "axe/mindrend",
+      "uber": "axe/mindrend",
+      "ultra": "axe/mindrend"
+    }
+  },
+  {
+    "tancreds_spine": {
+      "normal": "armor/goldskin",
+      "uber": "armor/goldskin",
+      "ultra": "armor/goldskin"
+    }
+  },
+  {
+    "tancreds_hobnails": {
+      "normal": "boot/leather_boots",
+      "uber": "boot/leather_boots",
+      "ultra": "boot/leather_boots"
+    }
+  },
+  {
+    "tancreds_weird": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "tancreds_skull": {
+      "normal": "helmet/wormskull",
+      "uber": "helmet/wormskull",
+      "ultra": "helmet/wormskull"
+    }
+  },
+  {
+    "sigons_gage": {
+      "normal": "glove/gaunlets_h",
+      "uber": "glove/gaunlets_h",
+      "ultra": "glove/gaunlets_h"
+    }
+  },
+  {
+    "sigons_visor": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "sigons_shelter": {
+      "normal": "armor/gothic_plate",
+      "uber": "armor/gothic_plate",
+      "ultra": "armor/gothic_plate"
+    }
+  },
+  {
+    "sigons_sabot": {
+      "normal": "boot/plate_boots",
+      "uber": "boot/plate_boots",
+      "ultra": "boot/plate_boots"
+    }
+  },
+  {
+    "sigons_wrap": {
+      "normal": "belt/girdle_h",
+      "uber": "belt/girdle_h",
+      "ultra": "belt/girdle_h"
+    }
+  },
+  {
+    "sigons_guard": {
+      "normal": "shield/bverrit_keep",
+      "uber": "shield/bverrit_keep",
+      "ultra": "shield/bverrit_keep"
+    }
+  },
+  {
+    "infernal_cranium": {
+      "normal": "helmet/war_bonnet",
+      "uber": "helmet/war_bonnet",
+      "ultra": "helmet/war_bonnet"
+    }
+  },
+  {
+    "infernal_torch": {
+      "normal": "wand/grim_wand",
+      "uber": "wand/grim_wand",
+      "ultra": "wand/grim_wand"
+    }
+  },
+  {
+    "infernal_sign": {
+      "normal": "belt/heavy_belt",
+      "uber": "belt/heavy_belt",
+      "ultra": "belt/heavy_belt"
+    }
+  },
+  {
+    "berserkers_headgear": {
+      "normal": "helmet/coif_of_glory",
+      "uber": "helmet/coif_of_glory",
+      "ultra": "helmet/coif_of_glory"
+    }
+  },
+  {
+    "berserkers_hauberk": {
+      "normal": "armor/splint_mail",
+      "uber": "armor/splint_mail",
+      "ultra": "armor/splint_mail"
+    }
+  },
+  {
+    "berserkers_hatchet": {
+      "normal": "axe/double_axe",
+      "uber": "axe/double_axe",
+      "ultra": "axe/double_axe"
+    }
+  },
+  {
+    "deaths_hand": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "deaths_guard": {
+      "normal": "belt/sash_l",
+      "uber": "belt/sash_l",
+      "ultra": "belt/sash_l"
+    }
+  },
+  {
+    "deaths_touch": {
+      "normal": "sword/war_sword",
+      "uber": "sword/war_sword",
+      "ultra": "sword/war_sword"
+    }
+  },
+  {
+    "angelic_sickle": {
+      "normal": "sword/krintizs_skewer",
+      "uber": "sword/krintizs_skewer",
+      "ultra": "sword/krintizs_skewer"
+    }
+  },
+  {
+    "angelic_mantle": {
+      "normal": "armor/ring_mail",
+      "uber": "armor/ring_mail",
+      "ultra": "armor/ring_mail"
+    }
+  },
+  {
+    "angelic_halo": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "angelic_wings": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "arctic_horn": {
+      "normal": "bow/hellclap",
+      "uber": "bow/hellclap",
+      "ultra": "bow/hellclap"
+    }
+  },
+  {
+    "arctic_furs": {
+      "normal": "armor/quilted_armor",
+      "uber": "armor/quilted_armor",
+      "ultra": "armor/quilted_armor"
+    }
+  },
+  {
+    "arctic_binding": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "arctic_mitts": {
+      "normal": "glove/light_gauntlets",
+      "uber": "glove/light_gauntlets",
+      "ultra": "glove/light_gauntlets"
+    }
+  },
+  {
+    "arcannas_sign": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "arcannas_deathwand": {
+      "normal": "staff/war_staff",
+      "uber": "staff/war_staff",
+      "ultra": "staff/war_staff"
+    }
+  },
+  {
+    "arcannas_head": {
+      "normal": "helmet/skull_cap",
+      "uber": "helmet/skull_cap",
+      "ultra": "helmet/skull_cap"
+    }
+  },
+  {
+    "arcannas_flesh": {
+      "normal": "armor/light_plate",
+      "uber": "armor/light_plate",
+      "ultra": "armor/light_plate"
+    }
+  },
+  {
+    "natalyas_totem": {
+      "normal": "helmet/wormskull",
+      "uber": "helmet/wormskull",
+      "ultra": "helmet/wormskull"
+    }
+  },
+  {
+    "natalyas_mark": {
+      "normal": "h2h/natalyas_mark",
+      "uber": "h2h/natalyas_mark",
+      "ultra": "h2h/natalyas_mark"
+    }
+  },
+  {
+    "natalyas_shadow": {
+      "normal": "armor/scale_mail",
+      "uber": "armor/scale_mail",
+      "ultra": "armor/scale_mail"
+    }
+  },
+  {
+    "natalyas_soul": {
+      "normal": "boot/chain_boots",
+      "uber": "boot/chain_boots",
+      "ultra": "boot/chain_boots"
+    }
+  },
+  {
+    "aldurs_stony_gaze": {
+      "normal": "pelt/antlers",
+      "uber": "pelt/antlers",
+      "ultra": "pelt/antlers"
+    }
+  },
+  {
+    "aldurs_deception": {
+      "normal": "armor/full_plate_mail",
+      "uber": "armor/full_plate_mail",
+      "ultra": "armor/full_plate_mail"
+    }
+  },
+  {
+    "aldurs_gauntlet": {
+      "normal": "mace/bloodrise",
+      "uber": "mace/bloodrise",
+      "ultra": "mace/bloodrise"
+    }
+  },
+  {
+    "aldurs_advance": {
+      "normal": "boot/light_plate_boots",
+      "uber": "boot/light_plate_boots",
+      "ultra": "boot/light_plate_boots"
+    }
+  },
+  {
+    "immortal_kings_will": {
+      "normal": "helmet/avenger_guard",
+      "uber": "helmet/avenger_guard",
+      "ultra": "helmet/avenger_guard"
+    }
+  },
+  {
+    "immortal_kings_soul_cage": {
+      "normal": "armor/victors_silk",
+      "uber": "armor/victors_silk",
+      "ultra": "armor/victors_silk"
+    }
+  },
+  {
+    "immortal_kings_detail": {
+      "normal": "belt/girdle_h",
+      "uber": "belt/girdle_h",
+      "ultra": "belt/girdle_h"
+    }
+  },
+  {
+    "immortal_kings_forge": {
+      "normal": "glove/gaunlets_h",
+      "uber": "glove/gaunlets_h",
+      "ultra": "glove/gaunlets_h"
+    }
+  },
+  {
+    "immortal_kings_pillar": {
+      "normal": "boot/plate_boots",
+      "uber": "boot/plate_boots",
+      "ultra": "boot/plate_boots"
+    }
+  },
+  {
+    "immortal_kings_stone_crusher": {
+      "normal": "hammer/maul",
+      "uber": "hammer/maul",
+      "ultra": "hammer/maul"
+    }
+  },
+  {
+    "tal_rashas_fire_spun_cloth": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "tal_rashas_adjudication": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "tal_rashas_lidless_eye": {
+      "normal": "orb/dragon_stone",
+      "uber": "orb/dragon_stone",
+      "ultra": "orb/dragon_stone"
+    }
+  },
+  {
+    "tal_rashas_howling_wind": {
+      "normal": "armor/gothic_plate",
+      "uber": "armor/gothic_plate",
+      "ultra": "armor/gothic_plate"
+    }
+  },
+  {
+    "tal_rashas_horadric_crest": {
+      "normal": "helmet/mask",
+      "uber": "helmet/mask",
+      "ultra": "helmet/mask"
+    }
+  },
+  {
+    "griswolds_valor": {
+      "normal": "helmet/crown",
+      "uber": "helmet/crown",
+      "ultra": "helmet/crown"
+    }
+  },
+  {
+    "griswolds_heart": {
+      "normal": "armor/corpsemourn",
+      "uber": "armor/corpsemourn",
+      "ultra": "armor/corpsemourn"
+    }
+  },
+  {
+    "griswoldss_redemption": {
+      "normal": "scepter/war_scepter",
+      "uber": "scepter/war_scepter",
+      "ultra": "scepter/war_scepter"
+    }
+  },
+  {
+    "griswolds_honor": {
+      "normal": "shield/crown_shield",
+      "uber": "shield/crown_shield",
+      "ultra": "shield/crown_shield"
+    }
+  },
+  {
+    "trang_ouls_guise": {
+      "normal": "helmet/wormskull",
+      "uber": "helmet/wormskull",
+      "ultra": "helmet/wormskull"
+    }
+  },
+  {
+    "trang_ouls_scales": {
+      "normal": "armor/full_plate_mail",
+      "uber": "armor/full_plate_mail",
+      "ultra": "armor/full_plate_mail"
+    }
+  },
+  {
+    "trang_ouls_wing": {
+      "normal": "voodoo_head/gargoyle_head",
+      "uber": "voodoo_head/gargoyle_head",
+      "ultra": "voodoo_head/gargoyle_head"
+    }
+  },
+  {
+    "trang_ouls_claws": {
+      "normal": "glove/bracers_m",
+      "uber": "glove/bracers_m",
+      "ultra": "glove/bracers_m"
+    }
+  },
+  {
+    "trang_ouls_girth": {
+      "normal": "belt/heavy_belt",
+      "uber": "belt/heavy_belt",
+      "ultra": "belt/heavy_belt"
+    }
+  },
+  {
+    "mavinas_true_sight": {
+      "normal": "circlet/diadem",
+      "uber": "circlet/diadem",
+      "ultra": "circlet/diadem"
+    }
+  },
+  {
+    "mavinas_embrace": {
+      "normal": "armor/field_plate",
+      "uber": "armor/field_plate",
+      "ultra": "armor/field_plate"
+    }
+  },
+  {
+    "mavinas_icy_clutch": {
+      "normal": "glove/light_gauntlets",
+      "uber": "glove/light_gauntlets",
+      "ultra": "glove/light_gauntlets"
+    }
+  },
+  {
+    "mavinas_tenet": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "mavinas_caster": {
+      "normal": "bow/reflex_bow",
+      "uber": "bow/reflex_bow",
+      "ultra": "bow/reflex_bow"
+    }
+  },
+  {
+    "telling_of_beads": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "laying_of_hands": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "rite_of_passage": {
+      "normal": "boot/leather_boots",
+      "uber": "boot/leather_boots",
+      "ultra": "boot/leather_boots"
+    }
+  },
+  {
+    "spiritual_custodian": {
+      "normal": "armor/quilted_armor",
+      "uber": "armor/quilted_armor",
+      "ultra": "armor/quilted_armor"
+    }
+  },
+  {
+    "credendum": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "dangoons_teaching": {
+      "normal": "mace/dangoons_teaching",
+      "uber": "mace/dangoons_teaching",
+      "ultra": "mace/dangoons_teaching"
+    }
+  },
+  {
+    "heavens_taebaek": {
+      "normal": "shield/heavens_taebaek",
+      "uber": "shield/heavens_taebaek",
+      "ultra": "shield/heavens_taebaek"
+    }
+  },
+  {
+    "haemosus_adament": {
+      "normal": "armor/haemosus_adament",
+      "uber": "armor/haemosus_adament",
+      "ultra": "armor/haemosus_adament"
+    }
+  },
+  {
+    "ondals_almighty": {
+      "normal": "helmet/ondals_almighty",
+      "uber": "helmet/ondals_almighty",
+      "ultra": "helmet/ondals_almighty"
+    }
+  },
+  {
+    "guillaumes_face": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "wilhelms_pride": {
+      "normal": "belt/heavy_belt",
+      "uber": "belt/heavy_belt",
+      "ultra": "belt/heavy_belt"
+    }
+  },
+  {
+    "magnus_skin": {
+      "normal": "glove/heavy_gloves",
+      "uber": "glove/heavy_gloves",
+      "ultra": "glove/heavy_gloves"
+    }
+  },
+  {
+    "wihtstans_guard": {
+      "normal": "shield/mosers_blessed_circle",
+      "uber": "shield/mosers_blessed_circle",
+      "ultra": "shield/mosers_blessed_circle"
+    }
+  },
+  {
+    "hwanins_splendor": {
+      "normal": "helmet/crown_of_thieves",
+      "uber": "helmet/crown_of_thieves",
+      "ultra": "helmet/crown_of_thieves"
+    }
+  },
+  {
+    "hwanins_refuge": {
+      "normal": "armor/scale_mail",
+      "uber": "armor/scale_mail",
+      "ultra": "armor/scale_mail"
+    }
+  },
+  {
+    "hwanins_seal": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "hwanins_justice": {
+      "normal": "polearm/voulge",
+      "uber": "polearm/voulge",
+      "ultra": "polearm/voulge"
+    }
+  },
+  {
+    "sazabis_cobalt_redeemer": {
+      "normal": "sword/hellplague",
+      "uber": "sword/hellplague",
+      "ultra": "sword/hellplague"
+    }
+  },
+  {
+    "sazabis_ghost_liberator": {
+      "normal": "armor/splint_mail",
+      "uber": "armor/splint_mail",
+      "ultra": "armor/splint_mail"
+    }
+  },
+  {
+    "sazabis_mental_sheath": {
+      "normal": "helmet/duskdeep",
+      "uber": "helmet/duskdeep",
+      "ultra": "helmet/duskdeep"
+    }
+  },
+  {
+    "bul_kathos_sacred_charge": {
+      "normal": "sword/the_patriarch",
+      "uber": "sword/the_patriarch",
+      "ultra": "sword/the_patriarch"
+    }
+  },
+  {
+    "bul_kathos_tribal_guardian": {
+      "normal": "sword/war_sword",
+      "uber": "sword/war_sword",
+      "ultra": "sword/war_sword"
+    }
+  },
+  {
+    "cow_kings_horns": {
+      "normal": "helmet/cap_hat",
+      "uber": "helmet/cap_hat",
+      "ultra": "helmet/cap_hat"
+    }
+  },
+  {
+    "cow_kings_hide": {
+      "normal": "armor/studded_leather",
+      "uber": "armor/studded_leather",
+      "ultra": "armor/studded_leather"
+    }
+  },
+  {
+    "cow_kings_hoofs": {
+      "normal": "boot/heavy_boots",
+      "uber": "boot/heavy_boots",
+      "ultra": "boot/heavy_boots"
+    }
+  },
+  {
+    "najs_puzzler": {
+      "normal": "staff/lazarus_spire",
+      "uber": "staff/lazarus_spire",
+      "ultra": "staff/lazarus_spire"
+    }
+  },
+  {
+    "najs_light_plate": {
+      "normal": "armor/plate_mail",
+      "uber": "armor/plate_mail",
+      "ultra": "armor/plate_mail"
+    }
+  },
+  {
+    "najs_circlet": {
+      "normal": "circlet/circlet",
+      "uber": "circlet/circlet",
+      "ultra": "circlet/circlet"
+    }
+  },
+  {
+    "mc_auleys_paragon": {
+      "normal": "helmet/war_bonnet",
+      "uber": "helmet/war_bonnet",
+      "ultra": "helmet/war_bonnet"
+    }
+  },
+  {
+    "mc_auleys_riprap": {
+      "normal": "boot/heavy_boots",
+      "uber": "boot/heavy_boots",
+      "ultra": "boot/heavy_boots"
+    }
+  },
+  {
+    "mc_auleys_taboo": {
+      "normal": "glove/heavy_gloves",
+      "uber": "glove/heavy_gloves",
+      "ultra": "glove/heavy_gloves"
+    }
+  },
+  {
+    "mc_auleys_superstition": {
+      "normal": "wand/gravenspine",
+      "uber": "wand/gravenspine",
+      "ultra": "wand/gravenspine"
+    }
+  },
+  {
+    "horazons_secrets": {
+      "normal": "grimoires/ars_torbaalos",
+      "uber": "grimoires/ars_torbaalos",
+      "ultra": "grimoires/ars_torbaalos"
+    }
+  },
+  {
+    "horazons_legacy": {
+      "normal": "boot/light_plate_boots",
+      "uber": "boot/light_plate_boots",
+      "ultra": "boot/light_plate_boots"
+    }
+  },
+  {
+    "horazons_hold": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "horazons_dominion": {
+      "normal": "armor/splint_mail",
+      "uber": "armor/splint_mail",
+      "ultra": "armor/splint_mail"
+    }
+  },
+  {
+    "horazons_countenance": {
+      "normal": "helmet/horazons_countenance",
+      "uber": "helmet/horazons_countenance",
+      "ultra": "helmet/horazons_countenance"
+    }
+  },
+  {
+    "banes_oathmaker": {
+      "normal": "knife/banes_spire",
+      "uber": "knife/banes_spire",
+      "ultra": "knife/banes_spire"
+    }
+  },
+  {
+    "banes_wraithskin": {
+      "normal": "armor/hard_leather_armor",
+      "uber": "armor/hard_leather_armor",
+      "ultra": "armor/hard_leather_armor"
+    }
+  },
+  {
+    "banes_authority": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "warlords_conquest": {
+      "normal": "glove/gaunlets_h",
+      "uber": "glove/gaunlets_h",
+      "ultra": "glove/gaunlets_h"
+    }
+  },
+  {
+    "warlords_lust": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "warlords_mantle": {
+      "normal": "armor/full_plate_mail",
+      "uber": "armor/full_plate_mail",
+      "ultra": "armor/full_plate_mail"
+    }
+  },
+  {
+    "warlords_crushers": {
+      "normal": "boot/plate_boots",
+      "uber": "boot/plate_boots",
+      "ultra": "boot/plate_boots"
+    }
+  },
+  {
+    "warlords_authority": {
+      "normal": "belt/girdle_h",
+      "uber": "belt/girdle_h",
+      "ultra": "belt/girdle_h"
+    }
+  },
+  {
+    "lachdanans_blade": {
+      "normal": "lh/lachdanans_blade",
+      "uber": "lh/lachdanans_blade",
+      "ultra": "lh/lachdanans_blade"
+    }
+  },
+  {
+    "lachdanans_mailed_hand": {
+      "normal": "lh/lachdanans_mailed_hand",
+      "uber": "lh/lachdanans_mailed_hand",
+      "ultra": "lh/lachdanans_mailed_hand"
+    }
+  },
+  {
+    "sisters_watch_bow": {
+      "normal": "lh/sisters_watch_bow",
+      "uber": "lh/sisters_watch_bow",
+      "ultra": "lh/sisters_watch_bow"
+    }
+  },
+  {
+    "sisters_trail_boots": {
+      "normal": "lh/sisters_trail_boots",
+      "uber": "lh/sisters_trail_boots",
+      "ultra": "lh/sisters_trail_boots"
+    }
+  },
+  {
+    "novices_tri_staff": {
+      "normal": "lh/novices_tri_staff",
+      "uber": "lh/novices_tri_staff",
+      "ultra": "lh/novices_tri_staff"
+    }
+  },
+  {
+    "novices_ash_cap": {
+      "normal": "lh/novices_ash_cap",
+      "uber": "lh/novices_ash_cap",
+      "ultra": "lh/novices_ash_cap"
+    }
+  },
+  {
+    "gravekeepers_wand": {
+      "normal": "lh/gravekeepers_wand",
+      "uber": "lh/gravekeepers_wand",
+      "ultra": "lh/gravekeepers_wand"
+    }
+  },
+  {
+    "gravekeepers_ward": {
+      "normal": "lh/gravekeepers_ward",
+      "uber": "lh/gravekeepers_ward",
+      "ultra": "lh/gravekeepers_ward"
+    }
+  },
+  {
+    "binders_sealed_codex": {
+      "normal": "lh/binders_sealed_codex",
+      "uber": "lh/binders_sealed_codex",
+      "ultra": "lh/binders_sealed_codex"
+    }
+  },
+  {
+    "binders_ash_mask": {
+      "normal": "lh/binders_ash_mask",
+      "uber": "lh/binders_ash_mask",
+      "ultra": "lh/binders_ash_mask"
+    }
+  },
+  {
+    "palace_guards_helm": {
+      "normal": "lh/palace_guards_helm",
+      "uber": "lh/palace_guards_helm",
+      "ultra": "lh/palace_guards_helm"
+    }
+  },
+  {
+    "palace_guards_hauberk": {
+      "normal": "lh/palace_guards_hauberk",
+      "uber": "lh/palace_guards_hauberk",
+      "ultra": "lh/palace_guards_hauberk"
+    }
+  },
+  {
+    "rakkis_iron_crown": {
+      "normal": "lh/rakkis_iron_crown",
+      "uber": "lh/rakkis_iron_crown",
+      "ultra": "lh/rakkis_iron_crown"
+    }
+  },
+  {
+    "rakkis_warded_gloves": {
+      "normal": "lh/rakkis_warded_gloves",
+      "uber": "lh/rakkis_warded_gloves",
+      "ultra": "lh/rakkis_warded_gloves"
+    }
+  },
+  {
+    "taan_star_diadem": {
+      "normal": "lh/taan_star_diadem",
+      "uber": "lh/taan_star_diadem",
+      "ultra": "lh/taan_star_diadem"
+    }
+  },
+  {
+    "ammuit_veil_shroud": {
+      "normal": "lh/ammuit_veil_shroud",
+      "uber": "lh/ammuit_veil_shroud",
+      "ultra": "lh/ammuit_veil_shroud"
+    }
+  },
+  {
+    "zann_esu_stormgrip": {
+      "normal": "lh/zann_esu_stormgrip",
+      "uber": "lh/zann_esu_stormgrip",
+      "ultra": "lh/zann_esu_stormgrip"
+    }
+  },
+  {
+    "vizjerei_pyre_staff": {
+      "normal": "lh/vizjerei_pyre_staff",
+      "uber": "lh/vizjerei_pyre_staff",
+      "ultra": "lh/vizjerei_pyre_staff"
+    }
+  },
+  {
+    "ennead_cincture": {
+      "normal": "lh/ennead_cincture",
+      "uber": "lh/ennead_cincture",
+      "ultra": "lh/ennead_cincture"
+    }
+  },
+  {
+    "seal_of_the_accord": {
+      "normal": "lh/seal_of_the_accord",
+      "uber": "lh/seal_of_the_accord",
+      "ultra": "lh/seal_of_the_accord"
+    }
+  },
+  {
+    "imperius_faceless_helm": {
+      "normal": "lh/imperius_faceless_helm",
+      "uber": "lh/imperius_faceless_helm",
+      "ultra": "lh/imperius_faceless_helm"
+    }
+  },
+  {
+    "imperius_burnished_mail": {
+      "normal": "lh/imperius_burnished_mail",
+      "uber": "lh/imperius_burnished_mail",
+      "ultra": "lh/imperius_burnished_mail"
+    }
+  },
+  {
+    "imperius_grasp_of_wrath": {
+      "normal": "lh/imperius_grasp_of_wrath",
+      "uber": "lh/imperius_grasp_of_wrath",
+      "ultra": "lh/imperius_grasp_of_wrath"
+    }
+  },
+  {
+    "imperius_march": {
+      "normal": "lh/imperius_march",
+      "uber": "lh/imperius_march",
+      "ultra": "lh/imperius_march"
+    }
+  },
+  {
+    "solarions_echo": {
+      "normal": "lh/solarions_echo",
+      "uber": "lh/solarions_echo",
+      "ultra": "lh/solarions_echo"
+    }
+  },
+  {
+    "askari_seer_bow": {
+      "normal": "lh/askari_seer_bow",
+      "uber": "lh/askari_seer_bow",
+      "ultra": "lh/askari_seer_bow"
+    }
+  },
+  {
+    "askari_oracles_veil": {
+      "normal": "lh/askari_oracles_veil",
+      "uber": "lh/askari_oracles_veil",
+      "ultra": "lh/askari_oracles_veil"
+    }
+  },
+  {
+    "askari_scaleguard": {
+      "normal": "lh/askari_scaleguard",
+      "uber": "lh/askari_scaleguard",
+      "ultra": "lh/askari_scaleguard"
+    }
+  },
+  {
+    "askari_fletch_grips": {
+      "normal": "lh/askari_fletch_grips",
+      "uber": "lh/askari_fletch_grips",
+      "ultra": "lh/askari_fletch_grips"
+    }
+  },
+  {
+    "askari_windstride": {
+      "normal": "lh/askari_windstride",
+      "uber": "lh/askari_windstride",
+      "ultra": "lh/askari_windstride"
+    }
+  },
+  {
+    "viz_jaqtaar_cowl": {
+      "normal": "lh/viz_jaqtaar_cowl",
+      "uber": "lh/viz_jaqtaar_cowl",
+      "ultra": "lh/viz_jaqtaar_cowl"
+    }
+  },
+  {
+    "viz_jaqtaar_leathers": {
+      "normal": "lh/viz_jaqtaar_leathers",
+      "uber": "lh/viz_jaqtaar_leathers",
+      "ultra": "lh/viz_jaqtaar_leathers"
+    }
+  },
+  {
+    "viz_jaqtaar_grasp": {
+      "normal": "lh/viz_jaqtaar_grasp",
+      "uber": "lh/viz_jaqtaar_grasp",
+      "ultra": "lh/viz_jaqtaar_grasp"
+    }
+  },
+  {
+    "viz_jaqtaar_silent_step": {
+      "normal": "lh/viz_jaqtaar_silent_step",
+      "uber": "lh/viz_jaqtaar_silent_step",
+      "ultra": "lh/viz_jaqtaar_silent_step"
+    }
+  },
+  {
+    "viz_jaqtaar_signet": {
+      "normal": "lh/viz_jaqtaar_signet",
+      "uber": "lh/viz_jaqtaar_signet",
+      "ultra": "lh/viz_jaqtaar_signet"
+    }
+  },
+  {
+    "viz_jaqtaar_mage_bane": {
+      "normal": "lh/viz_jaqtaar_mage_bane",
+      "uber": "lh/viz_jaqtaar_mage_bane",
+      "ultra": "lh/viz_jaqtaar_mage_bane"
+    }
+  },
+  {
+    "cowl_of_the_horadrim": {
+      "normal": "lh/cowl_of_the_horadrim",
+      "uber": "lh/cowl_of_the_horadrim",
+      "ultra": "lh/cowl_of_the_horadrim"
+    }
+  },
+  {
+    "vestment_of_the_horadrim": {
+      "normal": "lh/vestment_of_the_horadrim",
+      "uber": "lh/vestment_of_the_horadrim",
+      "ultra": "lh/vestment_of_the_horadrim"
+    }
+  },
+  {
+    "horadric_wraps": {
+      "normal": "lh/horadric_wraps",
+      "uber": "lh/horadric_wraps",
+      "ultra": "lh/horadric_wraps"
+    }
+  },
+  {
+    "horadric_wayfarers": {
+      "normal": "lh/horadric_wayfarers",
+      "uber": "lh/horadric_wayfarers",
+      "ultra": "lh/horadric_wayfarers"
+    }
+  },
+  {
+    "horadric_cord": {
+      "normal": "lh/horadric_cord",
+      "uber": "lh/horadric_cord",
+      "ultra": "lh/horadric_cord"
+    }
+  },
+  {
+    "the_horadrims_oath": {
+      "normal": "lh/the_horadrims_oath",
+      "uber": "lh/the_horadrims_oath",
+      "ultra": "lh/the_horadrims_oath"
+    }
+  },
+  {
+    "ossuary_visage": {
+      "normal": "lh/ossuary_visage",
+      "uber": "lh/ossuary_visage",
+      "ultra": "lh/ossuary_visage"
+    }
+  },
+  {
+    "ossuary_weave": {
+      "normal": "lh/ossuary_weave",
+      "uber": "lh/ossuary_weave",
+      "ultra": "lh/ossuary_weave"
+    }
+  },
+  {
+    "ossuary_ward": {
+      "normal": "lh/ossuary_ward",
+      "uber": "lh/ossuary_ward",
+      "ultra": "lh/ossuary_ward"
+    }
+  },
+  {
+    "ossuary_wand": {
+      "normal": "lh/ossuary_wand",
+      "uber": "lh/ossuary_wand",
+      "ultra": "lh/ossuary_wand"
+    }
+  },
+  {
+    "ossuary_grasp": {
+      "normal": "lh/ossuary_grasp",
+      "uber": "lh/ossuary_grasp",
+      "ultra": "lh/ossuary_grasp"
+    }
+  },
+  {
+    "ossuary_tread": {
+      "normal": "lh/ossuary_tread",
+      "uber": "lh/ossuary_tread",
+      "ultra": "lh/ossuary_tread"
+    }
+  },
+  {
+    "bartucs_horned_visage": {
+      "normal": "lh/bartucs_horned_visage",
+      "uber": "lh/bartucs_horned_visage",
+      "ultra": "lh/bartucs_horned_visage"
+    }
+  },
+  {
+    "bartucs_blood_harness": {
+      "normal": "lh/bartucs_blood_harness",
+      "uber": "lh/bartucs_blood_harness",
+      "ultra": "lh/bartucs_blood_harness"
+    }
+  },
+  {
+    "bartucs_book_of_legions": {
+      "normal": "lh/bartucs_book_of_legions",
+      "uber": "lh/bartucs_book_of_legions",
+      "ultra": "lh/bartucs_book_of_legions"
+    }
+  },
+  {
+    "bartucs_binding_gloves": {
+      "normal": "lh/bartucs_binding_gloves",
+      "uber": "lh/bartucs_binding_gloves",
+      "ultra": "lh/bartucs_binding_gloves"
+    }
+  },
+  {
+    "bartucs_war_girdle": {
+      "normal": "lh/bartucs_war_girdle",
+      "uber": "lh/bartucs_war_girdle",
+      "ultra": "lh/bartucs_war_girdle"
+    }
+  },
+  {
+    "bartucs_blood_sigil": {
+      "normal": "lh/bartucs_blood_sigil",
+      "uber": "lh/bartucs_blood_sigil",
+      "ultra": "lh/bartucs_blood_sigil"
+    }
+  },
+  {
+    "khalims_mitre": {
+      "normal": "lh/khalims_mitre",
+      "uber": "lh/khalims_mitre",
+      "ultra": "lh/khalims_mitre"
+    }
+  },
+  {
+    "khalims_surcoat": {
+      "normal": "lh/khalims_surcoat",
+      "uber": "lh/khalims_surcoat",
+      "ultra": "lh/khalims_surcoat"
+    }
+  },
+  {
+    "khalims_bulwark": {
+      "normal": "lh/khalims_bulwark",
+      "uber": "lh/khalims_bulwark",
+      "ultra": "lh/khalims_bulwark"
+    }
+  },
+  {
+    "khalims_benediction": {
+      "normal": "lh/khalims_benediction",
+      "uber": "lh/khalims_benediction",
+      "ultra": "lh/khalims_benediction"
+    }
+  },
+  {
+    "khalims_penance": {
+      "normal": "lh/khalims_penance",
+      "uber": "lh/khalims_penance",
+      "ultra": "lh/khalims_penance"
+    }
+  },
+  {
+    "khalims_pilgrimage": {
+      "normal": "lh/khalims_pilgrimage",
+      "uber": "lh/khalims_pilgrimage",
+      "ultra": "lh/khalims_pilgrimage"
+    }
+  },
+  {
+    "cormacs_buckle": {
+      "normal": "lh/cormacs_buckle",
+      "uber": "lh/cormacs_buckle",
+      "ultra": "lh/cormacs_buckle"
+    }
+  },
+  {
+    "cormacs_road_boots": {
+      "normal": "lh/cormacs_road_boots",
+      "uber": "lh/cormacs_road_boots",
+      "ultra": "lh/cormacs_road_boots"
+    }
+  },
+  {
+    "larzuks_forgehammer": {
+      "normal": "lh/larzuks_forgehammer",
+      "uber": "lh/larzuks_forgehammer",
+      "ultra": "lh/larzuks_forgehammer"
+    }
+  },
+  {
+    "larzuks_apron": {
+      "normal": "lh/larzuks_apron",
+      "uber": "lh/larzuks_apron",
+      "ultra": "lh/larzuks_apron"
+    }
+  },
+  {
+    "larzuks_tongs": {
+      "normal": "lh/larzuks_tongs",
+      "uber": "lh/larzuks_tongs",
+      "ultra": "lh/larzuks_tongs"
+    }
+  },
+  {
+    "larzuks_anvil": {
+      "normal": "lh/larzuks_anvil",
+      "uber": "lh/larzuks_anvil",
+      "ultra": "lh/larzuks_anvil"
+    }
+  },
+  {
+    "drognans_sight": {
+      "normal": "lh/drognans_sight",
+      "uber": "lh/drognans_sight",
+      "ultra": "lh/drognans_sight"
+    }
+  },
+  {
+    "drognans_mantle": {
+      "normal": "lh/drognans_mantle",
+      "uber": "lh/drognans_mantle",
+      "ultra": "lh/drognans_mantle"
+    }
+  },
+  {
+    "drognans_staff": {
+      "normal": "lh/drognans_staff",
+      "uber": "lh/drognans_staff",
+      "ultra": "lh/drognans_staff"
+    }
+  },
+  {
+    "drognans_talisman": {
+      "normal": "lh/drognans_talisman",
+      "uber": "lh/drognans_talisman",
+      "ultra": "lh/drognans_talisman"
+    }
+  },
+  {
+    "kashyas_warbow": {
+      "normal": "lh/kashyas_warbow",
+      "uber": "lh/kashyas_warbow",
+      "ultra": "lh/kashyas_warbow"
+    }
+  },
+  {
+    "kashyas_hood": {
+      "normal": "lh/kashyas_hood",
+      "uber": "lh/kashyas_hood",
+      "ultra": "lh/kashyas_hood"
+    }
+  },
+  {
+    "kashyas_hide": {
+      "normal": "lh/kashyas_hide",
+      "uber": "lh/kashyas_hide",
+      "ultra": "lh/kashyas_hide"
+    }
+  },
+  {
+    "kashyas_stride": {
+      "normal": "lh/kashyas_stride",
+      "uber": "lh/kashyas_stride",
+      "ultra": "lh/kashyas_stride"
+    }
+  },
+  {
+    "the_black_ledger": {
+      "normal": "lh/the_black_ledger",
+      "uber": "lh/the_black_ledger",
+      "ultra": "lh/the_black_ledger"
+    }
+  },
+  {
+    "the_severed_gaze": {
+      "normal": "lh/the_severed_gaze",
+      "uber": "lh/the_severed_gaze",
+      "ultra": "lh/the_severed_gaze"
+    }
+  },
+  {
+    "the_blood_vestment": {
+      "normal": "lh/the_blood_vestment",
+      "uber": "lh/the_blood_vestment",
+      "ultra": "lh/the_blood_vestment"
+    }
+  },
+  {
+    "the_apostates_grasp": {
+      "normal": "lh/the_apostates_grasp",
+      "uber": "lh/the_apostates_grasp",
+      "ultra": "lh/the_apostates_grasp"
+    }
+  },
+  {
+    "the_apostates_cincture": {
+      "normal": "lh/the_apostates_cincture",
+      "uber": "lh/the_apostates_cincture",
+      "ultra": "lh/the_apostates_cincture"
+    }
+  },
+  {
+    "the_archive_seal": {
+      "normal": "lh/the_archive_seal",
+      "uber": "lh/the_archive_seal",
+      "ultra": "lh/the_archive_seal"
+    }
+  },
+  {
+    "fiacla_gears_antlers": {
+      "normal": "lh/fiacla_gears_antlers",
+      "uber": "lh/fiacla_gears_antlers",
+      "ultra": "lh/fiacla_gears_antlers"
+    }
+  },
+  {
+    "fiacla_gears_weathering": {
+      "normal": "lh/fiacla_gears_weathering",
+      "uber": "lh/fiacla_gears_weathering",
+      "ultra": "lh/fiacla_gears_weathering"
+    }
+  },
+  {
+    "fiacla_gears_tooth": {
+      "normal": "lh/fiacla_gears_tooth",
+      "uber": "lh/fiacla_gears_tooth",
+      "ultra": "lh/fiacla_gears_tooth"
+    }
+  },
+  {
+    "the_holy_cowl": {
+      "normal": "lh/the_holy_cowl",
+      "uber": "lh/the_holy_cowl",
+      "ultra": "lh/the_holy_cowl"
+    }
+  },
+  {
+    "hide_and_go_moo": {
+      "normal": "lh/hide_and_go_moo",
+      "uber": "lh/hide_and_go_moo",
+      "ultra": "lh/hide_and_go_moo"
+    }
+  },
+  {
+    "butterfingers": {
+      "normal": "lh/butterfingers",
+      "uber": "lh/butterfingers",
+      "ultra": "lh/butterfingers"
+    }
+  },
+  {
+    "beef_wellingtons": {
+      "normal": "lh/beef_wellingtons",
+      "uber": "lh/beef_wellingtons",
+      "ultra": "lh/beef_wellingtons"
+    }
+  },
+  {
+    "the_big_buckle": {
+      "normal": "lh/the_big_buckle",
+      "uber": "lh/the_big_buckle",
+      "ultra": "lh/the_big_buckle"
+    }
+  }
+]

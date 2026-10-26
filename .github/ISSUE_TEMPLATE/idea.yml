@@ -1,0 +1,27 @@
+name: Idea
+description: Suggest an item, a change or something new for LotH.
+title: "Idea: <in a few words>"
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What you'd like to see, and what it would add to the game.
+    validations: {required: true}
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: ["Items (uniques, sets, runewords)", "Endgame (Sanctuary Stones, the Descent)", "Campaign", "Skills and balance", "Interface and controller", "Wiki", "Other"]
+    validations: {required: true}
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The release you play, if it matters, e.g. HoradrimLegacy-0.1.0.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Examples from the game, other mods you've played, or screenshots.

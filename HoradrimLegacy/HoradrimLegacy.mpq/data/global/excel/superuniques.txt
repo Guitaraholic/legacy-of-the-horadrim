@@ -1,0 +1,216 @@
+Superunique	Name	Class	hcIdx	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC Desecrated	TC(N)	TC(N) Desecrated	TC(H)	TC(H) Desecrated	*eol
+Bishibosh	Bishibosh	fallenshaman1	0		8	9	0	2	2	1	0		11	11	11	Act 1 Super A		LH Bishibosh (N)		LH Bishibosh (H)	Act 1 (H) Super A Desecrated	0
+Bonebreak	Bonebreak	skeleton1	1		5	8	0	5	5	1	0		5	5	5	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
+Coldcrow	Coldcrow	cr_archer1	2		18	0	0	4	4	1	0		18	18	18	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
+Rakanishu	Rakanishu	fallen2	3		17	6	0	8	8	0	0	1	29	29	29	Act 1 Super B		LH Rakanishu (N)		LH Rakanishu (H)	Act 1 (H) Super B Desecrated	0
+Treehead WoodFist	Treehead WoodFist	brute2	4		5	6	0	2	2	1	0	1	4	4	4	Act 1 Super B		Act 1 (N) Super B		Act 1 (H) Super B	Act 1 (H) Super B Desecrated	0
+Griswold	Griswold	griswold	5		7	0	0	0	0	1	0	1	17	17	17	Griswold	Griswold Desecrated A	Griswold (N)	Griswold (N) Desecrated A	Griswold (H)	Griswold (H) Desecrated A	0
+The Countess	The Countess	corruptrogue3	6	countess	9	0	0	6	6	1	0		16	16	16	Countess	Countess Desecrated A	Countess (N)	Countess (N) Desecrated A	Countess (H)	Countess (H) Desecrated A	0
+Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	0	4	4	1	0		31	31	31	Act 1 Super B		Act 1 (N) Super B		Act 1 (H) Super B	Act 1 (H) Super B Desecrated	0
+Flamespike the Crawler	Flamespike the Crawler	quillrat4	8		9	7	0	6	6	1	0		16	16	16	Act 1 Unique C		Act 1 (N) Unique C		Act 1 (H) Unique C	Act 1 (H) Unique C Desecrated	0
+Boneash	Boneash	skmage_pois3	9		8	5	18	0	0	1	0		15	15	15	Act 1 Super C		Act 1 (N) Super C		Act 1 (H) Super C	Act 1 (H) Super C Desecrated	0
+Radament	Radament	radament	10		6	0	0	3	3	1	0		30	30	30	Radament	Radament Desecrated A	Radament (N)	Radament (N) Desecrated A	Radament (H)	Radament (H) Desecrated A	0
+Bloodwitch the Wild	Bloodwitch the Wild	pantherwoman1	11		5	7	0	5	5	1	0		29	29	29	Act 2 Super A		Act 2 (N) Super A		Act 2 (H) Super A	Act 2 (H) Super A Desecrated	0
+Fangskin	Fangskin	clawviper3	12		17	6	0	4	4	1	0		14	14	14	Act 2 Super B		Act 2 (N) Super B		Act 2 (H) Super B	Act 2 (H) Super B Desecrated	0
+Beetleburst	Beetleburst	scarab2	13		8	0	0	3	3	1	0	1	13	13	13	Act 2 Super B		Act 2 (N) Super B		Act 2 (H) Super B	Act 2 (H) Super B Desecrated	0
+Leatherarm	Leatherarm	mummy2	14		5	18	0	5	5	1	0		25	25	25	Act 2 Super A		Act 2 (N) Super A		Act 2 (H) Super A	Act 2 (H) Super A Desecrated	0
+Coldworm the Burrower	Coldworm the Burrower	maggotqueen1	15		18	8	0	0	0	0	0		13	13	13	Act 2 Super B		LH Coldworm (N)		LH Coldworm (H)	Act 2 (H) Super B Desecrated	0
+Fire Eye	Fire Eye	sandraider3	16		9	6	0	3	3	1	0		12	12	12	Act 2 Super B		Act 2 (N) Super B		Act 2 (H) Super B	Act 2 (H) Super B Desecrated	0
+Dark Elder	Dark Elder	darkelder	17		6	8	0	4	4	1	0	1	27	27	27	Act 2 Super B		Act 2 (N) Super B		Act 2 (H) Super B	Act 2 (H) Super B Desecrated	0
+The Summoner	The Summoner	summoner	18		5	6	0	0	0	1	0		26	26	26	Summoner	Summoner Desecrated A	Summoner (N)	Summoner (N) Desecrated A	Summoner (H)	Summoner (H) Desecrated A	0
+Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler3	19		25	5	17	3	3	1	0		11	11	11	Act 2 Super C		Act 2 (N) Super C		Act 2 (H) Super C	Act 2 (H) Super C Desecrated	0
+The Smith	The Smith	smith	20	smith	5	0	0	0	0	1	0		26	26	26	Smith	Smith Desecrated A	Smith (N)	Smith (N) Desecrated A	Smith (H)	Smith (H) Desecrated A	0
+Web Mage the Burning	Web Mage the Burning	arach4	21		5	7	0	5	5	1	0		19	19	19	Act 3 Super A		LH Sszark (N)		LH Sszark (H)	Act 3 (H) Super A Desecrated	0
+Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman4	22		8	9	0	6	6	1	0		20	20	20	Act 3 Super B		LH Endugu (N)		LH Endugu (H)	Act 3 (H) Super B Desecrated	0
+Stormtree	Stormtree	thornhulk3	23		6	17	0	4	4	1	0	1	35	35	35	Act 3 Super B		Act 3 (N) Super B		Act 3 (H) Super B	Act 3 (H) Super B Desecrated	0
+Sarina the Battlemaid	Sarina the Battlemaid	corruptrogue5	24		6	27	0	9	9	1	0	1	36	36	36	Act 3 Super B		LH Sarina (N)		LH Sarina (H)	Act 3 (H) Super B Desecrated	0
+Icehawk Riftwing	Icehawk Riftwing	batdemon3	25		18	26	0	7	7	1	0		21	21	21	Act 3 Super A		Act 3 (N) Super A		Act 3 (H) Super A	Act 3 (H) Super A Desecrated	0
+Ismail Vilehand	Ismail Vilehand	councilmember1	26		6	7	0	2	2	1	0		36	36	36	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Geleb Flamefinger	Geleb Flamefinger	councilmember2	27		5	9	0	2	2	1	0		37	37	37	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Bremm Sparkfist	Bremm Sparkfist	councilmember3	28		30	17	0	2	2	1	0		22	22	22	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Toorc Icefist	Toorc Icefist	councilmember1	29		18	28	0	0	0	1	0		23	23	23	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Wyand Voidfinger	Wyand Voidfinger	councilmember2	30		25	26	0	0	0	1	0		38	38	38	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Maffer Dragonhand	Maffer Dragonhand	councilmember3	31		5	6	0	0	0	1	0		23	23	23	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Winged Death	Winged Death	megademon3	32		5	7	0	7	7	1	0		24	24	24	Act 4 Super A		Act 4 (N) Super A		Act 4 (H) Super A	Act 4 (H) Super A Desecrated	0
+The Tormentor	The Tormentor	willowisp3	33		8	9	0	5	5	1	0		9	9	9	Act 4 Super A		LH Tormentor (N)		LH Tormentor (H)	Act 4 (H) Super A Desecrated	0
+Taintbreeder	Taintbreeder	vilemother2	34		6	0	0	6	6	1	0		10	10	10	Act 4 Super A		Act 4 (N) Super A		Act 4 (H) Super A	Act 4 (H) Super A Desecrated	0
+Riftwraith the Cannibal	Riftwraith the Cannibal	regurgitator2	35		18	26	0	8	8	1	0		25	25	25	Act 4 Super A		Act 4 (N) Super A		Act 4 (H) Super A	Act 4 (H) Super A Desecrated	0
+Infector of Souls	Infector of Souls	megademon3	36		6	27	0	9	9	1	0		26	26	26	Act 4 Super B		Act 4 (N) Super B		Act 4 (H) Super B	Act 4 (H) Super B Desecrated	0
+Lord De Seis	Lord De Seis	doomknight3	37		5	30	24	5	5	1	0		11	11	11	Act 4 Super C		LH De Seis (N)		LH De Seis (H)	Act 4 (H) Super C Desecrated	0
+Grand Vizier of Chaos	Grand Vizier of Chaos	fingermage3	38		5	9	0	9	9	1	0		26	26	26	Act 4 Super B		LH Grand Vizier (N)		LH Grand Vizier (H)	Act 4 (H) Super B Desecrated	0
+The Cow King	The Cow King	cowking	39		8	17	0	6	6	1	0		27	27	27	Cow King	Cow King Desecrated A	Cow King (N)	Cow King (N) Desecrated A	Cow King (H)	Cow King (H) Desecrated A	0
+Corpsefire	Corpsefire	zombie1	40		27	0	0	5	5	1	0		25	25	25	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
+The Feature Creep	The Feature Creep	hephasto	41	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto Desecrated A	Haphesto (N)	Haphesto (N) Desecrated A	Haphesto (H)	Haphesto (H) Desecrated A	0
+Expansion																						0
+Siege Boss	Siege Boss	overseer1	42		5	0	0	0	0	0	1		7	7	7	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Ancient Barbarian 1	Ancient Barbarian 1	ancientbarb1	43		0	0	0	0	0	0	1		25	25	25							0
+Ancient Barbarian 2	Ancient Barbarian 2	ancientbarb2	44		0	0	0	0	0	0	1		26	26	26							0
+Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11							0
+Axe Dweller	Axe Dweller	bloodlord3	46		8	9	0	2	2	0	0		20	20	20	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Bonesaw Breaker	Bonesaw Breaker	reanimatedhorde2	47		5	8	0	5	5	0	0		35	35	35	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Dac Farren	Dac Farren	imp3	48		18	0	0	4	4	0	0	1	36	36	36	Act 5 Super B		Act 5 (N) Super B		Act 5 (H) Super B	Act 5 (H) Super B Desecrated	0
+Megaflow Rectifier	Megaflow Rectifier	minion1	49		1	6	0	8	8	0	0	1	21	21	21	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Eyeback Unleashed	Eyeback Unleashed	deathmauler1	50		5	6	0	2	2	0	0		8	8	8	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Threash Socket	Threash Socket	siegebeast3	51		7	0	0	0	0	0	0		37	37	37	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Pindleskin	Pindleskin	reanimatedhorde5	52		9	0	0	6	6	0	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Snapchip Shatter	Snapchip Shatter	frozenhorror1	53		7	18	0	4	4	0	0		23	23	23	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Anodized Elite	Anodized Elite	succubus4	54		9	7	0	6	6	0	0		38	38	38	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Vinvear Molech	Vinvear Molech	succubuswitch2	55		8	5	18	0	0	0	0		23	23	23	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Sharp Tooth Sayer	Sharp Tooth Sayer	overseer3	56		6	0	0	3	3	0	0	1	24	24	24	Act 5 Super B		Act 5 (N) Super B		Act 5 (H) Super B	Act 5 (H) Super B Desecrated	0
+Magma Torquer	Magma Torquer	imp5	57		5	7	0	5	5	0	0		9	9	9	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Blaze Ripper	Blaze Ripper	deathmauler5	58		17	6	0	4	4	0	0		10	10	10	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Frozenstein	Frozenstein	snowyeti4	59		18	25	0	5	6	0	0		19	19	19	Act 5 Super C		LH Frozenstein (N)		LH Frozenstein (H)	Act 5 (H) Super C Desecrated	0
+Nihlathak Boss	Nihlathak	nihlathakboss	60		0	0	0	0	0	0	1		28	28	28	Nihlathak	Nihlathak Desecrated	Nihlathak (N)	Nihlathak (N) Desecrated	Nihlathak (H)	Nihlathak (H) Desecrated	0
+Baal Subject 1	Baal Subject 1	fallenshaman5	61		9	0	0	5	5	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 2	Baal Subject 2	unraveler5	62		23	0	0	3	3	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 3	Baal Subject 3	baalhighpriest	63		17	0	0	5	5	0	1		36	36	36	Act 5 Champ C		LH Bartuc (N)		LH Bartuc (H)	Act 5 (H) Champ C Desecrated	0
+Baal Subject 4	Baal Subject 4	venomlord	64		6	0	0	8	8	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 5	Baal Subject 5	baalminion1	65		27	0	0	5	5	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Haelric the Jailer	lh_boss_haelric	lh_boss_haelric	66		27	5	0	4	6	1	0		18	18	18	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T1 Boss 139	LH Stone T1 Boss 139	0
+Queen Araneae	lh_boss_araneae	lh_boss_araneae	67		6	7	0	4	6	1	0		19	19	19	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T2 Boss 141	LH Stone T2 Boss 141	0
+Mortlake the Grave-Keeper	lh_boss_mortlake	lh_boss_mortlake	68		18	5	0	4	6	1	0		15	15	15	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T3 Boss 143	LH Stone T3 Boss 143	0
+LH Echo Guard Bremm	Bremm Sparkfist	councilmember3	155		30	17	0	2	2	1	0		22	22	22	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Echo Guard Wyand	Wyand Voidfinger	councilmember2	156		25	26	0	2	2	1	0		38	38	38	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Echo Guard Maffer	Maffer Dragonhand	councilmember3	157		5	6	0	2	2	1	0		23	23	23	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Echo of the Butcher	lh_boss_butcher	lh_boss_butcher	69		5	6	0	4	6	1	0		12	12	12	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T4 Boss 149	LH Stone T4 Boss 149	0
+King Fahir	lh_boss_fahir	lh_boss_fahir	70		17	27	0	4	6	1	0		15	15	15	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T5 Boss 152	LH Stone T5 Boss 152	0
+The Curator	lh_boss_curator	lh_boss_curator	71		8	26	0	4	6	1	0		3	3	3	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T6 Boss 154	LH Stone T6 Boss 154	0
+Inquisitor Eldric Vosse	lh_boss_eldric	lh_boss_eldric	72		9	5	30	4	6	1	0		33	33	33	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T7 Boss 159	LH Stone T7 Boss 159	0
+The Warder of Daedessa	lh_boss_warder	lh_boss_warder	73		27	8	0	4	6	1	0		12	12	12	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T8 Boss 161	LH Stone T8 Boss 161	0
+Kharazad the Thrice-Slain	lh_boss_kharazad	lh_boss_kharazad	74		5	28	0	4	6	1	0		36	36	36	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T9 Boss 165	LH Stone T9 Boss 165	0
+Voivode Stanimir the Unthawed	lh_boss_stanimir	lh_boss_stanimir	75		18	25	0	4	6	1	0		7	7	7	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T10 Boss 167	LH Stone T10 Boss 167	0
+Osgar the Barrow-King	lh_boss_volodar	lh_boss_volodar	76		28	18	0	4	6	1	0		9	9	9	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T11 Boss 170	LH Stone T11 Boss 170	0
+Exarch Szoreth the Unbound	lh_boss_szoreth	lh_boss_szoreth	77		25	8	0	4	6	1	0		12	12	12	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T12 Boss 173	LH Stone T12 Boss 173	0
+Echo of Juris Khan	lh_boss_juriskhan	lh_boss_juriskhan	78		8	27	0	4	6	1	0		15	15	15	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T13 Boss 176	LH Stone T13 Boss 176	0
+Echo of Inarius	lh_boss_inarius	lh_echo_inarius	79		8	17	30	4	6	1	0		3	3	3	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T14 Boss 178	LH Stone T14 Boss 178	0
+Echo of Tal Rasha	lh_boss_talrasha	lh_boss_talrasha	80		17	27	0	4	6	1	0		33	33	33	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T15 Boss 183	LH Stone T15 Boss 183	0
+Qadir the Entombed	lh_boss_qadir	lh_boss_qadir	110		28	17	0	4	6	1	0		12	12	12	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T1 Boss 140	LH Stone T1 Boss 140	0
+Wulfric the Cocooned	lh_boss_wulfric	lh_boss_wulfric	111		7	5	0	4	6	1	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T2 Boss	LH Stone T2 Boss	0
+Sadiq the Poisoner	lh_boss_sadiq	lh_boss_sadiq	112		7	8	25	4	6	1	0		30	30	30	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T2 Boss 142	LH Stone T2 Boss 142	0
+Elspeth the Unburied	lh_boss_elspeth	lh_boss_elspeth	113		27	18	0	4	6	1	0		9	9	9	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T3 Boss	LH Stone T3 Boss	0
+Vhassun the Unshriven	lh_boss_vhassun	lh_boss_vhassun	114		9	5	30	4	6	1	0		36	36	36	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T3 Boss 144	LH Stone T3 Boss 144	0
+Gnashrik	lh_boss_gnashrik	lh_boss_gnashrik	115		9	6	0	4	6	1	0		27	27	27	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T1 Boss	LH Stone T1 Boss	0
+Qasirah the Sunflayer	lh_boss_qasirah	lh_boss_qasirah	116		9	6	5	4	6	1	0		18	18	18	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T4 Boss 148	LH Stone T4 Boss 148	0
+Rahkesh the Pale Claw	lh_boss_rahkesh	lh_boss_rahkesh	117		6	5	0	4	6	1	0		19	19	19	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T4 Boss 150	LH Stone T4 Boss 150	0
+Ngozu the Bound	lh_boss_ngozu	lh_boss_ngozu	118		7	9	0	4	6	1	0		30	30	30	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T5 Boss 151	LH Stone T5 Boss 151	0
+Kwazu the Doll-Maker	lh_boss_kwazu	lh_boss_kwazu	119		9	6	0	4	6	1	0		7	7	7	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T5 Boss	LH Stone T5 Boss	0
+Aldous Vane the Salt-Jailer	lh_boss_aldous	lh_boss_aldous	120		18	25	0	4	6	1	0		36	36	36	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T5 Boss 153	LH Stone T5 Boss 153	0
+Mordrick the Blightwarden	lh_boss_mordrick	lh_boss_mordrick	152		5	7	0	4	6	1	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T1 Boss 145	LH Stone T1 Boss 145	0
+Kezzhar Saltfang	lh_boss_kezzhar	lh_boss_kezzhar	153		9	6	0	4	6	1	0		36	36	36	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T2 Boss 146	LH Stone T2 Boss 146	0
+Wenna Rotbow	lh_boss_wenna	lh_boss_wenna	154		29	7	0	4	6	1	0		19	19	19	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T3 Boss 147	LH Stone T3 Boss 147	0
+Toghrul Saltbinder	lh_boss_toghrul	lh_boss_toghrul	96		9	7	0	4	6	1	0		4	4	4	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T6 Boss 155	LH Stone T6 Boss 155	0
+Oyuun the Ash-Mother	lh_boss_oyuun	lh_boss_oyuun	97		9	5	0	4	6	1	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T6 Boss	LH Stone T6 Boss	0
+Ixtzal the Plague-Drum	lh_boss_ixtzal	lh_boss_ixtzal	98		7	6	0	4	6	1	0		16	16	16	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T6 Boss 156	LH Stone T6 Boss 156	0
+Vizier Kharos Dhal	lh_boss_kharos	lh_boss_kharos	99		26	8	17	4	6	1	0		29	29	29	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T7 Boss 157	LH Stone T7 Boss 157	0
+Ssithraxa the Brood-Mother	lh_boss_ssithraxa	lh_boss_ssithraxa	100		9	7	0	4	6	1	0		10	10	10	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T7 Boss 158	LH Stone T7 Boss 158	0
+Brannoch Barkbound	lh_boss_brannoch	lh_boss_brannoch	101		18	5	0	4	6	1	0		26	26	26	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T8 Boss 160	LH Stone T8 Boss 160	0
+Grenhorn the Moon-Howler	lh_boss_grenhorn	lh_boss_grenhorn	102		6	30	0	4	6	1	0		20	20	20	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T8 Boss	LH Stone T8 Boss	0
+Kyrene the Oathbreaker	lh_boss_kyrene	lh_boss_kyrene	103		9	6	0	4	6	0	0		13	13	13	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T8 Boss 162	LH Stone T8 Boss 162	0
+Ancient Imhar the Sleepless	lh_boss_imhar	lh_boss_imhar	104		18	27	26	4	6	1	0		31	31	31	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T9 Boss 163	LH Stone T9 Boss 163	0
+Sahra the Night-Veiled	lh_boss_sahra	lh_boss_sahra	105		27	25	0	4	6	1	0		24	24	24	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T9 Boss	LH Stone T9 Boss	0
+Gharruk Bloodhorn	lh_boss_gharruk	lh_boss_gharruk	106		5	7	0	4	6	1	0		37	37	37	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T9 Boss 164	LH Stone T9 Boss 164	0
+Grimskar Hearthbane	lh_boss_grimskar	lh_boss_grimskar	107		18	5	0	4	6	1	0		8	8	8	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T10 Boss 166	LH Stone T10 Boss 166	0
+Hrimgar the Rime-Maw	lh_boss_hrimgar	lh_boss_hrimgar	108		18	6	0	4	6	1	0		35	35	35	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T10 Boss	LH Stone T10 Boss	0
+Keeper Sharaz	lh_boss_mingzhao	lh_boss_mingzhao	109		17	26	8	4	6	1	0		17	17	17	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T10 Boss 168	LH Stone T10 Boss 168	0
+Varkhos the Siegemaster	lh_boss_varkhos	lh_boss_varkhos	130		5	28	0	4	6	1	0		27	27	27	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T11 Boss 169	LH Stone T11 Boss 169	0
+Ashkarn, Ram-Lord of Destruction	lh_boss_ashkarn	lh_boss_ashkarn	131		9	6	0	4	6	1	0		3	3	3	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T11 Boss	LH Stone T11 Boss	0
+Durgash, Sapper of Destruction	lh_boss_durgash	lh_boss_durgash	132		5	18	0	4	6	1	0		12	12	12	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T11 Boss	LH Stone T11 Boss	0
+Zhulmeq the Undermaw	lh_boss_zhulmeq	lh_boss_zhulmeq	133		17	28	0	4	6	1	0		33	33	33	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T11 Boss 171	LH Stone T11 Boss 171	0
+Mother Ilka of the Black Reeds	lh_boss_ilka	lh_boss_ilka	134		7	6	25	4	6	1	0		18	18	18	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T12 Boss 172	LH Stone T12 Boss 172	0
+Bertalan the Bog-Fed	lh_boss_bertalan	lh_boss_bertalan	135		5	28	0	4	6	1	0		15	15	15	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T12 Boss	LH Stone T12 Boss	0
+Zhivena the Ice-Widow	lh_boss_zhivena	lh_boss_zhivena	136		18	27	0	4	6	1	0		19	19	19	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T12 Boss 174	LH Stone T12 Boss 174	0
+Ulfrik Cinderhand	lh_boss_ulfrik	lh_boss_ulfrik	137		9	18	5	4	6	1	0		30	30	30	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T13 Boss 175	LH Stone T13 Boss 175	0
+Ragnhild the Ash-Bride	lh_boss_ragnhild	lh_boss_ragnhild	138		7	9	0	4	6	1	0		18	18	18	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T13 Boss	LH Stone T13 Boss	0
+Vulgrath, Torch of Destruction	lh_boss_vulgrath	lh_boss_vulgrath	139		9	6	0	4	6	1	0		19	19	19	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T13 Boss	LH Stone T13 Boss	0
+The Ice-Drowned Mystic	lh_boss_mystic	lh_boss_mystic	140		7	25	27	4	6	1	0		36	36	36	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T13 Boss 177	LH Stone T13 Boss 177	0
+Ailill the Last Heir	lh_boss_ailill	lh_boss_ailill	141		27	26	0	4	6	1	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T13 Boss	LH Stone T13 Boss	0
+Echo of Bartuc, Warlord of Blood	lh_boss_bartuc	lh_boss_bartuc	142		5	9	30	4	6	1	0		7	7	7	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T14 Boss 179	LH Stone T14 Boss 179	0
+Haddar the Blood-Sworn	lh_boss_haddar	lh_boss_haddar	143		9	26	0	4	6	1	0		27	27	27	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T14 Boss	LH Stone T14 Boss	0
+Skarvath, Thrall of the Warlord	lh_boss_skarvath	lh_boss_skarvath	144		9	5	0	4	6	1	0		30	30	30	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T14 Boss	LH Stone T14 Boss	0
+Vhastrol, Jailer of Hatred	lh_boss_vhastrol	lh_boss_vhastrol	145		25	18	26	4	6	1	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T14 Boss 180	LH Stone T14 Boss 180	0
+Prelate Ossan the Chained	lh_boss_ossan	lh_boss_ossan	146		17	25	0	4	6	1	0		33	33	33	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T14 Boss	LH Stone T14 Boss	0
+Ghorvax, Herald of Destruction	lh_boss_ghorvax	lh_boss_ghorvax	147		9	18	17	4	6	1	0		27	27	27	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T15 Boss 181	LH Stone T15 Boss 181	0
+Echo of Lazarus	lh_boss_lazarus	lh_boss_lazarus	148		26	9	25	4	6	1	0		9	9	9	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T15 Boss 182	LH Stone T15 Boss 182	0
+Echo of Red Vex	lh_boss_redvex	lh_boss_redvex	149		9	6	0	4	6	1	0		36	36	36	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T15 Boss	LH Stone T15 Boss	0
+Echo of Black Jade	lh_boss_blackjade	lh_boss_blackjade	150		18	7	0	4	6	1	0		7	7	7	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T15 Boss	LH Stone T15 Boss	0
+Zarkhesh, Seeker of Destruction	lh_boss_zarkhesh	lh_boss_zarkhesh	151		17	6	0	4	6	1	0		9	9	9	Act 5 Super Cx		Act 5 (N) Super Cx		LH Stone T15 Boss	LH Stone T15 Boss	0
+LH Echo Mephisto	lh_mon_echo_mephisto	lh_echo_mephisto	182		0	0	0	0	0	0	0		2	3	4	LH Echo I Normal	LH Echo I Normal	LH Echo I Nightmare	LH Echo I Nightmare	LH Echo I	LH Echo I	0
+LH Echo Andariel	lh_mon_echo_andariel	lh_echo_andariel	183		0	0	0	0	0	0	0		2	3	4	LH Echo II Normal	LH Echo II Normal	LH Echo II Nightmare	LH Echo II Nightmare	LH Echo II	LH Echo II	0
+LH Echo Duriel	lh_mon_echo_duriel	lh_echo_duriel	184		0	0	0	0	0	0	0		2	3	4	LH Echo III Normal	LH Echo III Normal	LH Echo III Nightmare	LH Echo III Nightmare	LH Echo III	LH Echo III	0
+LH Echo Diablo	lh_mon_echo_diablo	lh_echo_diablo	185		0	0	0	0	0	0	0		2	3	4	LH Echo IV Normal	LH Echo IV Normal	LH Echo IV Nightmare	LH Echo IV Nightmare	LH Echo IV	LH Echo IV	0
+LH Echo Baal	lh_mon_echo_baal	lh_echo_baal	186		0	0	0	0	0	0	0		2	3	4	LH Echo V Normal	LH Echo V Normal	LH Echo V Nightmare	LH Echo V Nightmare	LH Echo V	LH Echo V	0
+LH Unborn Mephisto	LH Unborn Mephisto	lh_unborn_mephisto	187		17	6	0	0	0	0	0		2	3	4	LH Echo I Normal	LH Echo I Normal	LH Echo I Nightmare	LH Echo I Nightmare	LH Convergence Mephisto	LH Convergence Mephisto	0
+LH Unborn Andariel	LH Unborn Andariel	lh_unborn_andariel	188		23	6	29	0	0	0	0		2	3	4	LH Echo II Normal	LH Echo II Normal	LH Echo II Nightmare	LH Echo II Nightmare	LH Convergence Andariel	LH Convergence Andariel	0
+LH Unborn Duriel	LH Unborn Duriel	lh_unborn_duriel	189		6	18	0	0	0	0	0		2	3	4	LH Echo III Normal	LH Echo III Normal	LH Echo III Nightmare	LH Echo III Nightmare	LH Convergence Duriel	LH Convergence Duriel	0
+LH Unborn Diablo	LH Unborn Diablo	lh_unborn_diablo	190		8	6	0	0	0	0	0		2	3	4	LH Echo IV Normal	LH Echo IV Normal	LH Echo IV Nightmare	LH Echo IV Nightmare	LH Convergence Diablo	LH Convergence Diablo	0
+LH Unborn Baal	LH Unborn Baal	lh_unborn_baal	191		18	8	6	0	0	0	0		2	3	4	LH Echo V Normal	LH Echo V Normal	LH Echo V Nightmare	LH Echo V Nightmare	LH Convergence Baal	LH Convergence Baal	0
+LH Seal I Boss	lh_name_seal_i_01	lh_seal_azmodan	192		0	0	0	0	0	0	0		0	0	0	LH Seal I		LH Seal I		LH Seal I	LH Seal I	0
+LH Seal I Lt 1	lh_name_seal_i_02	regurgitator3	193		0	0	0	3	5	1	0		0	0	0	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx		0
+LH Seal I Lt 2	lh_name_seal_i_03	succubus4	194		0	0	0	3	5	1	0		0	0	0	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx		0
+LH Seal I Lt 3	lh_name_seal_i_04	overseer3	195		0	0	0	3	5	1	0		0	0	0	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx		0
+LH Seal III Boss 1	lh_name_seal_iii_01	lh_seal_iii_vardek	206		7	0	0	0	0	0	0		22	22	22	LH Seal III Vardek		LH Seal III Vardek		LH Seal III Vardek	LH Seal III Vardek	0
+LH Seal III Boss 2	lh_name_seal_iii_02	lh_seal_iii_sevra	207		6	0	0	0	0	0	0		22	22	22	LH Seal III		LH Seal III		LH Seal III	LH Seal III	0
+LH Seal III Lt 1	lh_name_seal_iii_03	skmage_cold4	208		0	0	0	0	0	0	0					Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx		0
+LH Seal V Boss	lh_name_seal_v_01	lh_seal_kulle	216		0	0	0	0	0	0	0		26	26	26	LH Seal V	Summoner Desecrated A	LH Seal V	Summoner (N) Desecrated A	LH Seal V	LH Seal V	0
+LH Seal V Lt 1	lh_name_seal_v_02	skmage_ltng4	217		0	0	0	3	4	1	0		15	15	15	Act 1 Super C		Act 1 (N) Super C		Act 1 (H) Super C	Act 1 (H) Super C Desecrated	0
+LH Seal V Lt 2	lh_name_seal_v_03	unraveler8	218		0	0	0	0	0	1	0		11	11	11	Act 2 Super C		Act 2 (N) Super C		Act 2 (H) Super C	Act 2 (H) Super C Desecrated	0
+LH Heaven Host	lh_name_heaven_01	lh_heaven_host	219		0	0	0	0	0	0	0		3	3	3	LH Heaven Summit	Act 5 Super Cx	LH Heaven Summit	Act 5 (N) Super Cx	LH Heaven Summit	LH Heaven Summit	0
+LH Heaven Lt 1	lh_name_heaven_02	lh_heaven_lieutenant	220		0	0	0	0	0	1	0		3	3	3	Act 5 Super Cx	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	Act 5 (H) Super Cx	0
+LH Heaven Lt 2	lh_name_heaven_03	lh_heaven_lieutenant	221		0	0	0	0	0	1	0		3	3	3	Act 5 Super Cx	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	Act 5 (H) Super Cx	0
+LH Heaven Lt 3	lh_name_heaven_04	lh_heaven_lieutenant	222		0	0	0	0	0	1	0		3	3	3	Act 5 Super Cx	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	Act 5 (H) Super Cx	0
+LH Seal II Boss 1	lh_mon_belial	lh_belial_council	196		18	0	0	0	0	0	0		2	3	4	LH Seal II		LH Seal II		LH Seal II	LH Seal II	0
+LH Seal II Boss 2	lh_mon_belial	lh_belial_witch	197		18	0	0	0	0	0	0		2	3	4	LH Seal II		LH Seal II		LH Seal II	LH Seal II	0
+LH Seal II Boss 3	lh_mon_belial	lh_belial_shaman	198		18	0	0	0	0	0	0		2	3	4	LH Seal II		LH Seal II		LH Seal II	LH Seal II	0
+LH Seal II Boss 4	lh_mon_belial	lh_belial_ancient	199		18	0	0	0	0	0	0		2	3	4	LH Seal II		LH Seal II		LH Seal II	LH Seal II	0
+LH Seal II Boss 5	lh_mon_belial	lh_belial_knight	200		18	0	0	0	0	0	0		2	3	4	LH Seal II		LH Seal II		LH Seal II	LH Seal II	0
+LH Seal II Decoy 1	lh_mon_belial	lh_belial_council_decoy	201		18	0	0	0	0	0	0		2	3	4							0
+LH Seal II Decoy 2	lh_mon_belial	lh_belial_witch_decoy	202		18	0	0	0	0	0	0		2	3	4							0
+LH Seal II Decoy 3	lh_mon_belial	lh_belial_shaman_decoy	203		18	0	0	0	0	0	0		2	3	4							0
+LH Seal II Decoy 4	lh_mon_belial	lh_belial_ancient_decoy	204		18	0	0	0	0	0	0		2	3	4							0
+LH Seal II Decoy 5	lh_mon_belial	lh_belial_knight_decoy	205		18	0	0	0	0	0	0		2	3	4							0
+LH Seal IV Boss	lh_name_seal_iv_01	lh_seal_bartuc	209		0	0	0	0	0	1	0		36	36	36	LH Seal IV	Council Desecrated A	LH Seal IV	Council (N) Desecrated A	LH Seal IV	LH Seal IV	0
+LH Seal IV Lt 1	Ismail Vilehand	councilmember1	210		6	7	0	2	2	1	0		36	36	36	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Seal IV Lt 2	Geleb Flamefinger	councilmember2	211		5	9	0	2	2	1	0		37	37	37	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Seal IV Lt 3	Bremm Sparkfist	councilmember3	212		30	17	0	2	2	1	0		22	22	22	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Seal IV Lt 4	Toorc Icefist	councilmember1	213		18	28	0	2	2	1	0		23	23	23	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Seal IV Lt 5	Wyand Voidfinger	councilmember2	214		25	26	0	2	2	1	0		38	38	38	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Seal IV Lt 6	Maffer Dragonhand	councilmember3	215		5	6	0	2	2	1	0		23	23	23	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Clone Diablo	lh_name_clone_diablo	lh_clone_diablo	223		0	0	0	0	0	0	1		2	3	4	ROP	ROP	ROP (N)	ROP (N)	LH Clone	LH Clone	0
+LH Abyss Guard Lusk	lh_abyss_guard_lusk	councilmember3	227		30	17	0	2	2	1	0		22	22	22	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Abyss Guard Fennow	lh_abyss_guard_fennow	councilmember2	228		25	26	0	2	2	1	0		38	38	38	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+LH Abyss Guard Nabbek	lh_abyss_guard_nabbek	councilmember3	229		5	6	0	2	2	1	0		23	23	23	Council	Council Desecrated A	Council (N)	Council (N) Desecrated A	Council (H)	Council (H) Desecrated A	0
+Ithmar the Waykeeper	lh_boss_ithmar	lh_boss_ithmar	232		8	0	0	2	2	1	0		0	0	0	LH Ithmar	LH Ithmar	LH Ithmar (N)	LH Ithmar (N)	LH Ithmar (H)	LH Ithmar (H)	0
+LH Vault Prize	lh_boss_gildedwretch	lh_boss_gildedwretch	233		0	0	0	0	0	0	0		0	0	0	LH Vault Prize	LH Vault Prize	LH Vault Prize	LH Vault Prize	LH Vault Prize	LH Vault Prize	0
+LH Vigil Guardian	lh_name_vigil_guardian	lh_vigil_guardian	238		6	0	0	0	0	0	0		0	0	0					LH Vigil Rewards	LH Vigil Rewards	0
+LH Vigil Barrow	lh_name_vigil_barrow	lh_vigil_barrow	234		0	0	0	0	0	0	0		0	0	0					LH Vigil Shade Rewards	LH Vigil Shade Rewards	0
+LH Vigil Tomb	lh_name_vigil_tomb	lh_vigil_tomb	235		0	0	0	0	0	0	0		0	0	0					LH Vigil Shade Rewards	LH Vigil Shade Rewards	0
+LH Vigil Rime	lh_name_vigil_rime	lh_vigil_rime	236		0	0	0	0	0	0	0		0	0	0					LH Vigil Shade Rewards	LH Vigil Shade Rewards	0
+LH Vigil Forge	lh_name_vigil_forge	lh_vigil_forge	237		0	0	0	0	0	0	0		0	0	0					LH Vigil Shade Rewards	LH Vigil Shade Rewards	0
+LH Pail Cow King	lh_name_pail_cow_king	lh_pailcowking	239		8	17	18	0	0	1	0		27	27	27	Cow King	Cow King Desecrated A	Cow King (N)	Cow King (N) Desecrated A	LH Pail Cow King (H)	Cow King (H) Desecrated A	0
+Zahir the Caravan-Bane	lh_warden_zahir	lh_warden_zahir	158		6	5	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Szelith, Lash of Anguish	lh_warden_szelith	lh_warden_szelith	159		7	6	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Sabbar the Brass-Shelled	lh_warden_sabbar	lh_warden_sabbar	160		17	28	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Aveline the Faithless	lh_warden_aveline	lh_warden_aveline	161		6	27	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Zayid the Unwound	lh_warden_zayid	lh_warden_zayid	162		25	26	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Brukhaz the Pyre-Horn	lh_warden_brukhaz	lh_warden_brukhaz	163		9	5	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Kethran the Burnt Adept	lh_warden_kethran	lh_warden_kethran	164		9	26	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Ulgrim Rimehide	lh_warden_ulgrim	lh_warden_ulgrim	165		18	5	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Ixxar, Kindler of Destruction	lh_warden_ixxar	lh_warden_ixxar	166		26	9	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Mazrukh the Root-Gnawer	lh_warden_mazrukh	lh_warden_mazrukh	167		5	28	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Ashuran the Bloodless	lh_warden_ashuran	lh_warden_ashuran	168		25	9	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Hrogn the Cliff-Breaker	lh_warden_hrogn	lh_warden_hrogn	169		5	28	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Sarduun, Banneret of Terror	lh_warden_sarduun	lh_warden_sarduun	170		7	25	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Kjeld the Twice-Buried	lh_warden_kjeld	lh_warden_kjeld	171		18	28	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Osric Hollowhelm	lh_warden_osric	lh_warden_osric	172		9	28	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Draxxul the Gate-Burner	lh_warden_draxxul	lh_warden_draxxul	173		9	5	0	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Sszugra the Mire-Crowned	lh_warden_sszugra	lh_warden_sszugra	174		7	25	6	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Gulgrath the Ever-Hungry	lh_warden_gulgrath	lh_warden_gulgrath	175		5	28	18	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Vharoth, Reaver of Hatred	lh_warden_vharoth	lh_warden_vharoth	176		27	5	9	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Murgash the Brood-Keeper	lh_warden_murgash	lh_warden_murgash	177		7	25	28	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Morvaine, Seneschal of Terror	lh_warden_morvaine	lh_warden_morvaine	178		26	18	25	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Ngaro the Soul-Eater	lh_warden_ngaro	lh_warden_ngaro	179		9	6	26	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Kaldurak, Warbringer of Destruction	lh_warden_kaldurak	lh_warden_kaldurak	180		9	5	6	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Ssahrak the Seventh Coil	lh_warden_ssahrak	lh_warden_ssahrak	181		17	26	7	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Pelzar, Tongue of Hatred	lh_warden_pelzar	lh_warden_pelzar	224		27	5	9	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Zerrath, Castellan of Terror	lh_warden_zerrath	lh_warden_zerrath	225		26	18	25	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
+Jorrak, Despoiler of Destruction	lh_warden_jorrak	lh_warden_jorrak	226		9	5	6	6	14	1	1		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0

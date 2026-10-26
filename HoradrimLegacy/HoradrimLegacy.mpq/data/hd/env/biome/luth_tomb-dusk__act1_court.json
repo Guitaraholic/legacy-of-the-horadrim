@@ -1,0 +1,6124 @@
+{
+  "dependencies": {
+    "particles": [],
+    "models": [
+      {
+        "path": "data/hd/env/model/global/decorator/act1/barracks/stones/brick02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/barracks/stones/brick03.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/barracks/stones/brick04.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/barracks/stones/brick05.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/barracks/stones/brick06.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange01.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_grass/grass_clump02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles_cluster02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles04.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds_patch01.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds01.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds02.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds03.model"
+      },
+      {
+        "path": "data/hd/env/model/global/decorator/act3/act3_jungle_sticks/stick03.model"
+      }
+    ],
+    "skeletons": [],
+    "animations": [],
+    "textures": [
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_daisies_alb.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_daisies_B.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_daisies_nrm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_daisies_orm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_grassclumps_alb.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_grassclumps_nrm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_grassclumps_orm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_poppies_alb.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_poppies_B.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_poppies_nrm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_poppies_orm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_weeds_alb.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_weeds_B.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_weeds_nrm.texture"
+      },
+      {
+        "path": "data/hd/env/foliage/global/texture/act1_weeds_orm.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_cottages/act1_outdoors_cottages_cottage01_c_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_cottages/act1_outdoors_cottages_cottage01_c_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_cottages/act1_outdoors_cottages_cottage01_c_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_markers/act1_Stones_dt1_Rocks_01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_markers/act1_Stones_dt1_Rocks_01_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_markers/act1_Stones_dt1_Rocks_01_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_stones/act1_outdoors_stones_fieldstone01_b_alb.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_stones/act1_outdoors_stones_fieldstone01_b_nrm.texture"
+      },
+      {
+        "path": "data/hd/env/texture/act1/outdoors/act1_outdoors_stones/act1_outdoors_stones_fieldstone01_b_orm.texture"
+      },
+      {
+        "path": "data/hd/env/texture/global/decorator/act3/act3_stick01_alb.texture"
+      },
+      {
+        "path": "data/hd/env/texture/global/decorator/act3/act3_stick01_nrm.texture"
+      },
+      {
+        "path": "data/hd/env/texture/global/decorator/act3/act3_stick01_orm.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood02_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_low_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_low_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_low_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_NRM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ORM.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas01_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas02_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_outline_NOISE.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/noise/act1/caves_mud_outline_NOISE.texture"
+      },
+      {
+        "path": "data/hd/env/texture/terrain/noise/act3/sewer_sewage01_NOISE.texture"
+      }
+    ],
+    "physics": [],
+    "json": [
+      {
+        "path": "data/hd/env/tilemasks/tile_masks.json"
+      },
+      {
+        "path": "data/hd/env/vis/luth_tomb-dusk.json"
+      }
+    ],
+    "variantdata": [],
+    "objecteffects": [],
+    "other": [
+      {
+        "path": "data/hd/env/ibl/act1_outdoors_CUBEMAP.ibls"
+      }
+    ]
+  },
+  "type": "Biome",
+  "name": "luth_tomb-dusk__act1_court",
+  "visualDataFilenames": [
+    {
+      "type": "BiomeVisualDataFile",
+      "name": "BiomeVisualDataFile1",
+      "visualDataFilename": "data/hd/env/vis/luth_tomb-dusk.json"
+    },
+    {
+      "type": "BiomeVisualDataFile",
+      "name": "BiomeVisualDataFile2",
+      "visualDataFilename": "data/hd/env/vis/luth_tomb-dusk.json"
+    },
+    {
+      "type": "BiomeVisualDataFile",
+      "name": "BiomeVisualDataFile3",
+      "visualDataFilename": "data/hd/env/vis/luth_tomb-dusk.json"
+    },
+    {
+      "type": "BiomeVisualDataFile",
+      "name": "BiomeVisualDataFile4",
+      "visualDataFilename": "data/hd/env/vis/luth_tomb-dusk.json"
+    },
+    {
+      "type": "BiomeVisualDataFile",
+      "name": "BiomeVisualDataFile5",
+      "visualDataFilename": "data/hd/env/vis/luth_tomb-dusk.json"
+    },
+    {
+      "type": "BiomeVisualDataFile",
+      "name": "BiomeVisualDataFile6",
+      "visualDataFilename": "data/hd/env/vis/luth_tomb-dusk.json"
+    }
+  ],
+  "iblSettings": {
+    "type": "ImageBasedLightingSettings",
+    "name": "ibl_settings",
+    "cubemapFilename": "data/hd/env/ibl/act1_outdoors_CUBEMAP.ibls"
+  },
+  "tileMaskFilename": "data/hd/env/tilemasks/tile_masks.json",
+  "terrainDataUltra": {
+    "type": "TerrainData",
+    "name": "act1_court_terrainDataUltra",
+    "terrainLayers": [
+      {
+        "type": "TerrainLayer",
+        "name": "terrain_layers_10",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.212,
+        "NoiseScale": 0.632,
+        "NoiseTilingOffset": -0.234,
+        "HeightBias": -0.161,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 4
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "court_moss01",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.4,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 1.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.55,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "court_moss01_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles02.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.273
+            },
+            "Sink": {
+              "x": -0.069,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_moss01_Clutter_5",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles04.model",
+            "Density": 0.25,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": -0.9,
+              "y": 0.0
+            },
+            "RotationMax": 111.25,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_moss01_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act3/act3_jungle_sticks/stick03.model",
+            "Density": 0.55,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_moss01_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.4,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_moss01_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.8,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_moss01_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles_cluster02.model",
+            "Density": 0.6,
+            "Scale": {
+              "x": 0.37,
+              "y": 1.2
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": -0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 0.86,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.0,
+          "y": 0.5882353,
+          "z": 0.1803922
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "court_grass01",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas01_ALB.texture",
+        "GrassAtlas": {
+          "x": 6,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 1.0,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.576,
+        "NormalIntensity": 1.5,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.0,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "court_grass01_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds02.model",
+            "Density": 0.1,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.1
+            },
+            "RotationMax": 115.625,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_grass01_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds_patch01.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_grass01_Clutter_8",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_grass/grass_clump02.model",
+            "Density": 0.05,
+            "Scale": {
+              "x": 0.35,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.7,
+        "GrassDensityVariation": {
+          "x": 0.2,
+          "y": 0.6,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.6,
+          "y": 1.5
+        },
+        "GrassHeightVariation": {
+          "x": 0.4,
+          "y": 1.5,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 2.0,
+          "y": 4.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.56,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.9176471,
+          "y": 0.9176471,
+          "z": 0.9176471
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.6,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.08,
+          "y": 2.0,
+          "z": 2.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.5,
+          "y": 0.5
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 1.25,
+          "y": 1.75
+        },
+        "GrassBendVariation": {
+          "x": 0.4,
+          "y": 0.3,
+          "z": 2.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.6,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 0.6,
+          "z": 1.4
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "court_grass02",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas02_ALB.texture",
+        "GrassAtlas": {
+          "x": 3,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.4,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.3,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.3,
+        "ParallaxScale": 0.1,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.05,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "court_grass02_Clutter_17",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds03.model",
+            "Density": 0.15,
+            "Scale": {
+              "x": 0.7,
+              "y": 0.9
+            },
+            "Sink": {
+              "x": -0.5,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_grass02_Clutter_12",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.5
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_grass02_Clutter_13",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_grass02_Clutter_15",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.3
+            },
+            "Sink": {
+              "x": -0.05,
+              "y": 0.15
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_grass02_Clutter_16",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 1.0,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.8,
+        "GrassDensityVariation": {
+          "x": 2.0,
+          "y": 1.0,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.5,
+          "y": 1.25
+        },
+        "GrassHeightVariation": {
+          "x": 0.5,
+          "y": 1.5,
+          "z": 2.0
+        },
+        "GrassWidthScale": {
+          "x": 4.0,
+          "y": 7.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.7921569,
+          "y": 0.7921569,
+          "z": 0.7921569
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.187,
+          "y": 0.604,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.1,
+          "y": 2.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -1.0,
+          "y": 0.2
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.7,
+          "y": 1.2
+        },
+        "GrassBendVariation": {
+          "x": 0.1,
+          "y": 0.4,
+          "z": 1.308
+        },
+        "GrassBendHeightPower": 1.156,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "court_cobblestone01",
+        "FootstepMaterial": "ostone",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.078,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.431,
+        "HeightBias": 0.789,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "terrain_layers_11",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "wet",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act3/sewer_sewage01_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.24,
+        "NoiseTilingOffset": 0.031,
+        "HeightBias": 0.236,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "court_dirt01",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.636,
+        "HeightBias": -0.494,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.35,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "court_dirt01_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick02.model",
+            "Density": 1.0,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_dirt01_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick03.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.75,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_dirt01_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick04.model",
+            "Density": 0.35,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.4
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_dirt01_Clutter_3",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick05.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "court_dirt01_Clutter_4",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick06.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "terrain_layers_8",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.195,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "terrain_layers_9",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.24,
+        "ParallaxScale": 0.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "terrain_layers_7",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "Blood",
+        "Albedo": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.074,
+        "NoiseScale": 0.544,
+        "NoiseTilingOffset": -0.326,
+        "HeightBias": -0.514,
+        "ParallaxScale": 0.226,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      }
+    ],
+    "terrainModelBlendSettings": {
+      "type": "TerrainModelBlendSettingsDesc",
+      "name": "act1_court_terrainModelBlendSettings",
+      "low": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainModelBlendSettings_low",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "medium": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainModelBlendSettings_medium",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "high": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainModelBlendSettings_high",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      }
+    },
+    "pathSmoothingWeight": 0.0,
+    "pathEdgeThresholdMin": 1.0,
+    "pathEdgeThresholdMax": 1.0,
+    "pathEdgeIndex": 0
+  },
+  "terrainDataHigh": {
+    "type": "TerrainData",
+    "name": "act1_court_terrainDataUltra001",
+    "terrainLayers": [
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_10",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.212,
+        "NoiseScale": 0.632,
+        "NoiseTilingOffset": -0.234,
+        "HeightBias": -0.161,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 4
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_1",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.4,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 1.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.55,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_1_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles02.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.273
+            },
+            "Sink": {
+              "x": -0.069,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_1_Clutter_5",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles04.model",
+            "Density": 0.25,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": -0.9,
+              "y": 0.0
+            },
+            "RotationMax": 111.25,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_1_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act3/act3_jungle_sticks/stick03.model",
+            "Density": 0.55,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_1_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.4,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_1_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.8,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_1_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles_cluster02.model",
+            "Density": 0.6,
+            "Scale": {
+              "x": 0.37,
+              "y": 1.2
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": -0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 0.86,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.0,
+          "y": 0.5882353,
+          "z": 0.1803922
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_2",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas01_ALB.texture",
+        "GrassAtlas": {
+          "x": 6,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 1.0,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.576,
+        "NormalIntensity": 1.5,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.0,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_2_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds02.model",
+            "Density": 0.1,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.1
+            },
+            "RotationMax": 115.625,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_2_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds_patch01.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_2_Clutter_8",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_grass/grass_clump02.model",
+            "Density": 0.05,
+            "Scale": {
+              "x": 0.35,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.7,
+        "GrassDensityVariation": {
+          "x": 0.2,
+          "y": 0.6,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.6,
+          "y": 1.5
+        },
+        "GrassHeightVariation": {
+          "x": 0.4,
+          "y": 1.5,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 2.0,
+          "y": 4.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.56,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.9176471,
+          "y": 0.9176471,
+          "z": 0.9176471
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.6,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.08,
+          "y": 2.0,
+          "z": 2.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.5,
+          "y": 0.5
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 1.25,
+          "y": 1.75
+        },
+        "GrassBendVariation": {
+          "x": 0.4,
+          "y": 0.3,
+          "z": 2.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.6,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 0.6,
+          "z": 1.4
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_3",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas02_ALB.texture",
+        "GrassAtlas": {
+          "x": 3,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.4,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.3,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.3,
+        "ParallaxScale": 0.1,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.05,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_3_Clutter_17",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds03.model",
+            "Density": 0.15,
+            "Scale": {
+              "x": 0.7,
+              "y": 0.9
+            },
+            "Sink": {
+              "x": -0.5,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_3_Clutter_12",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.5
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_3_Clutter_13",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_3_Clutter_15",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.3
+            },
+            "Sink": {
+              "x": -0.05,
+              "y": 0.15
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_3_Clutter_16",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 1.0,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.8,
+        "GrassDensityVariation": {
+          "x": 2.0,
+          "y": 1.0,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.5,
+          "y": 1.25
+        },
+        "GrassHeightVariation": {
+          "x": 0.5,
+          "y": 1.5,
+          "z": 2.0
+        },
+        "GrassWidthScale": {
+          "x": 4.0,
+          "y": 7.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.7921569,
+          "y": 0.7921569,
+          "z": 0.7921569
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.187,
+          "y": 0.604,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.1,
+          "y": 2.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -1.0,
+          "y": 0.2
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.7,
+          "y": 1.2
+        },
+        "GrassBendVariation": {
+          "x": 0.1,
+          "y": 0.4,
+          "z": 1.308
+        },
+        "GrassBendHeightPower": 1.156,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_4",
+        "FootstepMaterial": "ostone",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.078,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.431,
+        "HeightBias": 0.789,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_11",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "wet",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act3/sewer_sewage01_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.24,
+        "NoiseTilingOffset": 0.031,
+        "HeightBias": 0.236,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_6",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.636,
+        "HeightBias": -0.494,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.35,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_6_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick02.model",
+            "Density": 1.0,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_6_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick03.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.75,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_6_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick04.model",
+            "Density": 0.35,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.4
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_6_Clutter_3",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick05.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra001_terrainLayers_6_Clutter_4",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick06.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_8",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.195,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_9",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.24,
+        "ParallaxScale": 0.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra001_terrainLayers_7",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "Blood",
+        "Albedo": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.074,
+        "NoiseScale": 0.544,
+        "NoiseTilingOffset": -0.326,
+        "HeightBias": -0.514,
+        "ParallaxScale": 0.226,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      }
+    ],
+    "terrainModelBlendSettings": {
+      "type": "TerrainModelBlendSettingsDesc",
+      "name": "act1_court_terrainDataUltra001_terrainModelBlendSettings",
+      "low": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra001_terrainModelBlendSettings_low",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "medium": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra001_terrainModelBlendSettings_medium",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "high": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra001_terrainModelBlendSettings_high",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      }
+    },
+    "pathSmoothingWeight": 0.0,
+    "pathEdgeThresholdMin": 1.0,
+    "pathEdgeThresholdMax": 1.0,
+    "pathEdgeIndex": 0
+  },
+  "terrainDataMed": {
+    "type": "TerrainData",
+    "name": "act1_court_terrainDataUltra002",
+    "terrainLayers": [
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_10",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.212,
+        "NoiseScale": 0.632,
+        "NoiseTilingOffset": -0.234,
+        "HeightBias": -0.161,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 4
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_1",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.4,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 1.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.55,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_1_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles02.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.273
+            },
+            "Sink": {
+              "x": -0.069,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_1_Clutter_5",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles04.model",
+            "Density": 0.25,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": -0.9,
+              "y": 0.0
+            },
+            "RotationMax": 111.25,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_1_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act3/act3_jungle_sticks/stick03.model",
+            "Density": 0.55,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_1_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.4,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_1_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.8,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_1_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles_cluster02.model",
+            "Density": 0.6,
+            "Scale": {
+              "x": 0.37,
+              "y": 1.2
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": -0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 0.86,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.0,
+          "y": 0.5882353,
+          "z": 0.1803922
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_2",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas01_ALB.texture",
+        "GrassAtlas": {
+          "x": 6,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 1.0,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.576,
+        "NormalIntensity": 1.5,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.0,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_2_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds02.model",
+            "Density": 0.1,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.1
+            },
+            "RotationMax": 115.625,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_2_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds_patch01.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_2_Clutter_8",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_grass/grass_clump02.model",
+            "Density": 0.05,
+            "Scale": {
+              "x": 0.35,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.7,
+        "GrassDensityVariation": {
+          "x": 0.2,
+          "y": 0.6,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.6,
+          "y": 1.5
+        },
+        "GrassHeightVariation": {
+          "x": 0.4,
+          "y": 1.5,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 2.0,
+          "y": 4.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.56,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.9176471,
+          "y": 0.9176471,
+          "z": 0.9176471
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.6,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.08,
+          "y": 2.0,
+          "z": 2.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.5,
+          "y": 0.5
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 1.25,
+          "y": 1.75
+        },
+        "GrassBendVariation": {
+          "x": 0.4,
+          "y": 0.3,
+          "z": 2.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.6,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 0.6,
+          "z": 1.4
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_3",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas02_ALB.texture",
+        "GrassAtlas": {
+          "x": 3,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.4,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.3,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.3,
+        "ParallaxScale": 0.1,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.05,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_3_Clutter_17",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds03.model",
+            "Density": 0.15,
+            "Scale": {
+              "x": 0.7,
+              "y": 0.9
+            },
+            "Sink": {
+              "x": -0.5,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_3_Clutter_12",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.5
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_3_Clutter_13",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_3_Clutter_15",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.3
+            },
+            "Sink": {
+              "x": -0.05,
+              "y": 0.15
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_3_Clutter_16",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 1.0,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.8,
+        "GrassDensityVariation": {
+          "x": 2.0,
+          "y": 1.0,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.5,
+          "y": 1.25
+        },
+        "GrassHeightVariation": {
+          "x": 0.5,
+          "y": 1.5,
+          "z": 2.0
+        },
+        "GrassWidthScale": {
+          "x": 4.0,
+          "y": 7.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.7921569,
+          "y": 0.7921569,
+          "z": 0.7921569
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.187,
+          "y": 0.604,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.1,
+          "y": 2.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -1.0,
+          "y": 0.2
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.7,
+          "y": 1.2
+        },
+        "GrassBendVariation": {
+          "x": 0.1,
+          "y": 0.4,
+          "z": 1.308
+        },
+        "GrassBendHeightPower": 1.156,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_4",
+        "FootstepMaterial": "ostone",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.078,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.431,
+        "HeightBias": 0.789,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_11",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "wet",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act3/sewer_sewage01_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.24,
+        "NoiseTilingOffset": 0.031,
+        "HeightBias": 0.236,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_6",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.636,
+        "HeightBias": -0.494,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.35,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_6_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick02.model",
+            "Density": 1.0,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_6_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick03.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.75,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_6_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick04.model",
+            "Density": 0.35,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.4
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_6_Clutter_3",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick05.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra002_terrainLayers_6_Clutter_4",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick06.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_8",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.195,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_9",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.24,
+        "ParallaxScale": 0.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra002_terrainLayers_7",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "Blood",
+        "Albedo": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.074,
+        "NoiseScale": 0.544,
+        "NoiseTilingOffset": -0.326,
+        "HeightBias": -0.514,
+        "ParallaxScale": 0.226,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      }
+    ],
+    "terrainModelBlendSettings": {
+      "type": "TerrainModelBlendSettingsDesc",
+      "name": "act1_court_terrainDataUltra002_terrainModelBlendSettings",
+      "low": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra002_terrainModelBlendSettings_low",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "medium": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra002_terrainModelBlendSettings_medium",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "high": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra002_terrainModelBlendSettings_high",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      }
+    },
+    "pathSmoothingWeight": 0.0,
+    "pathEdgeThresholdMin": 1.0,
+    "pathEdgeThresholdMax": 1.0,
+    "pathEdgeIndex": 0
+  },
+  "terrainDataLow": {
+    "type": "TerrainData",
+    "name": "act1_court_terrainDataUltra003",
+    "terrainLayers": [
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_10",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.212,
+        "NoiseScale": 0.632,
+        "NoiseTilingOffset": -0.234,
+        "HeightBias": -0.161,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 4
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_1",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_moss03_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.4,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 1.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.55,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_1_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles02.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.273
+            },
+            "Sink": {
+              "x": -0.069,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_1_Clutter_5",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles04.model",
+            "Density": 0.25,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": -0.9,
+              "y": 0.0
+            },
+            "RotationMax": 111.25,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_1_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act3/act3_jungle_sticks/stick03.model",
+            "Density": 0.55,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_1_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.4,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_1_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.8,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_1_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_rocks/pebbles_cluster02.model",
+            "Density": 0.6,
+            "Scale": {
+              "x": 0.37,
+              "y": 1.2
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": -0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 0.86,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.0,
+          "y": 0.5882353,
+          "z": 0.1803922
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_2",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_low_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_low_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass01_low_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas01_ALB.texture",
+        "GrassAtlas": {
+          "x": 6,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 1.0,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.576,
+        "NormalIntensity": 1.5,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.0,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_2_Clutter_6",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds02.model",
+            "Density": 0.1,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.1
+            },
+            "RotationMax": 115.625,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_2_Clutter_7",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds_patch01.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.5,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_2_Clutter_8",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_grass/grass_clump02.model",
+            "Density": 0.05,
+            "Scale": {
+              "x": 0.35,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 0.2,
+          "y": 0.6,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.6,
+          "y": 1.5
+        },
+        "GrassHeightVariation": {
+          "x": 0.4,
+          "y": 1.5,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 2.0,
+          "y": 4.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.56,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.9176471,
+          "y": 0.9176471,
+          "z": 0.9176471
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.6,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.08,
+          "y": 2.0,
+          "z": 2.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.5,
+          "y": 0.5
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 1.25,
+          "y": 1.75
+        },
+        "GrassBendVariation": {
+          "x": 0.4,
+          "y": 0.3,
+          "z": 2.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.6,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 0.6,
+          "z": 1.4
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_3",
+        "FootstepMaterial": "grass",
+        "FootstepMaterialVFX": "grass",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_grass02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/act1_grass_tufty_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/act1_outdoors_grass_atlas02_ALB.texture",
+        "GrassAtlas": {
+          "x": 3,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.4,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.3,
+        "NoiseScale": 0.3,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.3,
+        "ParallaxScale": 0.1,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.005,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_3_Clutter_17",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_weeds/weeds03.model",
+            "Density": 0.15,
+            "Scale": {
+              "x": 0.7,
+              "y": 0.9
+            },
+            "Sink": {
+              "x": -0.5,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_3_Clutter_12",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.25
+            },
+            "Sink": {
+              "x": -0.1,
+              "y": 0.5
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_3_Clutter_13",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/daisy03.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.75,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_3_Clutter_15",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange02.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 0.9,
+              "y": 1.3
+            },
+            "Sink": {
+              "x": -0.05,
+              "y": 0.15
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_3_Clutter_16",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/outdoors/act1_outdoors_flowers/poppies_orange01.model",
+            "Density": 0.0,
+            "Scale": {
+              "x": 1.0,
+              "y": 1.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.1
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 2.0,
+          "y": 1.0,
+          "z": 2.0
+        },
+        "GrassHeightScale": {
+          "x": 0.5,
+          "y": 1.25
+        },
+        "GrassHeightVariation": {
+          "x": 0.5,
+          "y": 1.5,
+          "z": 2.0
+        },
+        "GrassWidthScale": {
+          "x": 4.0,
+          "y": 7.0
+        },
+        "GrassShootsDensity": 0.2,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 0.7921569,
+          "y": 0.7921569,
+          "z": 0.7921569
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.187,
+          "y": 0.604,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 0.1,
+          "y": 2.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -1.0,
+          "y": 0.2
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.7,
+          "y": 1.2
+        },
+        "GrassBendVariation": {
+          "x": 0.1,
+          "y": 0.4,
+          "z": 1.308
+        },
+        "GrassBendHeightPower": 1.156,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 0.3,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": -3.0,
+          "y": -3.0
+        },
+        "GrassTilt": 2.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_4",
+        "FootstepMaterial": "ostone",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.078,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.431,
+        "HeightBias": 0.789,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_11",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "wet",
+        "Albedo": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/court/act1_court_tile_wet01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act3/sewer_sewage01_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.24,
+        "NoiseTilingOffset": 0.031,
+        "HeightBias": 0.236,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_6",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/outdoors/act1_outdoors_path01_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.2,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.636,
+        "HeightBias": -0.494,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.35,
+        "Clutter": [
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_6_Clutter_0",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick02.model",
+            "Density": 1.0,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_6_Clutter_1",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick03.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.75,
+              "y": 0.75
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_6_Clutter_2",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick04.model",
+            "Density": 0.35,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.4
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_6_Clutter_3",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick05.model",
+            "Density": 0.5,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          },
+          {
+            "type": "Clutter",
+            "name": "act1_court_terrainDataUltra003_terrainLayers_6_Clutter_4",
+            "ModelFilename": "data/hd/env/model/global/decorator/act1/barracks/stones/brick06.model",
+            "Density": 0.3,
+            "Scale": {
+              "x": 0.3,
+              "y": 0.5
+            },
+            "Sink": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "RotationMax": 180.0,
+            "IsFloorModel": false
+          }
+        ],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_8",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act2/tomb/act2_tomb_mud02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_outline_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.195,
+        "NoiseScale": 0.1,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -1.0,
+        "ParallaxScale": 0.5,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_9",
+        "FootstepMaterial": "",
+        "FootstepMaterialVFX": "",
+        "Albedo": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/barracks/act1_barracks_dirt02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": true,
+        "HeightBlendThreshold": 0.01,
+        "NoiseScale": 0.2,
+        "NoiseTilingOffset": 0.0,
+        "HeightBias": -0.24,
+        "ParallaxScale": 0.0,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      },
+      {
+        "type": "TerrainLayer",
+        "name": "act1_court_terrainDataUltra003_terrainLayers_7",
+        "FootstepMaterial": "wet",
+        "FootstepMaterialVFX": "Blood",
+        "Albedo": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_ALB.texture",
+        "Normal": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood01_NRM.texture",
+        "ORM": "data/hd/env/texture/terrain/act1/catacomb/act1_catacomb_blood02_ORM.texture",
+        "Noise": "data/hd/env/texture/terrain/noise/act1/caves_mud_NOISE.texture",
+        "GrassTexture": "data/hd/env/texture/terrain/grass/default_grass_ALB.texture",
+        "GrassAtlas": {
+          "x": 1,
+          "y": 1
+        },
+        "GrassAlphaThreshold": 0.5,
+        "IsNoiseInverted": false,
+        "HeightBlendThreshold": 0.074,
+        "NoiseScale": 0.544,
+        "NoiseTilingOffset": -0.326,
+        "HeightBias": -0.514,
+        "ParallaxScale": 0.226,
+        "NormalIntensity": 1.0,
+        "FogDensity": 1.0,
+        "ClutterDensity": 0.5,
+        "Clutter": [],
+        "GrassDensity": 0.0,
+        "GrassDensityVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassHeightScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassHeightVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWidthScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassShootsDensity": 0.1,
+        "GrassShootsScale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "GrassColor": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassColorOffsetMax": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "GrassColorVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassTerrainHeightBlendRange": {
+          "x": -0.4,
+          "y": 0.4
+        },
+        "GrassVertexJitter": 1.0,
+        "GrassRoughness": {
+          "x": 0.8,
+          "y": 0.9
+        },
+        "GrassOcclusion": {
+          "x": 0.6,
+          "y": 0.675
+        },
+        "GrassBend": {
+          "x": 0.5,
+          "y": 1.0
+        },
+        "GrassBendVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassBendHeightPower": 1.2,
+        "GrassBendHeightMin": 0.2,
+        "GrassStiffness": 0.5,
+        "GrassTwistVariation": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "GrassWrapLighting": 0.5,
+        "GrassThickness": 0.5,
+        "GrassSelfShadowHeightRange": {
+          "x": 0.1,
+          "y": 0.5
+        },
+        "GrassTilt": 1.0,
+        "GrassNormalJitter": 1.0,
+        "GrassProceduralNormalMapWidthRange": {
+          "x": -0.3,
+          "y": 0.5
+        },
+        "GrassWindDetail": 0.01,
+        "GrassWindNoise": 1.0,
+        "TileMaskOptions": 0
+      }
+    ],
+    "terrainModelBlendSettings": {
+      "type": "TerrainModelBlendSettingsDesc",
+      "name": "act1_court_terrainDataUltra003_terrainModelBlendSettings",
+      "low": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra003_terrainModelBlendSettings_low",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "medium": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra003_terrainModelBlendSettings_medium",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      },
+      "high": {
+        "type": "TerrainModelBlendSettingsPresetDesc",
+        "name": "act1_court_terrainDataUltra003_terrainModelBlendSettings_high",
+        "heightRange": {
+          "x": 0.0,
+          "y": 0.5
+        },
+        "noiseFrequency": 0.5,
+        "noiseScale": 0.2
+      }
+    },
+    "pathSmoothingWeight": 0.0,
+    "pathEdgeThresholdMin": 1.0,
+    "pathEdgeThresholdMax": 1.0,
+    "pathEdgeIndex": 0
+  }
+}

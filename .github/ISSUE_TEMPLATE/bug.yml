@@ -1,0 +1,43 @@
+name: Bug report
+description: Something in LotH crashes or doesn't work as it should.
+title: "Bug: <what's wrong>"
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The release you installed, e.g. HoradrimLegacy-0.1.0. The installer prints it.
+    validations: {required: true}
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options: ["Windows", "Steam Deck", "Linux (other)"]
+    validations: {required: true}
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options: ["Normal", "Nightmare", "Hell", "Not in a game"]
+    validations: {required: true}
+  - type: input
+    id: area
+    attributes:
+      label: Area
+      description: Where it happened, e.g. Halls of Agony, or the cube in town.
+    validations: {required: true}
+  - type: textarea
+    id: steps
+    attributes:
+      label: What happened, and the steps to repeat it
+      placeholder: |
+        1. New Sorceress, Normal
+        2. Put a Quill and a white Cap in the cube
+        3. Transmute: nothing happens
+    validations: {required: true}
+  - type: textarea
+    id: crash
+    attributes:
+      label: Crash files
+      description: "After a crash, run the crash reporter before you restart the game. It comes in the release zip, in your D2R mods folder (Windows: right-click mods\\d2r-crash.ps1, Run with PowerShell; Steam Deck or Linux: bash <D2R>/mods/d2r-crash.sh). It sends the report itself if you say yes. Reports are private, kept 90 days, and your PC and user names are scrubbed from the text files. If it can't send, it saves a zip to your Desktop: drag it here. With no reporter, drag in Blz-log.txt from your D2R folder."

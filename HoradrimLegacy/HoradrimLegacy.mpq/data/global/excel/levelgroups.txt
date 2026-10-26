@@ -1,0 +1,216 @@
+LevelGroupId	ParentLevelGroupId	CompleteThreshold	Effect	*Name	NameString
+Null					
+Act 1		100		Act 1	act1
+Act 2		100		Act 2	act2
+Act 3		100		Act 3	act3
+Act 4		100		Act 4	act4
+Act 5		100		Act 5	act5
+Act 1 - Town		100		Rogue Encampment	Rogue Encampment
+Act 1 - Blood Moor	Act 1	100		Blood Moor	Blood Moor
+Act 1 - Cold Plains	Act 1	100		Cold Plains	Cold Plains
+Act 1 - Stony Field	Act 1	100		Stony Field	Stony Field
+Act 1 - Dark Wood	Act 1	100		Dark Wood	Dark Wood
+Act 1 - Black Marsh	Act 1	100		Black Marsh	Black Marsh
+Act 1 - Tamoe Highland	Act 1	100		Tamoe Highland	Tamoe Highland
+Act 1 - Den of Evil	Act 1	100		Den of Evil	Den of Evil
+Act 1 - Cave	Act 1	100		Cave	Cave
+Act 1 - Underground Passage	Act 1	100		Underground Passage	Underground Passage
+Act 1 - Hole	Act 1	100		Hole	Hole
+Act 1 - Pit	Act 1	100		Pit	Act 1 Pit
+Act 1 - Burial Grounds	Act 1	100		Burial Grounds	Burial Grounds
+Act 1 - Crypt	Act 1	100		Crypt	Crypt
+Act 1 - Mausoleum	Act 1	100		Mausoleum	Mausoleum
+Act 1 - Forgotten Tower	Act 1	100		Forgotten Tower	Forgotten Tower
+Act 1 - Monastery Gate	Act 1	100		Monastery Gate	Monastery Gate
+Act 1 - Outer Cloister	Act 1	100		Outer Cloister	Outer Cloister
+Act 1 - Barracks	Act 1	100		Barracks	Barracks
+Act 1 - Jail	Act 1	100		Jail Level 1	Jail
+Act 1 - Inner Cloister	Act 1	100		Inner Cloister	Inner Cloister
+Act 1 - Cathedral	Act 1	100		Cathedral	Cathedral
+Act 1 - Catacombs	Act 1	100		Catacombs	Catacombs
+Act 1 - Tristram	Act 1	100		Tristram	Tristram
+Act 1 - Moo Moo Farm		100	1	Moo Moo Farm	MooMooFarmGroup
+Act 2 - Town		100		Lut Gholein	Lut Gholein
+Act 2 - Rocky Waste	Act 2	100		Rocky Waste	Rocky Waste
+Act 2 - Dry Hills	Act 2	100		Dry Hills	Dry Hills
+Act 2 - Far Oasis	Act 2	100		Far Oasis	Far Oasis
+Act 2 - Lost City	Act 2	100		Lost City	Lost City
+Act 2 - Valley of Snakes	Act 2	100		Valley of Snakes	Valley of Snakes
+Act 2 - Canyon of the Magi	Act 2	100		Canyon of the Magi	Canyon of the Magi
+Act 2 - Sewers	Act 2	100		Sewers	Lut Gholein Sewers
+Act 2 - Harem	Act 2	100		Harem	Harem
+Act 2 - Palace Cellar	Act 2	100		Palace Cellar	Palace Cellar
+Act 2 - Stony Tomb	Act 2	100		Stony Tomb	Stony Tomb
+Act 2 - Halls of the Dead	Act 2	100		Halls of the Dead	Halls of the Dead
+Act 2 - Claw Viper Temple	Act 2	100		Claw Viper Temple	Claw Viper Temple
+Act 2 - Maggot Lair	Act 2	100		Maggot Lair	Maggot Lair
+Act 2 - Ancient Tunnels	Act 2	100		Ancient Tunnels	Ancient Tunnels
+Act 2 - Tal Rasha's Tomb	Act 2	100		Tal Rasha's Tomb	Tal Rasha's Tomb
+Act 2 - Duriel's Lair	Act 2	100		Duriel's Lair	Duriel's Lair
+Act 2 - Arcane Sanctuary	Act 2	100		Arcane Sanctuary	Arcane Sanctuary
+Act 3 - Town		100		Kurast Docktown	Kurast Docktown
+Act 3 - Spider Forest	Act 3	100		Spider Forest	Spider Forest
+Act 3 - Great Marsh	Act 3	100		Great Marsh	Great Marsh
+Act 3 - Flayer Jungle	Act 3	100		Flayer Jungle	Flayer Jungle
+Act 3 - Lower Kurast	Act 3	100		Lower Kurast	Lower Kurast
+Act 3 - Kurast Bazaar	Act 3	100		Kurast Bazaar	Kurast Bazaar
+Act 3 - Upper Kurast	Act 3	100		Upper Kurast	Upper Kurast
+Act 3 - Kurast Causeway	Act 3	100		Kurast Causeway	Kurast Causeway
+Act 3 - Travincal	Act 3	100		Travincal	Travincal
+Act 3 - Arachnid Lair	Act 3	100		Arachnid Lair	Spider Cave
+Act 3 - Spider Cavern	Act 3	100		Spider Cavern	Spider Cavern
+Act 3 - Swampy Pit	Act 3	100		Swampy Pit	Swampy Pit
+Act 3 - Flayer Dungeon	Act 3	100		Flayer Dungeon	Flayer Dungeon
+Act 3 - Sewers	Act 3	100		Sewers	Kurast Sewers
+Act 3 - Ruined Temple	Act 3	100		Ruined Temple	Ruined Temple
+Act 3 - Disused Fane	Act 3	100		Disused Fane	Disused Fane
+Act 3 - Forgotten Reliquary	Act 3	100		Forgotten Reliquary	Forgotten Reliquary
+Act 3 - Forgotten Temple	Act 3	100		Forgotten Temple	Forgotten Temple
+Act 3 - Ruined Fane	Act 3	100		Ruined Fane	Ruined Fane
+Act 3 - Disused Reliquary	Act 3	100		Disused Reliquary	Disused Reliquary
+Act 3 - Durance of Hate	Act 3	100		Durance of Hate	Durance of Hate
+Act 4 - Town		100		The Pandemonium Fortress	The Pandemonium Fortress
+Act 4 - Outer Steppes	Act 4	100		Outer Steppes	Outer Steppes
+Act 4 - Plains of Despair	Act 4	100		Plains of Despair	Plains of Despair
+Act 4 - City of the Damned	Act 4	100		City of the Damned	City of the Damned
+Act 4 - River of Flame	Act 4	100		River of Flame	River of Flame
+Act 4 - Chaos Sanctuary	Act 4	100		The Chaos Sanctuary	Chaos Sanctum
+Act 5 - Town		100		Harrogath	Harrogath
+Act 5 - Bloody Foothills	Act 5	100		Bloody Foothills	Bloody Foothills
+Act 5 - Frigid Highlands	Act 5	100		Frigid Highlands	Rigid Highlands
+Act 5 - Arreat Plateau	Act 5	100		Arreat Plateau	Arreat Plateau
+Act 5 - Crystalline Passage	Act 5	100		Crystalline Passage	Crystalized Cavern Level 1
+Act 5 - Frozen River	Act 5	100		Frozen River	Cellar of Pity
+Act 5 - Glacial Trail	Act 5	100		Glacial Trail	Crystalized Cavern Level 2
+Act 5 - Drifter Cavern	Act 5	100		Drifter Cavern	Echo Chamber
+Act 5 - Frozen Tundra	Act 5	100		Frozen Tundra	Tundra Wastelands
+Act 5 - The Ancient's Way	Act 5	100		The Ancients' Way	Glacial Caves Level 1
+Act 5 - Icy Cellar	Act 5	100		Icy Cellar	Glacial Caves Level 2
+Act 5 - Arreat Summit		100		Arreat Summit	Rocky Summit
+Act 5 - Nihlathak's Temple	Act 5	100		Nihlathak's Temple	Nihlathaks Temple
+Act 5 - Halls	Act 5	100		Halls	Temple Halls
+Act 5 - Abaddon	Act 5	100		Abaddon	Hell1
+Act 5 - Pit of Acheron	Act 5	100		Pit of Acheron	Hell2
+Act 5 - Infernal Pit	Act 5	100		Infernal Pit	Hell3
+Act 5 - Worldstone Keep	Act 5	100		The Worldstone Keep	The Worldstone Keep
+Act 5 - Throne of Destruction	Act 5	100		Throne of Destruction	Throne of Destruction
+Act 5 - Worldstone Chamber	Act 5	100		The Worldstone Chamber	The Worldstone Chamber
+Act 5 - Matron's Den		100		Matron's Den	Pandemonium Run 1
+Act 5 - Forgotten Sands		100		Forgotten Sands	Pandemonium Run 2
+Act 5 - Furnace of Pain		100		Furnace of Pain	Pandemonium Run 3
+Act 5 - Tristram		100		Tristram	Tristram
+Act 5 - Colossal Summit		100		ColossalSummit	ColossalSummit
+LH Breach		100		Arreat Descent	lh_zone_hellforge_breach
+LH Stone 01		100		Yards of Agony	lh_zone_halls_of_agony
+LH Stone 02		100		Black Canyon Mines	lh_zone_black_canyon_mines
+LH Stone 03		100		Wortham Bluffs	lh_zone_caverns_of_araneae
+LH Stone 04		100		Canyons of Dahlgur	lh_zone_cisterns_of_dahlgur
+LH Stone 05		100		Ashwold Cemetery	lh_zone_ashwold_cemetery
+LH Stone 06		100		Sunken Jungle of Kurast	lh_zone_drowned_temples
+LH Stone 07		100		Festering Woods	lh_zone_stone_i_c
+LH Stone 08		100		Reaver Quays of Gea Kul	lh_zone_stone_ii_c
+LH Stone 09		100		Cursed Grove	lh_zone_stone_iii_c
+LH Stone 10		100		Sunbleached Wastes	lh_zone_sunbleached_wastes
+LH Stone 11		100		The Butcher's Shambles	lh_zone_butchers_shambles
+LH Stone 12		100		Gate-Halls of Lut Bahadur	lh_zone_gate_halls_of_lut_bahadur
+LH Stone 13		100		Umbaru Uplands	lh_zone_umbaru_uplands
+LH Stone 14		100		Menagerie of Fahir	lh_zone_tomb_of_fahir
+LH Stone 15		100		Salt Jail of Stormpoint	lh_zone_salt_jail_of_stormpoint
+LH Stone 16		100		Archives of Zoltun Kulle	lh_zone_archives_of_zoltun_kulle
+LH Stone 17		100		Boiling Plains	lh_zone_boiling_plains
+LH Stone 18		100		Sunken Vaults of Valostre	lh_zone_sunken_vaults_of_valostre
+LH Stone 19		100		Rubble of Viz-Jun	lh_zone_rubble_of_viz_jun
+LH Stone 20		100		Weaving Dark	lh_zone_weaving_dark
+LH Stone 21		100		Hold of the Sons of Rakkis	lh_zone_hold_of_rakkis
+LH Stone 22		100		Moonwood of Tur Dulra	lh_zone_moonwood_of_tur_dulra
+LH Stone 23		100		Ruins of Corvus	lh_zone_sealed_halls_of_corvus
+LH Stone 24		100		Fire-Vents of Skovos	lh_zone_fire_vents_of_skovos
+LH Stone 25		100		Moonless Sands	lh_zone_moonless_sands
+LH Stone 26		100		Khazra Dens of Zavain	lh_zone_khazra_dens_of_zavain
+LH Stone 27		100		Fighting Pits of Old Kehjan	lh_zone_pits_of_kehjan
+LH Stone 28		100		Hearthward Walls	lh_zone_hearthward_walls
+LH Stone 29		100		Undervaults of Ivgorod	lh_zone_undervaults_of_kyovashad
+LH Stone 30		100		Lost Gate of the Horadrim	lh_zone_sealed_repository
+LH Stone 31		100		Broken Barricades	lh_zone_bastion_walls
+LH Stone 32		100		Barrows of the Old Kings	lh_zone_sahptev_barrows
+LH Stone 33		100		Sinkholes of Shassar	lh_zone_borer_tunnels_of_shassar
+LH Stone 34		100		Mires of the Black Reeds	lh_zone_mires_of_hawezar
+LH Stone 35		100		Haunted Slums of Kurast	lh_zone_flooded_undercroft
+LH Stone 36		100		Crevasse of the Ice-Widow	lh_zone_serac_rapture
+LH Stone 37		100		Ashes of Sescheron	lh_zone_ashes_of_sescheron
+LH Stone 38		100		Shadowed Streets of Ureh	lh_zone_shadowed_halls_of_ureh
+LH Stone 39		100		Drowned Court of the Mystic	lh_zone_drowned_court
+LH Stone 40		100		Mirror Cathedral of Inarius	lh_zone_mirror_cathedral
+LH Stone 41		100		Field of Bones	lh_zone_field_of_bones
+LH Stone 42		100		Cells of Hatred	lh_zone_lower_cells_of_hatred
+LH Stone 43		100		Fire-Roots of Arreat	lh_zone_fire_roots_of_arreat
+LH Stone 44		100		Fires of Tristram	lh_zone_fires_beneath_tristram
+LH Stone 45		100		Valley of the Seventh Tomb	lh_zone_tal_rashas_last_chamber
+LH Descent 01		100		Cinders of Hatred Level 1	lh_zone_forgotten_sewers_1
+LH Descent 02		100		Cinders of Hatred Level 2	lh_zone_forgotten_sewers_2
+LH Descent 03		100		Cinders of Hatred Level 3	lh_zone_forgotten_sewers_3
+LH Descent 04		100		Cinders of Hatred Level 4	lh_zone_forgotten_sewers_4
+LH Descent 05		100		Cinders of Hatred Level 5	lh_zone_forgotten_sewers_5
+LH Descent 06		100		Cinders of Hatred Level 6	lh_zone_forgotten_sewers_6
+LH Descent 07		100		Cinders of Hatred Level 7	lh_zone_forgotten_sewers_7
+LH Descent 08		100		Cinders of Hatred Level 8	lh_zone_forgotten_sewers_8
+LH Descent 09		100		Cinders of Hatred Level 9	lh_zone_forgotten_sewers_9
+LH Descent 10		100		Cinders of Hatred Level 10	lh_zone_forgotten_sewers_10
+LH Descent 11		100		Pits of Anguish Level 1	lh_zone_brood_hollows_1
+LH Descent 12		100		Pits of Anguish Level 2	lh_zone_brood_hollows_2
+LH Descent 13		100		Pits of Anguish Level 3	lh_zone_brood_hollows_3
+LH Descent 14		100		Pits of Anguish Level 4	lh_zone_brood_hollows_4
+LH Descent 15		100		Pits of Anguish Level 5	lh_zone_brood_hollows_5
+LH Descent 16		100		Pits of Anguish Level 6	lh_zone_brood_hollows_6
+LH Descent 17		100		Pits of Anguish Level 7	lh_zone_brood_hollows_7
+LH Descent 18		100		Pits of Anguish Level 8	lh_zone_brood_hollows_8
+LH Descent 19		100		Pits of Anguish Level 9	lh_zone_brood_hollows_9
+LH Descent 20		100		Pits of Anguish Level 10	lh_zone_brood_hollows_10
+LH Descent 21		100		Burrows of Pain Level 1	lh_zone_frozen_roots_1
+LH Descent 22		100		Burrows of Pain Level 2	lh_zone_frozen_roots_2
+LH Descent 23		100		Burrows of Pain Level 3	lh_zone_frozen_roots_3
+LH Descent 24		100		Burrows of Pain Level 4	lh_zone_frozen_roots_4
+LH Descent 25		100		Burrows of Pain Level 5	lh_zone_frozen_roots_5
+LH Descent 26		100		Burrows of Pain Level 6	lh_zone_frozen_roots_6
+LH Descent 27		100		Burrows of Pain Level 7	lh_zone_frozen_roots_7
+LH Descent 28		100		Burrows of Pain Level 8	lh_zone_frozen_roots_8
+LH Descent 29		100		Burrows of Pain Level 9	lh_zone_frozen_roots_9
+LH Descent 30		100		Burrows of Pain Level 10	lh_zone_frozen_roots_10
+LH Descent 31		100		Chasm of Terror Level 1	lh_zone_burning_below_1
+LH Descent 32		100		Chasm of Terror Level 2	lh_zone_burning_below_2
+LH Descent 33		100		Chasm of Terror Level 3	lh_zone_burning_below_3
+LH Descent 34		100		Chasm of Terror Level 4	lh_zone_burning_below_4
+LH Descent 35		100		Chasm of Terror Level 5	lh_zone_burning_below_5
+LH Descent 36		100		Chasm of Terror Level 6	lh_zone_burning_below_6
+LH Descent 37		100		Chasm of Terror Level 7	lh_zone_burning_below_7
+LH Descent 38		100		Chasm of Terror Level 8	lh_zone_burning_below_8
+LH Descent 39		100		Chasm of Terror Level 9	lh_zone_burning_below_9
+LH Descent 40		100		Chasm of Terror Level 10	lh_zone_burning_below_10
+LH Descent 41		100		Realm of Destruction Level 1	lh_zone_realm_of_destruction_1
+LH Descent 42		100		Realm of Destruction Level 2	lh_zone_realm_of_destruction_2
+LH Descent 43		100		Realm of Destruction Level 3	lh_zone_realm_of_destruction_3
+LH Descent 44		100		Realm of Destruction Level 4	lh_zone_realm_of_destruction_4
+LH Descent 45		100		Realm of Destruction Level 5	lh_zone_realm_of_destruction_5
+LH Descent 46		100		Realm of Destruction Level 6	lh_zone_realm_of_destruction_6
+LH Descent 47		100		Realm of Destruction Level 7	lh_zone_realm_of_destruction_7
+LH Descent 48		100		Realm of Destruction Level 8	lh_zone_realm_of_destruction_8
+LH Descent 49		100		Realm of Destruction Level 9	lh_zone_realm_of_destruction_9
+LH Descent 50		100		Realm of Destruction Level 10	lh_zone_realm_of_destruction_10
+LH Echo I		100		Echo of the Durance	lh_zone_echo_durance
+LH Echo II		100		Echo of the Catacombs	lh_zone_echo_catacombs
+LH Echo III		100		Echo of the Tomb	lh_zone_echo_tomb
+LH Echo IV		100		Echo of the Sanctum	lh_zone_echo_sanctum
+LH Echo V		100		Echo of the Worldstone	lh_zone_echo_worldstone
+LH Pasture 1		100		Moo Less Pasture	lh_zone_moonless_pasture
+LH Gilded Vault		100		Gilded Vault	lhp_gilded_vault
+LH Vigil Crypt		100		Crypt of the Vigil	lh_name_vigil_crypt
+LH Seal I		100		Court of Sin	lh_zone_seal_i
+LH Seal II		100		Hall of Lies	lh_zone_seal_ii
+LH Seal III		100		Ossuary of the Bonebound	lh_zone_seal_iii
+LH Seal IV		100		Throne of the Warlord	lh_zone_seal_iv
+LH Seal V		100		Kulle's Last Door	lh_zone_seal_v
+LH Pinnacle Convergence		100		The Black Abyss	lh_zone_convergence
+LH Pinnacle Heaven		100		The Silver City	lh_zone_heaven
+LH Teaser		100		Fractured Halls	lh_zone_sanctuary_teaser
+LH Vault		100		Horadric Vault	lh_zone_horadric_vault
+LH Clone Sanctuary		100		The Unsealed Sanctuary	lh_zone_clone

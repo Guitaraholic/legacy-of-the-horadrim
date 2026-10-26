@@ -1,0 +1,26 @@
+Legacy of the Horadrim — credits and legal
+
+Diablo II: Resurrected, Diablo and Blizzard Entertainment are trademarks or
+registered trademarks of Blizzard Entertainment, Inc. The game, its data and its
+art are © Blizzard Entertainment, Inc. Legacy of the Horadrim is a free,
+non-commercial fan mod. It is not affiliated with, endorsed or sponsored by
+Blizzard Entertainment. You need your own copy of Diablo II: Resurrected to
+play.
+
+What the mod contains: game tables, strings, maps and icons that we generated
+from the game's own data and our own specifications. It contains no Blizzard
+executable and no copied game archive. Item art shown on the wiki is Blizzard's,
+used here with credit for reference.
+
+Other mods: we thank the Diablo II and Diablo II: Resurrected modding community,
+whose open mods advanced the craft and inspired this one. We studied how they
+solved problems; we copied no data, maps, art or text from them.
+
+Fonts: the fonts are used under the SIL Open Font License (see OFL.txt).
+
+Our own work: Our data, maps and text are licensed CC BY-NC-SA 4.0; the build
+tools are licensed MIT.
+
+Contact and takedown: open an issue at
+https://github.com/Guitaraholic/legacy-of-the-horadrim or write through
+horadrimlegacy.com. We act on any rights-holder request promptly.
