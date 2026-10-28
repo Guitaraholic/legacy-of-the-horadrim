@@ -3998,5 +3998,460 @@
     "v15": {
       "asset": "amulet/amulet"
     }
+  },
+  {
+    "q01": {
+      "asset": "lh/q01"
+    }
+  },
+  {
+    "q02": {
+      "asset": "lh/q02"
+    }
+  },
+  {
+    "q03": {
+      "asset": "lh/q03"
+    }
+  },
+  {
+    "q04": {
+      "asset": "lh/q04"
+    }
+  },
+  {
+    "q05": {
+      "asset": "lh/q05"
+    }
+  },
+  {
+    "q06": {
+      "asset": "lh/q06"
+    }
+  },
+  {
+    "q07": {
+      "asset": "lh/q07"
+    }
+  },
+  {
+    "q08": {
+      "asset": "lh/q08"
+    }
+  },
+  {
+    "j01": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b30": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b31": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b34": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b35": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b36": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b37": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b38": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b43": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b44": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b45": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b46": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b47": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b48": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b49": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b50": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b51": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b64": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b65": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b66": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b67": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b69": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b70": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b71": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "j02": {
+      "asset": "h2h/claws"
+    }
+  },
+  {
+    "j03": {
+      "asset": "hammer/maul"
+    }
+  },
+  {
+    "j04": {
+      "asset": "wand/bone_wand"
+    }
+  },
+  {
+    "j05": {
+      "asset": "grimoires/grimoire"
+    }
+  },
+  {
+    "j06": {
+      "asset": "orb/dragon_stone"
+    }
+  },
+  {
+    "j07": {
+      "asset": "knife/blade"
+    }
+  },
+  {
+    "j08": {
+      "asset": "sword/crystal_sword"
+    }
+  },
+  {
+    "j09": {
+      "asset": "scepter/war_scepter"
+    }
+  },
+  {
+    "j10": {
+      "asset": "sword/great_sword"
+    }
+  },
+  {
+    "j11": {
+      "asset": "staff/war_staff"
+    }
+  },
+  {
+    "j12": {
+      "asset": "axe/battle_axe"
+    }
+  },
+  {
+    "j13": {
+      "asset": "club/club"
+    }
+  },
+  {
+    "j14": {
+      "asset": "polearm/scythe"
+    }
+  },
+  {
+    "j15": {
+      "asset": "spear/trident"
+    }
+  },
+  {
+    "j16": {
+      "asset": "javelin/javelin"
+    }
+  },
+  {
+    "j17": {
+      "asset": "bow/long_war_bow"
+    }
+  },
+  {
+    "j18": {
+      "asset": "bow/repeating_crossbow"
+    }
+  },
+  {
+    "j19": {
+      "asset": "knife/balanced_knife"
+    }
+  },
+  {
+    "b09": {
+      "asset": "knife/dirk"
+    }
+  },
+  {
+    "b21": {
+      "asset": "scepter/war_scepter"
+    }
+  },
+  {
+    "b24": {
+      "asset": "wand/bone_wand"
+    }
+  },
+  {
+    "b32": {
+      "asset": "polearm/war_scythe"
+    }
+  },
+  {
+    "b33": {
+      "asset": "sword/great_sword"
+    }
+  },
+  {
+    "b68": {
+      "asset": "sword/crystal_sword"
+    }
+  },
+  {
+    "j20": {
+      "asset": "helmet/horned_helm"
+    }
+  },
+  {
+    "j21": {
+      "asset": "shield/kite_shield"
+    }
+  },
+  {
+    "b08": {
+      "asset": "helmet/cap_hat"
+    }
+  },
+  {
+    "b20": {
+      "asset": "grimoires/compendium"
+    }
+  },
+  {
+    "b22": {
+      "asset": "circlet/diadem"
+    }
+  },
+  {
+    "b23": {
+      "asset": "belt/belt_m"
+    }
+  },
+  {
+    "b25": {
+      "asset": "glove/gloves_l"
+    }
+  },
+  {
+    "b26": {
+      "asset": "boot/chain_boots"
+    }
+  },
+  {
+    "b27": {
+      "asset": "boot/leather_boots"
+    }
+  },
+  {
+    "b28": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b29": {
+      "asset": "glove/gloves_l"
+    }
+  },
+  {
+    "b39": {
+      "asset": "shield/bone_shield"
+    }
+  },
+  {
+    "b40": {
+      "asset": "boot/leather_boots"
+    }
+  },
+  {
+    "b41": {
+      "asset": "glove/heavy_gloves"
+    }
+  },
+  {
+    "b42": {
+      "asset": "armor/quilted_armor"
+    }
+  },
+  {
+    "b52": {
+      "asset": "voodoo_head/demon_head"
+    }
+  },
+  {
+    "b72": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b73": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b74": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b75": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b76": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b77": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b78": {
+      "asset": "belt/sash_l"
+    }
+  },
+  {
+    "b79": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b80": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b81": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b82": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b83": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b84": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "b85": {
+      "asset": "helmet/bone_helm"
+    }
+  },
+  {
+    "bb1": {
+      "asset": "sword/falchion"
+    }
+  },
+  {
+    "b89": {
+      "asset": "boot/leather_boots"
+    }
+  },
+  {
+    "b90": {
+      "asset": "h2h/claws"
+    }
+  },
+  {
+    "b06": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "b07": {
+      "asset": "helmet/helm"
+    }
   }
 ]

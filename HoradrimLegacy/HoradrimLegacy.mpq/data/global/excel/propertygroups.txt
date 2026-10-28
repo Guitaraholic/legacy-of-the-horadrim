@@ -43,3 +43,27 @@ lh-corrupt-weap	40	1	allskills			1	1	10	sock			1	1	15	dmg%			20	20	20	res-all			
 lh-corrupt-weap-sock	41	1	allskills			1	1	10	dmg%			20	20	35	res-all			10	10	20	lh-corrupt-roll			1	1	25	lh-ruin-weap			1	1	10																								0
 lh-corrupt-ring	42	1	lifesteal			7	7	10	hp			40	40	15	cast1			10	10	20	res-all			10	10	20	lh-corrupt-roll			1	1	25	lh-ruin-jewel			1	1	10																		0
 lh-corrupt-amul	43	1	allskills			1	1	10	hp			80	80	15	cast1			10	10	20	res-all			10	10	20	lh-corrupt-roll			1	1	25	lh-ruin-jewel			1	1	10																		0
+lh-oil-gpr-amul	44	1	skilltab	3	3	3	3	17	skilltab	7	7	3	3	16	skilltab	10	10	3	3	17	skilltab	17	17	3	3	17	skilltab	18	18	3	3	16	skilltab	23	23	3	3	17																		0
+lh-oil-gpr-circ	45	1	skilltab	3	3	3	3	17	skilltab	7	7	3	3	16	skilltab	10	10	3	3	17	skilltab	17	17	3	3	17	skilltab	18	18	3	3	16	skilltab	23	23	3	3	17																		0
+lh-oil-gpr-knif	46	1	skilltab	7	7	3	3	50	skilltab	23	23	3	3	50																																										0
+lh-oil-gpv-amul	47	1	skilltab	1	1	3	3	13	skilltab	3	3	3	3	12	skilltab	7	7	3	3	13	skilltab	9	9	3	3	12	skilltab	13	13	3	3	13	skilltab	16	16	3	3	12	skilltab	20	20	3	3	13	skilltab	22	22	3	3	12						0
+lh-oil-gpv-glov	48	1	skilltab	1	1	3	3	50	skilltab	20	20	3	3	50																																										0
+lh-oil-gpv-circ	49	1	skilltab	1	1	3	3	13	skilltab	3	3	3	3	12	skilltab	7	7	3	3	13	skilltab	9	9	3	3	12	skilltab	12	12	3	3	13	skilltab	16	16	3	3	12	skilltab	20	20	3	3	13	skilltab	22	22	3	3	12						0
+lh-oil-gpv-helm	50	1	skilltab	12	12	3	3	50	skilltab	19	19	3	3	50																																										0
+lh-oil-gpv-knif	51	1	skilltab	7	7	3	3	50	skilltab	22	22	3	3	50																																										0
+lh-oil-gpv-mace	52	1	skilltab	12	12	3	3	50	skilltab	9	9	3	3	50																																										0
+lh-oil-gpv-club	53	1	skilltab	12	12	3	3	50	skilltab	16	16	3	3	50																																										0
+lh-oil-gpv-swor	54	1	skilltab	12	12	3	3	33	skilltab	9	9	3	3	34	skilltab	22	22	3	3	33																																				0
+lh-oil-gpg-amul	55	1	skilltab	7	7	3	3	50	skilltab	22	22	3	3	50																																										0
+lh-oil-gpg-circ	56	1	skilltab	7	7	3	3	50	skilltab	22	22	3	3	50																																										0
+lh-oil-gpg-knif	57	1	skilltab	7	7	3	3	50	skilltab	22	22	3	3	50																																										0
+lh-oil-gpw-amul	58	1	ama			2	2	13	sor			2	2	12	nec			2	2	13	pal			2	2	12	bar			2	2	13	dru			2	2	12	ass			2	2	13	war			2	2	12						0
+lh-oil-gpw-circ	59	1	ama			2	2	13	sor			2	2	12	nec			2	2	13	pal			2	2	12	bar			2	2	13	dru			2	2	12	ass			2	2	13	war			2	2	12						0
+lh-oil-gpw-knif	60	1	nec			2	2	50	war			2	2	50																																										0
+lh-oil-gpw-mace	61	1	bar			2	2	50	pal			2	2	50																																										0
+lh-oil-gpw-club	62	1	bar			2	2	50	dru			2	2	50																																										0
+lh-oil-gpw-hamm	63	1	bar			2	2	50	pal			2	2	50																																										0
+lh-oil-gpw-swor	64	1	bar			2	2	50	pal			2	2	50																																										0
+lh-oil-gpw-spea	65	1	ama			2	2	50	bar			2	2	50																																										0
+lh-oil-skz-amul	66	1	skilltab	8	8	3	3	33	skilltab	15	15	3	3	34	skilltab	21	21	3	3	33																																				0
+lh-oil-skz-circ	67	1	skilltab	8	8	3	3	33	skilltab	15	15	3	3	34	skilltab	21	21	3	3	33																																				0

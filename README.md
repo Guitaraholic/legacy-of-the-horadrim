@@ -32,8 +32,8 @@ folder in your D2R folder (make `mods` if there is none), and unzip the release 
 D2R before you copy: an update under a running game can leave the mod half old, half new. Or clone this repository
 and copy its `HoradrimLegacy` folder into `mods`: it is the same mod as the zip.
 
-Launch with `-mod HoradrimLegacy -txt`: in Battle.net, Game Settings → Additional command line arguments; in
-Steam, launch options `%command% -mod HoradrimLegacy -txt`. Plug in the controller before launch; D2R switches to its controller UI on its
+Launch with `-mod HoradrimLegacy -txt -resetofflinemaps`: in Battle.net, Game Settings → Additional command line arguments; in
+Steam, launch options `%command% -mod HoradrimLegacy -txt -resetofflinemaps`. Plug in the controller before launch; D2R switches to its controller UI on its
 own.
 
 ## Before you update or uninstall
@@ -56,14 +56,16 @@ with the LotH version, your platform, the difficulty, the area and the steps tha
 **After a crash**, run the crash reporter before you restart the game. It comes with the mod: the installer
 puts it in `mods/HoradrimLegacy-crash` and prints its path; a hand unzip leaves it in `mods`.
 
-- **Windows**: right-click `d2r-crash.ps1` → **Run with PowerShell**. The first time, it offers to
-  turn crash dumps on for D2R.exe; Windows asks once for permission.
+- **Windows**: right-click `d2r-crash.ps1` → **Run with PowerShell**. For freezes, select **7, Freeze (watch)**
+  before playing or while frozen. Leave D2R and the tool open until capture finishes.
 - **Linux / Steam Deck**: in a terminal (Desktop Mode), `bash "<D2R>/mods/HoradrimLegacy-crash/d2r-crash.sh"`. For a fuller
-  log, set the Steam launch options to `PROTON_LOG=1 %command% -mod HoradrimLegacy -txt` before you play.
+  log, set the Steam launch options to `PROTON_LOG=1 %command% -mod HoradrimLegacy -txt -resetofflinemaps` before you play.
 
-It shows what the report holds and sends it only if you say yes. No account is needed. Reports are private, kept
-90 days, and your PC and user names are scrubbed from the text files. If it can't send, it saves
-`d2r-crash-<date>.zip` to the Desktop: attach that to a bug report.
+It shows the report text and sends it only if you say yes. No account is needed.
+If submission fails, it saves your answers and prints a retry command.
+Windows freeze capture saves a minidump and available session logs locally after 30 seconds without a window response.
+Only selected diagnostic text goes to the reporting service. Keep the printed freeze folder for private transfer to a maintainer.
+See `REPORTING.txt` in the ZIP for instructions and capture limits.
 <!-- /alpha -->
 
 ## Credits

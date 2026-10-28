@@ -1162,10 +1162,10 @@ LH Descent 37	1158	220	1	1	1	1	0	0	0	0	0	1	0	-4	2	act4/lava/lhdescent220a.ds1	ac
 LH Descent 38	1159	221	1	1	1	1	0	0	0	0	0	1	0	-4	2	act4/lava/lhdescent221a.ds1	act4/lava/lhdescent221b.ds1	0	0	0	0	2047
 LH Descent 39	1160	222	1	1	1	1	0	0	0	0	0	1	0	-4	2	act4/lava/lhdescent222a.ds1	act4/lava/lhdescent222b.ds1	0	0	0	0	2047
 LH Descent 40	1161	223	1	1	1	1	0	0	0	0	0	1	0	-4	2	act4/lava/lhdescent223a.ds1	act4/lava/lhdescent223b.ds1	0	0	0	0	2047
-LH Descent 44	1162	227	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/wildtemple/lhdescent227a.ds1	expansion/wildtemple/lhdescent227b.ds1	0	0	0	0	1
-LH Descent 45	1163	228	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/wildtemple/lhdescent228a.ds1	expansion/wildtemple/lhdescent228b.ds1	0	0	0	0	1
-LH Descent 46	1164	229	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/wildtemple/lhdescent229a.ds1	expansion/wildtemple/lhdescent229b.ds1	0	0	0	0	1
-LH Descent 47	1165	230	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/wildtemple/lhdescent230a.ds1	expansion/wildtemple/lhdescent230b.ds1	0	0	0	0	1
+LH Descent 44	1162	227	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/icecave/lhdescent227a.ds1	expansion/icecave/lhdescent227b.ds1	0	0	0	0	1
+LH Descent 45	1163	228	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/icecave/lhdescent228a.ds1	expansion/icecave/lhdescent228b.ds1	0	0	0	0	1
+LH Descent 46	1164	229	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/icecave/lhdescent229a.ds1	expansion/icecave/lhdescent229b.ds1	0	0	0	0	1
+LH Descent 47	1165	230	1	0	0	0	1	1	0	0	0	1	0	0	2	expansion/icecave/lhdescent230a.ds1	expansion/icecave/lhdescent230b.ds1	0	0	0	0	1
 LH Echo I	1166	234	1	1	0	0	0	1	0	0	0	1	0	0	1	act3/travincal/lhecho1.ds1	0	0	0	0	0	53256
 LH Echo II	1167	235	1	1	0	0	0	1	0	0	0	1	0	0	1	act1/catacomb/lhecho2.ds1	0	0	0	0	0	61
 LH Echo III	1168	236	1	1	0	0	0	1	0	0	0	1	0	0	1	act2/tomb/lhecho3.ds1	0	0	0	0	0	191

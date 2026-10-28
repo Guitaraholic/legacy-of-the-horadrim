@@ -228,3 +228,9 @@ Hide and Go Moo		Haute Cow-ture		0					uea		1	110	85			invlea					5	100	0	ac%		1
 Butterfingers		Haute Cow-ture		0					uvg		1	110	85			invvgl					5	100	0	swing2		20	20	mag%		30	30	lifesteal		5	5	knock		1	1	dex		20	20																																																										0	1
 Beef Wellingtons		Haute Cow-ture		0					uhb		1	110	85			invhbt					5	100	0	move2		40	40	balance2		30	30	kick		50	50	res-cold		30	30	res-all		15	15																																																										0	1
 The Big Buckle		Haute Cow-ture		0					ulc		1	110	85			invlbl					5	100	0	str		20	20	hp		60	60	mag%		30	30	cast2		15	15	res-all		15	15																																																										0	1
+Stillpoint Coronet		The Patient Hand		0					ci1		1	110	90	dgld	dgld	invci1					5	100	0	skilltab	20	1	1	balance2		20	20	hp		30	40	res-ltng		20	30																																																														0	1
+Hush of the Wyrm		The Patient Hand		0					uea		1	110	90	lgld	lgld	invlea					5	100	0	ac%		100	140	balance2		20	20	hp		40	60	res-fire		20	30																																																														0	1
+Coil of Patience		The Patient Hand		0					zvb		1	110	90	dgrn	dgrn	invvbl					5	100	0	balance2		10	10	mana		20	30	hp		20	30	res-cold		20	30																																																														0	1
+Twinned Talons		The Second Shadow		0					9tw		1	110	90	dgry	dgry	invclw					5	100	0	skilltab	19	2	2	swing2		20	20	dmg%		120	160	mana		20	30																																																														0	1
+Locket of Fading		The Second Shadow		0					amu		1	110	90	lpur	lpur	invamu					5	100	0	skilltab	19	1	1	cast2		10	10	mana		20	30	res-pois		20	30																																																														0	1
+Band of the Cast Shadow		The Second Shadow		0					rin		1	110	90	dpur	dpur	invrin					5	100	0	cast2		10	10	hp		15	25	mana		15	25	res-ltng		20	30																																																														0	1

@@ -1594,5 +1594,47 @@
       "uber": "lh/the_big_buckle",
       "ultra": "lh/the_big_buckle"
     }
+  },
+  {
+    "stillpoint_coronet": {
+      "normal": "lh/stillpoint_coronet",
+      "uber": "lh/stillpoint_coronet",
+      "ultra": "lh/stillpoint_coronet"
+    }
+  },
+  {
+    "hush_of_the_wyrm": {
+      "normal": "lh/hush_of_the_wyrm",
+      "uber": "lh/hush_of_the_wyrm",
+      "ultra": "lh/hush_of_the_wyrm"
+    }
+  },
+  {
+    "coil_of_patience": {
+      "normal": "lh/coil_of_patience",
+      "uber": "lh/coil_of_patience",
+      "ultra": "lh/coil_of_patience"
+    }
+  },
+  {
+    "twinned_talons": {
+      "normal": "lh/twinned_talons",
+      "uber": "lh/twinned_talons",
+      "ultra": "lh/twinned_talons"
+    }
+  },
+  {
+    "locket_of_fading": {
+      "normal": "lh/locket_of_fading",
+      "uber": "lh/locket_of_fading",
+      "ultra": "lh/locket_of_fading"
+    }
+  },
+  {
+    "band_of_the_cast_shadow": {
+      "normal": "lh/band_of_the_cast_shadow",
+      "uber": "lh/band_of_the_cast_shadow",
+      "ultra": "lh/band_of_the_cast_shadow"
+    }
   }
 ]

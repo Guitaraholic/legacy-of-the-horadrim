@@ -3549,13 +3549,6 @@
     }
   },
   {
-    "the_gilded_purse": {
-      "normal": "lh/the_gilded_purse",
-      "uber": "lh/the_gilded_purse",
-      "ultra": "lh/the_gilded_purse"
-    }
-  },
-  {
     "the_countess_bodkin": {
       "normal": "lh/the_countess_bodkin",
       "uber": "lh/the_countess_bodkin",
@@ -5940,6 +5933,20 @@
       "normal": "lh/last_betrayal_level_24",
       "uber": "lh/last_betrayal_level_24",
       "ultra": "lh/last_betrayal_level_24"
+    }
+  },
+  {
+    "snarekeepers_tread": {
+      "normal": "lh/snarekeepers_tread",
+      "uber": "lh/snarekeepers_tread",
+      "ultra": "lh/snarekeepers_tread"
+    }
+  },
+  {
+    "cinderwake": {
+      "normal": "lh/cinderwake",
+      "uber": "lh/cinderwake",
+      "ultra": "lh/cinderwake"
     }
   }
 ]

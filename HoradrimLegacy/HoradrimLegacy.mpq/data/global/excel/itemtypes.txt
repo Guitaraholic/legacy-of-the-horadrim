@@ -113,3 +113,237 @@ Helm	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							arm
 Oil	oil															1																			0				
 Runecraft Special	lhsp															1																			0				
 Cow Relic	lhcw															1																			0				
+Hexed Arrows	qhxa	mboq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Hexed Bolts	qhxb	mxbq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Flight Arrows	qfla	mboq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Flight Bolts	qflb	mxbq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Anointed Arrows	qana	mboq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Anointed Bolts	qanb	mxbq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Graven Arrows	qgra	bowq		0	1	rarm	larm		bow	0	1	0	0			0	0	1	25	2	40	3	0	3			0							misc	0	ammo	r_off		
+Graven Bolts	qgrb	xboq		0	1	rarm	larm		xbow	0	1	0	0			0	0	1	25	2	40	3	0	3			0							misc	0	ammo	r_off		
+Soul Helms 4	s000	s001												1	1																				0				
+Soul Helms 7	s001	s002												1	1																				0				
+Soul Helms 16	s002	s003												1	1																				0				
+Soul Helms 23	s003	s004												1	1																				0				
+Soul Helms 28	s004	s005												1	1																				0				
+Soul Helms 36	s005	s006												1	1																				0				
+Soul Helms 43	s006	s007												1	1																				0				
+Soul Helms 50	s007	s008												1	1																				0				
+Soul Helms 55	s008	s009												1	1																				0				
+Soul Helms 58	s009	s00a												1	1																				0				
+Soul Helms 73	s00a	s00b												1	1																				0				
+Soul Helms 79	s00b	s00c												1	1																				0				
+Soul Helms 86	s00c													1	1																				0				
+Soul Body armour 10	s010	s011												1	1																				0				
+Soul Body armour 16	s011	s012												1	1																				0				
+Soul Body armour 23	s012	s013												1	1																				0				
+Soul Body armour 27	s013	s014												1	1																				0				
+Soul Body armour 30	s014	s015												1	1																				0				
+Soul Body armour 39	s015	s016												1	1																				0				
+Soul Body armour 43	s016	s017												1	1																				0				
+Soul Body armour 49	s017	s018												1	1																				0				
+Soul Body armour 53	s018	s019												1	1																				0				
+Soul Body armour 60	s019	s01a												1	1																				0				
+Soul Body armour 64	s01a	s01b												1	1																				0				
+Soul Body armour 76	s01b	s01c												1	1																				0				
+Soul Body armour 85	s01c	s01d												1	1																				0				
+Soul Body armour 87	s01d													1	1																				0				
+Soul Shields 3	s020	s021												1	1																				0				
+Soul Shields 14	s021	s022												1	1																				0				
+Soul Shields 20	s022	s023												1	1																				0				
+Soul Shields 27	s023	s024												1	1																				0				
+Soul Shields 39	s024	s025												1	1																				0				
+Soul Shields 46	s025	s026												1	1																				0				
+Soul Shields 52	s026	s027												1	1																				0				
+Soul Shields 58	s027	s028												1	1																				0				
+Soul Shields 70	s028	s029												1	1																				0				
+Soul Shields 81	s029	s02a												1	1																				0				
+Soul Shields 85	s02a	s02b												1	1																				0				
+Soul Shields 91	s02b													1	1																				0				
+Soul Gloves 7	s030	s031												1	1																				0				
+Soul Gloves 16	s031	s032												1	1																				0				
+Soul Gloves 20	s032	s033												1	1																				0				
+Soul Gloves 31	s033	s034												1	1																				0				
+Soul Gloves 39	s034	s035												1	1																				0				
+Soul Gloves 44	s035	s036												1	1																				0				
+Soul Gloves 50	s036	s037												1	1																				0				
+Soul Gloves 57	s037	s038												1	1																				0				
+Soul Gloves 66	s038	s039												1	1																				0				
+Soul Gloves 85	s039	s03a												1	1																				0				
+Soul Gloves 91	s03a													1	1																				0				
+Soul Boots 7	s040	s041												1	1																				0				
+Soul Boots 12	s041	s042												1	1																				0				
+Soul Boots 22	s042	s043												1	1																				0				
+Soul Boots 30	s043	s044												1	1																				0				
+Soul Boots 40	s044	s045												1	1																				0				
+Soul Boots 48	s045	s046												1	1																				0				
+Soul Boots 54	s046	s047												1	1																				0				
+Soul Boots 58	s047	s048												1	1																				0				
+Soul Boots 72	s048	s049												1	1																				0				
+Soul Boots 74	s049	s04a												1	1																				0				
+Soul Boots 85	s04a	s04b												1	1																				0				
+Soul Boots 88	s04b													1	1																				0				
+Soul Belts 10	s050	s051												1	1																				0				
+Soul Belts 18	s051	s052												1	1																				0				
+Soul Belts 28	s052	s053												1	1																				0				
+Soul Belts 39	s053	s054												1	1																				0				
+Soul Belts 49	s054	s055												1	1																				0				
+Soul Belts 50	s055	s056												1	1																				0				
+Soul Belts 58	s056	s057												1	1																				0				
+Soul Belts 70	s057	s058												1	1																				0				
+Soul Belts 78	s058	s059												1	1																				0				
+Soul Belts 82	s059	s05a												1	1																				0				
+Soul Belts 87	s05a													1	1																				0				
+Soul Throwing axes 18	s060	s061												1	1																				0				
+Soul Throwing axes 65	s061	s062												1	1																				0				
+Soul Throwing axes 80	s062													1	1																				0				
+Soul Throwing knives 52	s070	s071												1	1																				0				
+Soul Throwing knives 83	s071													1	1																				0				
+Soul Javelins 26	s080	s081												1	1																				0				
+Soul Javelins 50	s081	s082												1	1																				0				
+Soul Javelins 77	s082	s083												1	1																				0				
+Soul Javelins 87	s083													1	1																				0				
+Soul Swords 3	s090	s091												1	1																				0				
+Soul Swords 14	s091	s092												1	1																				0				
+Soul Swords 18	s092	s093												1	1																				0				
+Soul Swords 26	s093	s094												1	1																				0				
+Soul Swords 31	s094	s095												1	1																				0				
+Soul Swords 39	s095	s096												1	1																				0				
+Soul Swords 44	s096	s097												1	1																				0				
+Soul Swords 49	s097	s098												1	1																				0				
+Soul Swords 54	s098	s099												1	1																				0				
+Soul Swords 59	s099	s09a												1	1																				0				
+Soul Swords 73	s09a	s09b												1	1																				0				
+Soul Swords 80	s09b	s09c												1	1																				0				
+Soul Swords 85	s09c	s09d												1	1																				0				
+Soul Swords 87	s09d													1	1																				0				
+Soul Bows 10	s0a0	s0a1												1	1																				0				
+Soul Bows 22	s0a1	s0a2												1	1																				0				
+Soul Bows 27	s0a2	s0a3												1	1																				0				
+Soul Bows 38	s0a3	s0a4												1	1																				0				
+Soul Bows 41	s0a4	s0a5												1	1																				0				
+Soul Bows 47	s0a5	s0a6												1	1																				0				
+Soul Bows 51	s0a6	s0a7												1	1																				0				
+Soul Bows 54	s0a7	s0a8												1	1																				0				
+Soul Bows 80	s0a8	s0a9												1	1																				0				
+Soul Bows 88	s0a9													1	1																				0				
+Soul Axes 7	s0b0	s0b1												1	1																				0				
+Soul Axes 12	s0b1	s0b2												1	1																				0				
+Soul Axes 20	s0b2	s0b3												1	1																				0				
+Soul Axes 28	s0b3	s0b4												1	1																				0				
+Soul Axes 36	s0b4	s0b5												1	1																				0				
+Soul Axes 43	s0b5	s0b6												1	1																				0				
+Soul Axes 47	s0b6	s0b7												1	1																				0				
+Soul Axes 53	s0b7	s0b8												1	1																				0				
+Soul Axes 56	s0b8	s0b9												1	1																				0				
+Soul Axes 68	s0b9	s0ba												1	1																				0				
+Soul Axes 75	s0ba	s0bb												1	1																				0				
+Soul Axes 82	s0bb	s0bc												1	1																				0				
+Soul Axes 85	s0bc													1	1																				0				
+Soul Maces 4	s0c0	s0c1												1	1																				0				
+Soul Maces 7	s0c1	s0c2												1	1																				0				
+Soul Maces 12	s0c2	s0c3												1	1																				0				
+Soul Maces 20	s0c3	s0c4												1	1																				0				
+Soul Maces 32	s0c4	s0c5												1	1																				0				
+Soul Maces 39	s0c5	s0c6												1	1																				0				
+Soul Maces 46	s0c6	s0c7												1	1																				0				
+Soul Maces 51	s0c7	s0c8												1	1																				0				
+Soul Maces 56	s0c8	s0c9												1	1																				0				
+Soul Maces 71	s0c9	s0ca												1	1																				0				
+Soul Maces 76	s0ca	s0cb												1	1																				0				
+Soul Maces 86	s0cb	s0cc												1	1																				0				
+Soul Maces 94	s0cc													1	1																				0				
+Soul Crossbows 12	s0d0	s0d1												1	1																				0				
+Soul Crossbows 24	s0d1	s0d2												1	1																				0				
+Soul Crossbows 40	s0d2	s0d3												1	1																				0				
+Soul Crossbows 44	s0d3	s0d4												1	1																				0				
+Soul Crossbows 59	s0d4	s0d5												1	1																				0				
+Soul Crossbows 84	s0d5													1	1																				0				
+Soul Spears 11	s0e0	s0e1												1	1																				0				
+Soul Spears 16	s0e1	s0e2												1	1																				0				
+Soul Spears 23	s0e2	s0e3												1	1																				0				
+Soul Spears 30	s0e3	s0e4												1	1																				0				
+Soul Spears 39	s0e4	s0e5												1	1																				0				
+Soul Spears 45	s0e5	s0e6												1	1																				0				
+Soul Spears 47	s0e6	s0e7												1	1																				0				
+Soul Spears 51	s0e7	s0e8												1	1																				0				
+Soul Spears 72	s0e8	s0e9												1	1																				0				
+Soul Spears 79	s0e9	s0ea												1	1																				0				
+Soul Spears 85	s0ea													1	1																				0				
+Soul Polearms 11	s0f0	s0f1												1	1																				0				
+Soul Polearms 22	s0f1	s0f2												1	1																				0				
+Soul Polearms 30	s0f2	s0f3												1	1																				0				
+Soul Polearms 39	s0f3	s0f4												1	1																				0				
+Soul Polearms 52	s0f4	s0f5												1	1																				0				
+Soul Polearms 55	s0f5	s0f6												1	1																				0				
+Soul Polearms 72	s0f6	s0f7												1	1																				0				
+Soul Polearms 86	s0f7													1	1																				0				
+Soul Daggers 6	s100	s101												1	1																				0				
+Soul Daggers 15	s101	s102												1	1																				0				
+Soul Daggers 26	s102	s103												1	1																				0				
+Soul Daggers 34	s103	s104												1	1																				0				
+Soul Daggers 44	s104	s105												1	1																				0				
+Soul Daggers 49	s105	s106												1	1																				0				
+Soul Daggers 73	s106	s107												1	1																				0				
+Soul Daggers 85	s107													1	1																				0				
+Soul Staves 7	s110	s111												1	1																				0				
+Soul Staves 16	s111	s112												1	1																				0				
+Soul Staves 24	s112	s113												1	1																				0				
+Soul Staves 28	s113	s114												1	1																				0				
+Soul Staves 39	s114	s115												1	1																				0				
+Soul Staves 47	s115	s116												1	1																				0				
+Soul Staves 49	s116	s117												1	1																				0				
+Soul Staves 74	s117	s118												1	1																				0				
+Soul Staves 86	s118	s119												1	1																				0				
+Soul Staves 95	s119													1	1																				0				
+Soul Wands 7	s120	s121												1	1																				0				
+Soul Wands 20	s121	s122												1	1																				0				
+Soul Wands 27	s122	s123												1	1																				0				
+Soul Wands 41	s123	s124												1	1																				0				
+Soul Wands 44	s124	s125												1	1																				0				
+Soul Wands 49	s125	s126												1	1																				0				
+Soul Wands 66	s126	s127												1	1																				0				
+Soul Wands 86	s127													1	1																				0				
+Soul Sceptres 7	s130	s131												1	1																				0				
+Soul Sceptres 23	s131	s132												1	1																				0				
+Soul Sceptres 31	s132	s133												1	1																				0				
+Soul Sceptres 46	s133	s134												1	1																				0				
+Soul Sceptres 52	s134	s135												1	1																				0				
+Soul Sceptres 69	s135	s136												1	1																				0				
+Soul Sceptres 80	s136	s137												1	1																				0				
+Soul Sceptres 85	s137													1	1																				0				
+Soul Orbs 18	s140	s141												1	1																				0				
+Soul Orbs 50	s141	s142												1	1																				0				
+Soul Orbs 80	s142	s143												1	1																				0				
+Soul Orbs 87	s143													1	1																				0				
+Soul Claws 14	s150	s151												1	1																				0				
+Soul Claws 19	s151	s152												1	1																				0				
+Soul Claws 32	s152	s153												1	1																				0				
+Soul Claws 52	s153	s154												1	1																				0				
+Soul Claws 74	s154	s155												1	1																				0				
+Soul Claws 78	s155	s156												1	1																				0				
+Soul Claws 85	s156	s157												1	1																				0				
+Soul Claws 94	s157													1	1																				0				
+Soul Rings 10	s160	s161												1	1																				0				
+Soul Rings 12	s161	s162												1	1																				0				
+Soul Rings 22	s162	s163												1	1																				0				
+Soul Rings 25	s163	s164												1	1																				0				
+Soul Rings 39	s164	s165												1	1																				0				
+Soul Rings 47	s165	s166												1	1																				0				
+Soul Rings 53	s166	s167												1	1																				0				
+Soul Rings 58	s167	s168												1	1																				0				
+Soul Rings 68	s168	s169												1	1																				0				
+Soul Rings 75	s169	s16a												1	1																				0				
+Soul Rings 77	s16a	s16b												1	1																				0				
+Soul Rings 84	s16b													1	1																				0				
+Soul Amulets 10	s170	s171												1	1																				0				
+Soul Amulets 16	s171	s172												1	1																				0				
+Soul Amulets 22	s172	s173												1	1																				0				
+Soul Amulets 36	s173	s174												1	1																				0				
+Soul Amulets 55	s174	s175												1	1																				0				
+Soul Amulets 60	s175	s176												1	1																				0				
+Soul Amulets 63	s176	s177												1	1																				0				
+Soul Amulets 76	s177	s178												1	1																				0				
+Soul Amulets 80	s178	s179												1	1																				0				
+Soul Amulets 85	s179	s17a												1	1																				0				
+Soul Amulets 90	s17a													1	1																				0				

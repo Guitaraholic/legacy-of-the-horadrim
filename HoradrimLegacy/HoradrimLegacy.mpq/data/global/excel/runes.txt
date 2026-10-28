@@ -312,5 +312,11 @@ Runeword311	Exodus	1						boot									VotBerJah	wr3	r30	r31				move2		60	60	all
 Runeword312	Worldbreaker	1						glov									MyrJahBer	wr1	r31	r30				allskills		2	2	swing2		30	30	cast2		20	20	lifesteal		10	10	heal-kill		20	20									0
 Runeword313	Kingmaker	1						belt									VotJah	wr3	r31					move2		40	40	hp%		15	15	red-dmg%		10	10	cast2		20	20													0
 Runeword314	Iron Will	1						pole	spea								XethBerChamZod	wr2	r30	r32	r33			aura	Conviction	22	22	dmg%		400	400	crush		50	50	ignore-ac		1	1													0
-Runeword315	Hail	1						helm									TalOrtSol	r07	r09	r12				lh-extra-projectiles		1	2	cast2		10	10	swing2		10	10																	0
+Runeword315	Hail	1						helm	glov								TalOrtFal	r07	r09	r19				lh-extra-projectiles		2	3	cast2		10	10	swing2		10	10																	0
 Runeword316	Deluge	1						helm	glov								LemIstGul	r20	r24	r25				allskills		1	1	lh-extra-projectiles		3	5	res-all		15	15																	0
+Runeword318	Torrent	1						swor	staf	scep	knif						EldRalOrt	r02	r08	r09				allskills		1	1	lh-extra-projectiles		1	1	cast2		20	20	mana		20	20													0
+Runeword319	Squall	1						bow	xbow								EthTalRal	r05	r07	r08				lh-extra-projectiles		1	1	cast2		10	10	swing2		10	10	mana		15	15													0
+Runeword320	Flurry	1						helm	glov	belt							TalNef	r07	r04					lh-extra-projectiles		1	1																									0
+Runeword321	Cloudburst	1						bow	xbow	swor	staf	scep	knif				OrtShaelUm	r09	r13	r22				lh-extra-projectiles		1	1	lh-volley-weight		15	20	cast2		20	20																	0
+Runeword322	Expanse	1						staf	orb	h2h							OrtLum	r09	r17					lh-chain-hits		2	2	lh-area-radius		2	2	cast2		20	20																	0
+Runeword323	Mandate	1						helm									ShaelDol	r13	r14					lh-aura-radius		2	2	lh-summon-cap		1	1	lh-skill-duration		15	20																	0

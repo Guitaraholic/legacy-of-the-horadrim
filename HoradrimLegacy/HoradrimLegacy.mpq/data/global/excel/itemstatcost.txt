@@ -413,3 +413,9 @@ lh_hint_sealed_blade	410			2														2	0	2	0																999	3	0	lh_hint
 lh_ruin_def_pct	411		1	11											47	20		9	100	9	100			13			armorclass										74	19		Modstr2v	Modstr2v										0
 lh_ruin_maxdmg_pct	412		1	11											47	20		9	100	9	100			13			maxdamage	secondary_maxdamage	item_throw_maxdamage			1					129	19		strModEnhancedDamage	strModEnhancedDamage										0
 lh_ruin_mindmg_pct	413		1	11											47	20		9	100	9	100			13			mindamage	secondary_mindamage	item_throw_mindamage			1																			0
+lh_volley_weight	414			8			1	0	8											8	0																154	19		lh_mod_volley_weight	lh_mod_volley_weight										0
+lh_area_radius	415			8			1	0	8											8	0																153	19		lh_mod_area_radius	lh_mod_area_radius										0
+lh_aura_radius	416			4			1	0	4											4	0																152	19		lh_mod_aura_radius	lh_mod_aura_radius										0
+lh_chain_hits	417			4			1	0	4											4	0																151	19		lh_mod_chain_hits	lh_mod_chain_hits										0
+lh_summon_cap	418			4			1	0	4											4	0																150	19		lh_mod_summon_cap	lh_mod_summon_cap										0
+lh_skill_duration	419			8			1	0	8											8	0																149	19		lh_mod_skill_duration	lh_mod_skill_duration										0

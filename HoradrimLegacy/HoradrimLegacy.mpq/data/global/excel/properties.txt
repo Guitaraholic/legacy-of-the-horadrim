@@ -329,3 +329,9 @@ lh-hint-warded-blade	325	1	1	lh_hint_warded_blade		1																										Tr
 lh-hint-sealed-blade	326	1	1	lh_hint_sealed_blade		1																										Fully awakened				Display-only hint; the itemstatcost descfunc 3 row renders the text	0
 lh-ruin-def	327	1	1	lh_ruin_def_pct																												-#% Enhanced Defense					0
 lh-ruin-dmg	328	1	1	lh_ruin_maxdmg_pct			3	lh_ruin_mindmg_pct																								-#% Enhanced Damage					0
+lh-volley-weight	329	1	1	lh_volley_weight																												+#% Damage per Extra Projectile		Min #	Max #		0
+lh-area-radius	330	1	1	lh_area_radius																												+# Yards to Area Radius		Min #	Max #		0
+lh-aura-radius	331	1	1	lh_aura_radius																												+# Yards to Aura and Curse Radius		Min #	Max #		0
+lh-chain-hits	332	1	1	lh_chain_hits																												+# Hits to Chain Lightning and Lightning Strike		Min #	Max #		0
+lh-summon-cap	333	1	1	lh_summon_cap																												+# to Maximum Summons		Min #	Max #		0
+lh-skill-duration	334	1	1	lh_skill_duration																												+#% Buff and Curse Duration		Min #	Max #		0

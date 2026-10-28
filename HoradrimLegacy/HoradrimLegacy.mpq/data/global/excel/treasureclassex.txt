@@ -8,7 +8,9 @@ Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	2																0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2																0
 Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2																0
 Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	2																0
-Ammo			1						aqv	1	cqv	1																										0
+Ammo			1						aqv	100	cqv	100	LH Quiver Families	6																								0
+LH Ammo (H)			1						aqv	12	cqv	12	LH Quiver Families (H)	6	q07	1	q08	1																				0
+LH Ammo (N)			1						aqv	12	cqv	12	LH Quiver Families (N)	6																								0
 Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2																				0
 Misc 1			1						key	3	tsc	3	isc	3	opm	2	gpm	2																				0
 Misc 2			1						key	3	tsc	3	isc	3	ops	2	gps	2																				0
@@ -25,6 +27,9 @@ Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1									
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1														0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1														0
 Runes 1			1						r01	3	r02	2																										0
+LH Quiver Families (H)			1						q01	1	q02	1	q03	1	q04	1	q05	1	q06	1																		0
+LH Quiver Families (N)			1						q01	1	q02	1	q03	1	q04	1	q05	1	q06	1																		0
+LH Quiver Families			1						q01	1	q02	1	q03	1	q04	1	q05	1	q06	1																		0
 Runes 2			1						r03	3	r04	2	Runes 1	2																								0
 Runes 3			1						r05	3	r06	2	Runes 2	5																								0
 Runes 4			1						r07	3	r08	2	Runes 3	7																								0
@@ -57,16 +62,16 @@ Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																					
 Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																						0
 Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																						0
 Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																						0
-Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
-Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																						0
+Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (N)	4																						0
+Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (N)	4																						0
+Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (N)	4																						0
+Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (N)	4																						0
+Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (N)	4																						0
+Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (H)	4																						0
+Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (H)	4																						0
+Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (H)	4																						0
+Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (H)	4																						0
+Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	LH Ammo (H)	4																						0
 Sunder Charms			1						PreCrafted Cold Rupture	30	PreCrafted Flame Rift	30	PreCrafted Crack of the Heavens	20	PreCrafted Rotting Fissure	12	PreCrafted Bone Break	6	PreCrafted Black Cleft	3												"cond('MonsterTestElite', herald)"	2	2	1			0
 Herald Charm 1			1						Act 5 (H) Junk	3	"gld,mul=2048"	2																										0
 Herald Charm 2			1						Act 5 (H) Junk	3	"gld,mul=2048"	2	Herald Charm 1	2																								0
@@ -639,61 +644,61 @@ Act 5 Miss B Vanilla			1					100	gld	18	Act 5 Equip B	13	Act 5 Junk	18	Act 5 Goo
 Act 5 Miss B	9	34	-2					0	LH Reagent Roll	1	Act 5 Miss B Vanilla	1																										0
 Act 5 Miss C Vanilla			1					100	gld	18	Act 5 Equip C	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6	Ammo	3																		0
 Act 5 Miss C	9	36	-2					0	LH Reagent Roll	1	Act 5 Miss C Vanilla	1																										0
-Act 1 (N) Miss A Vanilla			1					100	gld	18	Act 1 (N) Equip A	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow A	6	Ammo	3																		0
+Act 1 (N) Miss A Vanilla			1					100	gld	18	Act 1 (N) Equip A	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow A	6	LH Ammo (N)	3																		0
 Act 1 (N) Miss A	9	38	-2					0	LH Reagent Roll (N)	1	Act 1 (N) Miss A Vanilla	1																										0
-Act 1 (N) Miss B Vanilla			1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	Ammo	3																		0
+Act 1 (N) Miss B Vanilla			1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 1 (N) Miss B	9	40	-2					0	LH Reagent Roll (N)	1	Act 1 (N) Miss B Vanilla	1																										0
-Act 1 (N) Miss C Vanilla			1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	Ammo	3																		0
+Act 1 (N) Miss C Vanilla			1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 1 (N) Miss C	9	41	-2					0	LH Reagent Roll (N)	1	Act 1 (N) Miss C Vanilla	1																										0
-Act 2 (N) Miss A Vanilla			1					100	gld	18	Act 2 (N) Equip A	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow A	6	Ammo	3																		0
+Act 2 (N) Miss A Vanilla			1					100	gld	18	Act 2 (N) Equip A	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow A	6	LH Ammo (N)	3																		0
 Act 2 (N) Miss A	9	42	-2					0	LH Reagent Roll (N)	1	Act 2 (N) Miss A Vanilla	1																										0
-Act 2 (N) Miss B Vanilla			1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	Ammo	3																		0
+Act 2 (N) Miss B Vanilla			1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 2 (N) Miss B	9	44	-2					0	LH Reagent Roll (N)	1	Act 2 (N) Miss B Vanilla	1																										0
-Act 2 (N) Miss C Vanilla			1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	Ammo	3																		0
+Act 2 (N) Miss C Vanilla			1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 2 (N) Miss C	9	45	-2					0	LH Reagent Roll (N)	1	Act 2 (N) Miss C Vanilla	1																										0
-Act 3 (N) Miss A Vanilla			1					100	gld	18	Act 3 (N) Equip A	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow A	6	Ammo	3																		0
+Act 3 (N) Miss A Vanilla			1					100	gld	18	Act 3 (N) Equip A	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow A	6	LH Ammo (N)	3																		0
 Act 3 (N) Miss A	9	46	-2					0	LH Reagent Roll (N)	1	Act 3 (N) Miss A Vanilla	1																										0
-Act 3 (N) Miss B Vanilla			1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	Ammo	3																		0
+Act 3 (N) Miss B Vanilla			1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 3 (N) Miss B	9	48	-2					0	LH Reagent Roll (N)	1	Act 3 (N) Miss B Vanilla	1																										0
-Act 3 (N) Miss C Vanilla			1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	Ammo	3																		0
+Act 3 (N) Miss C Vanilla			1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 3 (N) Miss C	9	50	-2					0	LH Reagent Roll (N)	1	Act 3 (N) Miss C Vanilla	1																										0
-Act 4 (N) Miss A Vanilla			1					100	gld	18	Act 4 (N) Equip A	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow A	6	Ammo	3																		0
+Act 4 (N) Miss A Vanilla			1					100	gld	18	Act 4 (N) Equip A	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow A	6	LH Ammo (N)	3																		0
 Act 4 (N) Miss A	9	51	-2					0	LH Reagent Roll (N)	1	Act 4 (N) Miss A Vanilla	1																										0
-Act 4 (N) Miss B Vanilla			1					100	gld	18	Act 4 (N) Equip B	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow B	6	Ammo	3																		0
+Act 4 (N) Miss B Vanilla			1					100	gld	18	Act 4 (N) Equip B	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 4 (N) Miss B	9	54	-2					0	LH Reagent Roll (N)	1	Act 4 (N) Miss B Vanilla	1																										0
-Act 5 (N) Miss A Vanilla			1					100	gld	18	Act 5 (N) Equip A	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow A	6	Ammo	3																		0
+Act 5 (N) Miss A Vanilla			1					100	gld	18	Act 5 (N) Equip A	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow A	6	LH Ammo (N)	3																		0
 Act 5 (N) Miss A	9	57	-2					0	LH Reagent Roll (N)	1	Act 5 (N) Miss A Vanilla	1																										0
-Act 5 (N) Miss B Vanilla			1					100	gld	18	Act 5 (N) Equip B	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	Ammo	3																		0
+Act 5 (N) Miss B Vanilla			1					100	gld	18	Act 5 (N) Equip B	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 5 (N) Miss B	9	60	-2					0	LH Reagent Roll (N)	1	Act 5 (N) Miss B Vanilla	1																										0
-Act 5 (N) Miss C Vanilla			1					100	gld	18	Act 5 (N) Equip C	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	Ammo	3																		0
+Act 5 (N) Miss C Vanilla			1					100	gld	18	Act 5 (N) Equip C	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	LH Ammo (N)	3																		0
 Act 5 (N) Miss C	9	62	-2					0	LH Reagent Roll (N)	1	Act 5 (N) Miss C Vanilla	1																										0
-Act 1 (H) Miss A Vanilla			1					100	gld	18	Act 1 (H) Equip A	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow A	6	Ammo	3																		0
+Act 1 (H) Miss A Vanilla			1					100	gld	18	Act 1 (H) Equip A	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow A	6	LH Ammo (H)	3																		0
 Act 1 (H) Miss A	9	63	-2					0	LH Reagent Roll (H)	1	Act 1 (H) Miss A Vanilla	1																										0
-Act 1 (H) Miss B Vanilla			1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow B	6	Ammo	3																		0
+Act 1 (H) Miss B Vanilla			1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 1 (H) Miss B	9	66	-2					0	LH Reagent Roll (H)	1	Act 1 (H) Miss B Vanilla	1																										0
-Act 1 (H) Miss C Vanilla			1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow B	6	Ammo	3																		0
+Act 1 (H) Miss C Vanilla			1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 1 (H) Miss C	9	68	-2					0	LH Reagent Roll (H)	1	Act 1 (H) Miss C Vanilla	1																										0
-Act 2 (H) Miss A Vanilla			1					100	gld	18	Act 2 (H) Equip A	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow A	6	Ammo	3																		0
+Act 2 (H) Miss A Vanilla			1					100	gld	18	Act 2 (H) Equip A	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow A	6	LH Ammo (H)	3																		0
 Act 2 (H) Miss A	9	69	-2					0	LH Reagent Roll (H)	1	Act 2 (H) Miss A Vanilla	1																										0
-Act 2 (H) Miss B Vanilla			1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow B	6	Ammo	3																		0
+Act 2 (H) Miss B Vanilla			1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 2 (H) Miss B	9	71	-2					0	LH Reagent Roll (H)	1	Act 2 (H) Miss B Vanilla	1																										0
-Act 2 (H) Miss C Vanilla			1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow B	6	Ammo	3																		0
+Act 2 (H) Miss C Vanilla			1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 2 (H) Miss C	9	72	-2					0	LH Reagent Roll (H)	1	Act 2 (H) Miss C Vanilla	1																										0
-Act 3 (H) Miss A Vanilla			1					100	gld	18	Act 3 (H) Equip A	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow A	6	Ammo	3																		0
+Act 3 (H) Miss A Vanilla			1					100	gld	18	Act 3 (H) Equip A	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow A	6	LH Ammo (H)	3																		0
 Act 3 (H) Miss A	9	74	-2					0	LH Reagent Roll (H)	1	Act 3 (H) Miss A Vanilla	1																										0
-Act 3 (H) Miss B Vanilla			1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow B	6	Ammo	3																		0
+Act 3 (H) Miss B Vanilla			1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 3 (H) Miss B	9	75	-2					0	LH Reagent Roll (H)	1	Act 3 (H) Miss B Vanilla	1																										0
-Act 3 (H) Miss C Vanilla			1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow B	6	Ammo	3																		0
+Act 3 (H) Miss C Vanilla			1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 3 (H) Miss C	9	77	-2					0	LH Reagent Roll (H)	1	Act 3 (H) Miss C Vanilla	1																										0
-Act 4 (H) Miss A Vanilla			1					100	gld	18	Act 4 (H) Equip A	13	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Bow A	6	Ammo	3																		0
+Act 4 (H) Miss A Vanilla			1					100	gld	18	Act 4 (H) Equip A	13	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Bow A	6	LH Ammo (H)	3																		0
 Act 4 (H) Miss A	9	78	-2					0	LH Reagent Roll (H)	1	Act 4 (H) Miss A Vanilla	1																										0
-Act 4 (H) Miss B Vanilla			1					100	gld	18	Act 4 (H) Equip B	13	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Bow B	6	Ammo	3																		0
+Act 4 (H) Miss B Vanilla			1					100	gld	18	Act 4 (H) Equip B	13	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 4 (H) Miss B	9	80	-2					0	LH Reagent Roll (H)	1	Act 4 (H) Miss B Vanilla	1																										0
-Act 5 (H) Miss A Vanilla			1					100	gld	18	Act 5 (H) Equip A	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow A	6	Ammo	3																		0
+Act 5 (H) Miss A Vanilla			1					100	gld	18	Act 5 (H) Equip A	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow A	6	LH Ammo (H)	3																		0
 Act 5 (H) Miss A	9	81	-2					0	LH Reagent Roll (H)	1	Act 5 (H) Miss A Vanilla	1																										0
-Act 5 (H) Miss B Vanilla			1					100	gld	18	Act 5 (H) Equip B	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow B	6	Ammo	3																		0
+Act 5 (H) Miss B Vanilla			1					100	gld	18	Act 5 (H) Equip B	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 5 (H) Miss B	9	83	-2					0	LH Reagent Roll (H)	1	Act 5 (H) Miss B Vanilla	1																										0
-Act 5 (H) Miss C Vanilla			1					100	gld	18	Act 5 (H) Equip C	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow B	6	Ammo	3																		0
+Act 5 (H) Miss C Vanilla			1					100	gld	18	Act 5 (H) Equip C	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow B	6	LH Ammo (H)	3																		0
 Act 5 (H) Miss C	9	85	-2					0	LH Reagent Roll (H)	1	Act 5 (H) Miss C Vanilla	1																										0
 Act 1 Wraith A Vanilla			1					75	Act 1 Good	4	Act 1 Magic A	25																										0
 Act 1 Wraith A	10	0	-2					0	LH Reagent Roll	1	Act 1 Wraith A Vanilla	1																										0
@@ -1928,7 +1933,7 @@ LH Uber Mephisto Amulet			1					992	Mephisto's Hatred	8																									
 LH Uber Diablo Amulet			1					992	Diablo's Terror	8																												0
 LH Uber Baal Amulet			1					992	Baal's Destruction	8																												0
 LH Uber Mephisto			-2					0	LH Uber Mephisto Amulet	1	Mephisto (H) Vanilla	1																										0
-LH Uber Diablo			-2					0	LH Uber Diablo Amulet	1	Diablo (H) Vanilla	1																										0
+LH Uber Diablo			-3					0	Hellfire Torch	1	LH Uber Diablo Amulet	1	Diablo (H) Vanilla	1																								0
 LH Uber Baal			-2					0	LH Uber Baal Amulet	1	Baal (H) Vanilla	1																										0
 LH Convergence Facets			1					0	Facet of Prime Evils Mephisto	1	Facet of the Prime Evils Diablo	1	Facet of the Prime Evils Baal	1																								0
 LH Convergence Summit			1					0	Litany of Tathamet	1	Spite of the Three	1	The Hellforge Warbanner	1	Worldstone Remnant	1																						0
@@ -2049,7 +2054,7 @@ LH Stone T13 Bonus			1					3	s13	1																												0
 LH Stone T13 Up			1					9	s14	1																												0
 LH Stone T13 Gem			2					2	Perfect Gem	14																												0
 LH Stone T13 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
-LH Stone T13 Chase			1					2930	Death-Mask of Ureh	10	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5																						0
+LH Stone T13 Chase			1					2925	Death-Mask of Ureh	10	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5																				0
 LH Stone T13 Seal			1					20	u01	1	u02	1	u03	1	u04	1	u05	1																				0
 LH Stone T13 Boss			-9						LH Stone T13 Seal	1	LH Stone T13 Main	1	LH Stone T13 Bonus	1	LH Stone T13 Up	1	LH Stone T13 Tier1	1	LH Stone T13 Chase	1	LH Stone Blades II	1	LH Stone T13 Gem	1	Act 5 (H) Super Cx	1												0
 LH Stone T14 Main			1					3	s14	17																												0
@@ -2057,7 +2062,7 @@ LH Stone T14 Bonus			1					3	s14	1																												0
 LH Stone T14 Up			1					9	s15	1																												0
 LH Stone T14 Gem			2					1	Perfect Gem	15																												0
 LH Stone T14 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
-LH Stone T14 Chase			1					2940	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5																								0
+LH Stone T14 Chase			1					2935	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5																						0
 LH Stone T14 Set			1					144	LH Set Khalim's Light	6																												0
 LH Stone T14 Seal			1					20	u01	1	u02	1	u03	1	u04	1	u05	1																				0
 LH Stone T14 Boss			-10						LH Stone T14 Seal	1	LH Stone T14 Main	1	LH Stone T14 Bonus	1	LH Stone T14 Up	1	LH Stone T14 Tier1	1	LH Stone T14 Chase	1	LH Stone T14 Set	1	LH Stone Blades II	1	LH Stone T14 Gem	1	Act 5 (H) Super Cx	1										0
@@ -2066,7 +2071,7 @@ LH Stone T15 Bonus			1					4	s15	1																												0
 LH Stone T15 Gem			2					0	Perfect Gem	16																												0
 LH Stone T15 Gem Blades			-2						LH Stone T15 Gem	1	LH Stone Blades II	1																										0
 LH Stone T15 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
-LH Stone T15 Chase			1					2940	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5																								0
+LH Stone T15 Chase			1					2935	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5																						0
 LH Stone T15 Set			1					144	LH Set The Mage Clans' Accord	6																												0
 LH Stone T15 Seal			1					20	u01	1	u02	1	u03	1	u04	1	u05	1																				0
 LH Stone T15 Boss			-10						LH Stone T15 Seal	1	LH Shade Relic Stone	1	LH Stone T15 Main	1	LH Stone T15 Bonus	1	LH Stone Sigil I	1	LH Stone T15 Tier1	1	LH Stone T15 Chase	1	LH Stone T15 Set	1	LH Stone T15 Gem Blades	1	Act 5 (H) Super Cx	1										0
@@ -2099,10 +2104,13 @@ LH Seal III Chase			1					1082	Rod of the Bonebound	6	The Riven Mail	6	Bough of 
 LH Seal III Herb			1					273	Hellebore	1	Nightshade	1	Snowdrop	4	Mandrake	4	Thunderwort	1	Moonwort	1	Wolfsbane	3																0
 LH Seal III			-4						LH Seal III Chase	1	LH Seal III Herb	1	LH Reagents	1	LH Echo V Loot	1																						0
 LH Seal III Vardek			-4						o03	1	LH Seal Sigil	1	LH Seal Stone XIV	1	LH Seal III	1																						0
-LH Seal IV Chase			1					457	Rod of the High Council	6	Bloodwade	6	Grasp of Travincal	6	Broken Stone Ring High Council	30	LH Set Bartuc's Dominion	60	LH Mage-Clans Wall	25	LH Seal Tier0	4	LH Seal Blades III	6														0
+LH Set The Patient Hand			1					0	Stillpoint Coronet	1	Hush of the Wyrm	1	Coil of Patience	1																								0
+LH Seal IV Chase			1					1351	Rod of the High Council	18	Bloodwade	18	Grasp of Travincal	18	Broken Stone Ring High Council	90	LH Set Bartuc's Dominion	180	LH Mage-Clans Wall	75	LH Seal Tier0	12	LH Seal Blades III	18	LH Set The Patient Hand	20												0
 LH Seal IV Herb			1					132	Hellebore	1	Nightshade	1	Snowdrop	1	Mandrake	1	Thunderwort	4	Moonwort	1	Wolfsbane	3																0
 LH Seal IV			-7						o04	1	LH Seal IV Chase	1	LH Seal IV Herb	1	LH Reagents	1	LH Seal Sigil	1	LH Seal Stone XIV	1	LH Echo V Loot	1																0
-LH Seal V Chase			1					404	The Ceaseless Talon	6	The Stilled Hour	6	Zoltun's Last Lesson	6	Kulle's Halted Sand	6	Broken Stone Ring Zoltun Kulle	30	LH Set Heirs of the Horadrim	60	LH Viz-Jaq'taar	70	Nor Tiraj's Trek	2	LH Seal Tier0	4	LH Seal Blades III	6										0
+LH Set The Second Shadow			1					0	Twinned Talons	1	Locket of Fading	1	Band of the Cast Shadow	1																								0
+LH Seal V Assassin Rewards			1					0	LH Seal Blades III	18	LH Set The Second Shadow	20	Snarekeeper's Tread	15																								0
+LH Seal V Chase			1					1177	The Ceaseless Talon	18	The Stilled Hour	18	Zoltun's Last Lesson	18	Kulle's Halted Sand	18	Broken Stone Ring Zoltun Kulle	90	LH Set Heirs of the Horadrim	180	LH Viz-Jaq'taar	210	Nor Tiraj's Trek	6	LH Seal Tier0	12	LH Seal V Assassin Rewards	53										0
 LH Seal V Herb			1					132	Hellebore	1	Nightshade	1	Snowdrop	1	Mandrake	1	Thunderwort	1	Moonwort	4	Wolfsbane	3																0
 LH Seal V			-7						o05	1	LH Seal V Chase	1	LH Seal V Herb	1	LH Reagents	1	LH Seal Sigil	1	LH Seal Stone XV	1	LH Echo V Loot	1																0
 LH Heaven Summit Pool			1					607	Inarius' Wing-Blade	25	Uldyssian's Awakening	25	Anu's Radiance	25	The Cathedral's Mercy	25	Ward of the Light	25	LH Set Imperius' Vanguard	200	Shroud of the Nephalem	3	The Wordless	40	The Lone Voice	25												0
