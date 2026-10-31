@@ -1,0 +1,7 @@
+{
+  "name": "horadrimlegacy",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./public", "not_found_handling": "404-page" },
+  "workers_dev": false,
+  "preview_urls": false
+}
