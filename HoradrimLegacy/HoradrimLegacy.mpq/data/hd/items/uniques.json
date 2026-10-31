@@ -4809,6 +4809,195 @@
     }
   },
   {
+    "the_refugees_token": {
+      "normal": "lh/the_refugees_token",
+      "uber": "lh/the_refugees_token",
+      "ultra": "lh/the_refugees_token"
+    }
+  },
+  {
+    "the_paupers_mark": {
+      "normal": "lh/the_paupers_mark",
+      "uber": "lh/the_paupers_mark",
+      "ultra": "lh/the_paupers_mark"
+    }
+  },
+  {
+    "leechmark": {
+      "normal": "lh/leechmark",
+      "uber": "lh/leechmark",
+      "ultra": "lh/leechmark"
+    }
+  },
+  {
+    "the_apprentices_glass": {
+      "normal": "lh/the_apprentices_glass",
+      "uber": "lh/the_apprentices_glass",
+      "ultra": "lh/the_apprentices_glass"
+    }
+  },
+  {
+    "the_clansmans_oath": {
+      "normal": "lh/the_clansmans_oath",
+      "uber": "lh/the_clansmans_oath",
+      "ultra": "lh/the_clansmans_oath"
+    }
+  },
+  {
+    "the_annalist": {
+      "normal": "lh/the_annalist",
+      "uber": "lh/the_annalist",
+      "ultra": "lh/the_annalist"
+    }
+  },
+  {
+    "the_iron_decree": {
+      "normal": "lh/the_iron_decree",
+      "uber": "lh/the_iron_decree",
+      "ultra": "lh/the_iron_decree"
+    }
+  },
+  {
+    "the_last_lantern": {
+      "normal": "lh/the_last_lantern",
+      "uber": "lh/the_last_lantern",
+      "ultra": "lh/the_last_lantern"
+    }
+  },
+  {
+    "forgeward": {
+      "normal": "lh/forgeward",
+      "uber": "lh/forgeward",
+      "ultra": "lh/forgeward"
+    }
+  },
+  {
+    "the_banked_fire": {
+      "normal": "lh/the_banked_fire",
+      "uber": "lh/the_banked_fire",
+      "ultra": "lh/the_banked_fire"
+    }
+  },
+  {
+    "glacierward": {
+      "normal": "lh/glacierward",
+      "uber": "lh/glacierward",
+      "ultra": "lh/glacierward"
+    }
+  },
+  {
+    "the_deepening_cold": {
+      "normal": "lh/the_deepening_cold",
+      "uber": "lh/the_deepening_cold",
+      "ultra": "lh/the_deepening_cold"
+    }
+  },
+  {
+    "fenward": {
+      "normal": "lh/fenward",
+      "uber": "lh/fenward",
+      "ultra": "lh/fenward"
+    }
+  },
+  {
+    "the_spreading_blight": {
+      "normal": "lh/the_spreading_blight",
+      "uber": "lh/the_spreading_blight",
+      "ultra": "lh/the_spreading_blight"
+    }
+  },
+  {
+    "duskward": {
+      "normal": "lh/duskward",
+      "uber": "lh/duskward",
+      "ultra": "lh/duskward"
+    }
+  },
+  {
+    "the_honing_edge": {
+      "normal": "lh/the_honing_edge",
+      "uber": "lh/the_honing_edge",
+      "ultra": "lh/the_honing_edge"
+    }
+  },
+  {
+    "prismward": {
+      "normal": "lh/prismward",
+      "uber": "lh/prismward",
+      "ultra": "lh/prismward"
+    }
+  },
+  {
+    "the_clearing_sky": {
+      "normal": "lh/the_clearing_sky",
+      "uber": "lh/the_clearing_sky",
+      "ultra": "lh/the_clearing_sky"
+    }
+  },
+  {
+    "the_gathering_storm": {
+      "normal": "lh/the_gathering_storm",
+      "uber": "lh/the_gathering_storm",
+      "ultra": "lh/the_gathering_storm"
+    }
+  },
+  {
+    "the_magpie": {
+      "normal": "lh/the_magpie",
+      "uber": "lh/the_magpie",
+      "ultra": "lh/the_magpie"
+    }
+  },
+  {
+    "skullthorn": {
+      "normal": "lh/skullthorn",
+      "uber": "lh/skullthorn",
+      "ultra": "lh/skullthorn"
+    }
+  },
+  {
+    "gravedrinker": {
+      "normal": "lh/gravedrinker",
+      "uber": "lh/gravedrinker",
+      "ultra": "lh/gravedrinker"
+    }
+  },
+  {
+    "the_yshari_reliquary": {
+      "normal": "lh/the_yshari_reliquary",
+      "uber": "lh/the_yshari_reliquary",
+      "ultra": "lh/the_yshari_reliquary"
+    }
+  },
+  {
+    "horazons_focus": {
+      "normal": "lh/horazons_focus",
+      "uber": "lh/horazons_focus",
+      "ultra": "lh/horazons_focus"
+    }
+  },
+  {
+    "the_solstice": {
+      "normal": "lh/the_solstice",
+      "uber": "lh/the_solstice",
+      "ultra": "lh/the_solstice"
+    }
+  },
+  {
+    "the_misers_bite": {
+      "normal": "lh/the_misers_bite",
+      "uber": "lh/the_misers_bite",
+      "ultra": "lh/the_misers_bite"
+    }
+  },
+  {
+    "bone_and_slate": {
+      "normal": "lh/bone_and_slate",
+      "uber": "lh/bone_and_slate",
+      "ultra": "lh/bone_and_slate"
+    }
+  },
+  {
     "the_hollow_flame": {
       "normal": "lh/the_hollow_flame",
       "uber": "lh/the_hollow_flame",
@@ -5936,6 +6125,48 @@
     }
   },
   {
+    "witch_fletching_arrows": {
+      "normal": "lh/witch_fletching_arrows",
+      "uber": "lh/witch_fletching_arrows",
+      "ultra": "lh/witch_fletching_arrows"
+    }
+  },
+  {
+    "witch_fletching_bolts": {
+      "normal": "lh/witch_fletching_bolts",
+      "uber": "lh/witch_fletching_bolts",
+      "ultra": "lh/witch_fletching_bolts"
+    }
+  },
+  {
+    "unerring_flight_arrows": {
+      "normal": "lh/unerring_flight_arrows",
+      "uber": "lh/unerring_flight_arrows",
+      "ultra": "lh/unerring_flight_arrows"
+    }
+  },
+  {
+    "unerring_flight_bolts": {
+      "normal": "lh/unerring_flight_bolts",
+      "uber": "lh/unerring_flight_bolts",
+      "ultra": "lh/unerring_flight_bolts"
+    }
+  },
+  {
+    "consecrated_shaft_arrows": {
+      "normal": "lh/consecrated_shaft_arrows",
+      "uber": "lh/consecrated_shaft_arrows",
+      "ultra": "lh/consecrated_shaft_arrows"
+    }
+  },
+  {
+    "consecrated_shaft_bolts": {
+      "normal": "lh/consecrated_shaft_bolts",
+      "uber": "lh/consecrated_shaft_bolts",
+      "ultra": "lh/consecrated_shaft_bolts"
+    }
+  },
+  {
     "snarekeepers_tread": {
       "normal": "lh/snarekeepers_tread",
       "uber": "lh/snarekeepers_tread",
@@ -5947,6 +6178,447 @@
       "normal": "lh/cinderwake",
       "uber": "lh/cinderwake",
       "ultra": "lh/cinderwake"
+    }
+  },
+  {
+    "skovos_stormtine": {
+      "normal": "lh/skovos_stormtine",
+      "uber": "lh/skovos_stormtine",
+      "ultra": "lh/skovos_stormtine"
+    }
+  },
+  {
+    "askari_rimebow": {
+      "normal": "lh/askari_rimebow",
+      "uber": "lh/askari_rimebow",
+      "ultra": "lh/askari_rimebow"
+    }
+  },
+  {
+    "skovos_emberbow": {
+      "normal": "lh/skovos_emberbow",
+      "uber": "lh/skovos_emberbow",
+      "ultra": "lh/skovos_emberbow"
+    }
+  },
+  {
+    "the_unforgotten_sister": {
+      "normal": "lh/the_unforgotten_sister",
+      "uber": "lh/the_unforgotten_sister",
+      "ultra": "lh/the_unforgotten_sister"
+    }
+  },
+  {
+    "first_hunt": {
+      "normal": "lh/first_hunt",
+      "uber": "lh/first_hunt",
+      "ultra": "lh/first_hunt"
+    }
+  },
+  {
+    "rootward": {
+      "normal": "lh/rootward",
+      "uber": "lh/rootward",
+      "ultra": "lh/rootward"
+    }
+  },
+  {
+    "briarfever": {
+      "normal": "lh/briarfever",
+      "uber": "lh/briarfever",
+      "ultra": "lh/briarfever"
+    }
+  },
+  {
+    "lh_council_votive": {
+      "normal": "lh/lh_council_votive",
+      "uber": "lh/lh_council_votive",
+      "ultra": "lh/lh_council_votive"
+    }
+  },
+  {
+    "lh_council_marius": {
+      "normal": "lh/lh_council_marius",
+      "uber": "lh/lh_council_marius",
+      "ultra": "lh/lh_council_marius"
+    }
+  },
+  {
+    "lh_council_shard": {
+      "normal": "lh/lh_council_shard",
+      "uber": "lh/lh_council_shard",
+      "ultra": "lh/lh_council_shard"
+    }
+  },
+  {
+    "lh_summoner_lens": {
+      "normal": "lh/lh_summoner_lens",
+      "uber": "lh/lh_summoner_lens",
+      "ultra": "lh/lh_summoner_lens"
+    }
+  },
+  {
+    "lh_blood_raven_fang": {
+      "normal": "lh/lh_blood_raven_fang",
+      "uber": "lh/lh_blood_raven_fang",
+      "ultra": "lh/lh_blood_raven_fang"
+    }
+  },
+  {
+    "lh_radament_skull": {
+      "normal": "lh/lh_radament_skull",
+      "uber": "lh/lh_radament_skull",
+      "ultra": "lh/lh_radament_skull"
+    }
+  },
+  {
+    "lh_hephasto_heart": {
+      "normal": "lh/lh_hephasto_heart",
+      "uber": "lh/lh_hephasto_heart",
+      "ultra": "lh/lh_hephasto_heart"
+    }
+  },
+  {
+    "lh_hephasto_quenchstone": {
+      "normal": "lh/lh_hephasto_quenchstone",
+      "uber": "lh/lh_hephasto_quenchstone",
+      "ultra": "lh/lh_hephasto_quenchstone"
+    }
+  },
+  {
+    "lh_countess_stone": {
+      "normal": "lh/lh_countess_stone",
+      "uber": "lh/lh_countess_stone",
+      "ultra": "lh/lh_countess_stone"
+    }
+  },
+  {
+    "lh_mephisto_tithe": {
+      "normal": "lh/lh_mephisto_tithe",
+      "uber": "lh/lh_mephisto_tithe",
+      "ultra": "lh/lh_mephisto_tithe"
+    }
+  },
+  {
+    "lh_baal_promise": {
+      "normal": "lh/lh_baal_promise",
+      "uber": "lh/lh_baal_promise",
+      "ultra": "lh/lh_baal_promise"
+    }
+  },
+  {
+    "lh_nihlathak_pyre": {
+      "normal": "lh/lh_nihlathak_pyre",
+      "uber": "lh/lh_nihlathak_pyre",
+      "ultra": "lh/lh_nihlathak_pyre"
+    }
+  },
+  {
+    "lh_summoner_glass": {
+      "normal": "lh/lh_summoner_glass",
+      "uber": "lh/lh_summoner_glass",
+      "ultra": "lh/lh_summoner_glass"
+    }
+  },
+  {
+    "lh_izual_tear": {
+      "normal": "lh/lh_izual_tear",
+      "uber": "lh/lh_izual_tear",
+      "ultra": "lh/lh_izual_tear"
+    }
+  },
+  {
+    "lh_sszark_emerald": {
+      "normal": "lh/lh_sszark_emerald",
+      "uber": "lh/lh_sszark_emerald",
+      "ultra": "lh/lh_sszark_emerald"
+    }
+  },
+  {
+    "lh_sszark_alkor": {
+      "normal": "lh/lh_sszark_alkor",
+      "uber": "lh/lh_sszark_alkor",
+      "ultra": "lh/lh_sszark_alkor"
+    }
+  },
+  {
+    "lh_sarina_topaz": {
+      "normal": "lh/lh_sarina_topaz",
+      "uber": "lh/lh_sarina_topaz",
+      "ultra": "lh/lh_sarina_topaz"
+    }
+  },
+  {
+    "lh_endugu_tooth": {
+      "normal": "lh/lh_endugu_tooth",
+      "uber": "lh/lh_endugu_tooth",
+      "ultra": "lh/lh_endugu_tooth"
+    }
+  },
+  {
+    "lh_frozenstein_sapphire": {
+      "normal": "lh/lh_frozenstein_sapphire",
+      "uber": "lh/lh_frozenstein_sapphire",
+      "ultra": "lh/lh_frozenstein_sapphire"
+    }
+  },
+  {
+    "lh_de_seis_wrath": {
+      "normal": "lh/lh_de_seis_wrath",
+      "uber": "lh/lh_de_seis_wrath",
+      "ultra": "lh/lh_de_seis_wrath"
+    }
+  },
+  {
+    "lh_grand_vizier_bead": {
+      "normal": "lh/lh_grand_vizier_bead",
+      "uber": "lh/lh_grand_vizier_bead",
+      "ultra": "lh/lh_grand_vizier_bead"
+    }
+  },
+  {
+    "lh_coldworm_sandglass": {
+      "normal": "lh/lh_coldworm_sandglass",
+      "uber": "lh/lh_coldworm_sandglass",
+      "ultra": "lh/lh_coldworm_sandglass"
+    }
+  },
+  {
+    "lh_summoner_lodestone": {
+      "normal": "lh/lh_summoner_lodestone",
+      "uber": "lh/lh_summoner_lodestone",
+      "ultra": "lh/lh_summoner_lodestone"
+    }
+  },
+  {
+    "anvilbrow": {
+      "normal": "lh/anvilbrow",
+      "uber": "lh/anvilbrow",
+      "ultra": "lh/anvilbrow"
+    }
+  },
+  {
+    "the_hearthless_torc_pendant": {
+      "normal": "lh/the_hearthless_torc_pendant",
+      "uber": "lh/the_hearthless_torc_pendant",
+      "ultra": "lh/the_hearthless_torc_pendant"
+    }
+  },
+  {
+    "askari_warpoint": {
+      "normal": "lh/askari_warpoint",
+      "uber": "lh/askari_warpoint",
+      "ultra": "lh/askari_warpoint"
+    }
+  },
+  {
+    "skovos_bloodtine": {
+      "normal": "lh/skovos_bloodtine",
+      "uber": "lh/skovos_bloodtine",
+      "ultra": "lh/skovos_bloodtine"
+    }
+  },
+  {
+    "rogues_keepsake": {
+      "normal": "lh/rogues_keepsake",
+      "uber": "lh/rogues_keepsake",
+      "ultra": "lh/rogues_keepsake"
+    }
+  },
+  {
+    "vizjerei_lens": {
+      "normal": "lh/vizjerei_lens",
+      "uber": "lh/vizjerei_lens",
+      "ultra": "lh/vizjerei_lens"
+    }
+  },
+  {
+    "trapwrights_grips": {
+      "normal": "lh/trapwrights_grips",
+      "uber": "lh/trapwrights_grips",
+      "ultra": "lh/trapwrights_grips"
+    }
+  },
+  {
+    "ardent_gauntlets": {
+      "normal": "lh/ardent_gauntlets",
+      "uber": "lh/ardent_gauntlets",
+      "ultra": "lh/ardent_gauntlets"
+    }
+  },
+  {
+    "marrowcall": {
+      "normal": "lh/marrowcall",
+      "uber": "lh/marrowcall",
+      "ultra": "lh/marrowcall"
+    }
+  },
+  {
+    "thunder_seers_band": {
+      "normal": "lh/thunder_seers_band",
+      "uber": "lh/thunder_seers_band",
+      "ultra": "lh/thunder_seers_band"
+    }
+  },
+  {
+    "voice_of_the_ancients": {
+      "normal": "lh/voice_of_the_ancients",
+      "uber": "lh/voice_of_the_ancients",
+      "ultra": "lh/voice_of_the_ancients"
+    }
+  },
+  {
+    "hand_of_dominion": {
+      "normal": "lh/hand_of_dominion",
+      "uber": "lh/hand_of_dominion",
+      "ultra": "lh/hand_of_dominion"
+    }
+  },
+  {
+    "ninefold_fang": {
+      "normal": "lh/ninefold_fang",
+      "uber": "lh/ninefold_fang",
+      "ultra": "lh/ninefold_fang"
+    }
+  },
+  {
+    "the_engorged_codex": {
+      "normal": "lh/the_engorged_codex",
+      "uber": "lh/the_engorged_codex",
+      "ultra": "lh/the_engorged_codex"
+    }
+  },
+  {
+    "viz_juns_last_spark": {
+      "normal": "lh/viz_juns_last_spark",
+      "uber": "lh/viz_juns_last_spark",
+      "ultra": "lh/viz_juns_last_spark"
+    }
+  },
+  {
+    "censer_of_zakarum": {
+      "normal": "lh/censer_of_zakarum",
+      "uber": "lh/censer_of_zakarum",
+      "ultra": "lh/censer_of_zakarum"
+    }
+  },
+  {
+    "pack_mothers_hide": {
+      "normal": "lh/pack_mothers_hide",
+      "uber": "lh/pack_mothers_hide",
+      "ultra": "lh/pack_mothers_hide"
+    }
+  },
+  {
+    "storm_brood": {
+      "normal": "orb/eagle_orb",
+      "uber": "orb/eagle_orb",
+      "ultra": "orb/eagle_orb"
+    }
+  },
+  {
+    "the_far_requiem": {
+      "normal": "voodoo_head/preserved_head",
+      "uber": "voodoo_head/preserved_head",
+      "ultra": "voodoo_head/preserved_head"
+    }
+  },
+  {
+    "gale_binder": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "ashwalkers_due": {
+      "normal": "boot/leather_boots",
+      "uber": "boot/leather_boots",
+      "ultra": "boot/leather_boots"
+    }
+  },
+  {
+    "fork_of_the_storm": {
+      "normal": "spear/spear",
+      "uber": "spear/spear",
+      "ultra": "spear/spear"
+    }
+  },
+  {
+    "the_unbound_page": {
+      "normal": "grimoires/tome_book",
+      "uber": "grimoires/tome_book",
+      "ultra": "grimoires/tome_book"
+    }
+  },
+  {
+    "the_unspent_oath": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "brood_of_embers": {
+      "normal": "orb/dragon_stone",
+      "uber": "orb/dragon_stone",
+      "ultra": "orb/dragon_stone"
+    }
+  },
+  {
+    "the_quarreling_dead": {
+      "normal": "lh/the_quarreling_dead",
+      "uber": "lh/the_quarreling_dead",
+      "ultra": "lh/the_quarreling_dead"
+    }
+  },
+  {
+    "the_widows_reproach": {
+      "normal": "lh/the_widows_reproach",
+      "uber": "lh/the_widows_reproach",
+      "ultra": "lh/the_widows_reproach"
+    }
+  },
+  {
+    "the_borrowed_volley": {
+      "normal": "lh/the_borrowed_volley",
+      "uber": "lh/the_borrowed_volley",
+      "ultra": "lh/the_borrowed_volley"
+    }
+  },
+  {
+    "the_last_pursuit": {
+      "normal": "lh/the_last_pursuit",
+      "uber": "lh/the_last_pursuit",
+      "ultra": "lh/the_last_pursuit"
+    }
+  },
+  {
+    "the_pale_procession": {
+      "normal": "lh/the_pale_procession",
+      "uber": "lh/the_pale_procession",
+      "ultra": "lh/the_pale_procession"
+    }
+  },
+  {
+    "the_empty_reliquary": {
+      "normal": "lh/the_empty_reliquary",
+      "uber": "lh/the_empty_reliquary",
+      "ultra": "lh/the_empty_reliquary"
+    }
+  },
+  {
+    "the_unwritten_storm": {
+      "normal": "lh/the_unwritten_storm",
+      "uber": "lh/the_unwritten_storm",
+      "ultra": "lh/the_unwritten_storm"
+    }
+  },
+  {
+    "the_bell_of_bone": {
+      "normal": "lh/the_bell_of_bone",
+      "uber": "lh/the_bell_of_bone",
+      "ultra": "lh/the_bell_of_bone"
     }
   }
 ]

@@ -59,3 +59,12 @@ Fiacla-Gear's Old Ways	Fiacla-Gear's Old Ways	100	res-all		15	15	skill	Hurricane
 Haute Cow-ture	Haute Cow-ture	100	mag%		50	50					res-all		20	20					allskills		1	1													allskills		2	2	mag%		100	100	reanimate	752	20	20	aura	Holy Freeze	10	10																		0
 The Patient Hand	The Patient Hand	100	att		100	100	hp		20	20																									skilltab	20	2	2	lh-skill-duration		35	35	lh-area-radius		2	2	res-all		15	15	extra-fire		30	30	extra-ltng		30	30	extra-cold		30	30						0
 The Second Shadow	The Second Shadow	100	hp		20	20	res-all		10	10																									skilltab	19	1	1	skill	Shadow Master	3	3	skill	Shadow Warrior	3	3	lh-skill-duration		35	35	lh-area-radius		1	1	extra-pois		30	30										0
+The Skovos Stormline	The Skovos Stormline	100	hp		20	20	mana		20	20																									skilltab	2	2	2	lh-chain-hits		2	2	extra-ltng		30	30	pierce-ltng		5	5	res-all		15	15														0
+The Hunter's Circle	The Hunter's Circle	100	att		100	100	hp		20	20																									skilltab	16	2	2	lh-skill-duration		35	35	swing2		20	20	dmg%		60	60	res-all		15	15														0
+The Heldfast Line	The Heldfast Line	100	att		100	100	hp		20	20																									skill	Concentrate	2	2	skill	Double Swing	2	2	dmg%		60	60	swing2		20	20	res-all		15	15														0
+Hratli's Mechanisms	Hratli's Mechanisms	100	lh-summon-cap		1	1																													lh-repeated-attacks		1	1	lh-area-radius		2	2	pierce-fire		20	20	pierce-ltng		20	20																		0
+The Zealot's Regalia	The Zealot's Regalia	100	lh-repeated-attacks		1	1					lh-aura-radius		2	2																					lh-recurring-speed		10	10	lh-repeated-attacks		1	1	lh-aura-radius		2	2																						0
+The Bound Host	The Bound Host	100	lh-summon-cap		1	1																													lh-summon-cap		1	1	lh-companion-life		100	100	skilltab	21	2	2																						0
+Vizjerei Concord	Vizjerei Concord	100																																	lh-extra-projectiles		2	2	lh-volley-weight		10	10	pierce-fire		15	15	pierce-cold		15	15	pierce-ltng		15	15														0
+Seasons of Scosglen	Seasons of Scosglen	100	lh-area-radius		2	2					lh-recurring-speed		25	25																					lh-area-radius		1	1	lh-skill-duration		50	50																										0
+The Fletcher's Watch	The Fletcher's Watch	100	att		50	50	mana		15	15																									skilltab	0	1	1	lh-extra-projectiles		1	1	lh-volley-weight		15	15																						0

@@ -756,3 +756,10 @@ Jade	1	1	1	18		13				3	120	res-pois		21	30										qana	qanb											0	0
 Eburin	100	1	1	16		12				4	101	ac		9	20									whit	qana	qanb											0	0
 Bone	100	1	1	32		24				4	101	ac		21	40									whit	qana	qanb											0	0
 Ivory	100	1		64		56				4	101	ac		41	64									whit	qana	qanb											0	0
+lh_affix_quickening	100	1	1	18		15				1	316	lh-recurring-speed		10	15										orb	staf	grim	h2h	helm	glov	boot						0	0
+lh_affix_unrelenting	100	1	1	40		34				1	316	lh-recurring-speed		16	20										orb	staf	grim	h2h	helm	glov	boot						0	0
+lh_affix_ceaseless	100	1	1	60		50				1	316	lh-recurring-speed		21	25										orb	staf	grim	h2h	helm	glov	boot						0	0
+lh_affix_sheltering	100	1	1	18		15				1	317	lh-companion-life		10	20										weap	helm	amul	head	grim			orb	h2h				0	0
+lh_affix_preserving	100	1	1	40		34				1	317	lh-companion-life		21	35										weap	helm	amul	head	grim			orb	h2h				0	0
+lh_affix_undying	100	1	1	60		50				1	317	lh-companion-life		36	50										weap	helm	amul	head	grim			orb	h2h				0	0
+Sprawling	100	1	1	30		25				1	310	lh-area-radius		2	2										phlm												0	0

@@ -234,3 +234,31 @@ Coil of Patience		The Patient Hand		0					zvb		1	110	90	dgrn	dgrn	invvbl					5	1
 Twinned Talons		The Second Shadow		0					9tw		1	110	90	dgry	dgry	invclw					5	100	0	skilltab	19	2	2	swing2		20	20	dmg%		120	160	mana		20	30																																																														0	1
 Locket of Fading		The Second Shadow		0					amu		1	110	90	lpur	lpur	invamu					5	100	0	skilltab	19	1	1	cast2		10	10	mana		20	30	res-pois		20	30																																																														0	1
 Band of the Cast Shadow		The Second Shadow		0					rin		1	110	90	dpur	dpur	invrin					5	100	0	cast2		10	10	hp		15	25	mana		15	25	res-ltng		20	30																																																														0	1
+Stormline Guard		The Skovos Stormline		0					xuc		1	110	90	dblu	dblu						5	100	0	block2		20	20	block		10	10	res-all		15	20	mana		20	30																																																														0	1
+Stormline Binding		The Skovos Stormline		0					zvb		1	110	90	cblu	cblu	invvbl					5	100	0	balance2		10	10	hp		20	30	res-fire		20	30	mana-kill		2	2																																																														0	1
+Stormline Token		The Skovos Stormline		0					amu		1	110	90	lblu	lblu	invamu					5	100	0	skilltab	2	1	1	dex		10	15	mana		20	30	res-ltng		20	30																																																														0	1
+Circlehide		The Hunter's Circle		0					uea		1	110	90	dblu	dblu	invlea					5	100	0	balance2		20	20	ac%		100	120	hp		40	40	res-cold		25	25																																																														0	1
+Circle Tooth		The Hunter's Circle		0					amu		1	110	90	dgrn	dgrn	invamu					5	100	0	att		100	100	hp		30	30	res-fire		25	25																																																																		0	1
+Circle Vow		The Hunter's Circle		0					rin		1	110	90	lyel	lyel	invrin					5	100	0	att		80	80	hp		25	25	res-ltng		25	25																																																																		0	1
+Heldfast Hauberk		The Heldfast Line		0					urs		1	110	90	lgry	lgry	invbrs					5	100	0	balance2		20	20	ac%		100	140	hp		40	60	res-fire		20	30																																																														0	1
+Heldfast Girdle		The Heldfast Line		0					umc		1	110	90	dyel	dyel	invmbl					5	100	0	balance2		10	10	ac%		100	120	hp		30	40	res-ltng		20	30																																																														0	1
+Heldfast Torc		The Heldfast Line		0					amu		1	110	90	whit	whit	invamu					5	100	0	att		100	150	hp		30	40	res-cold		20	30																																																																		0	1
+Hratli's Trigger-Claw		Hratli's Mechanisms		0					9tw		1	110	75	whit	whit	invclw					5	100	0	skilltab	18	2	2	skill	Lightning Sentry	2	2	swing2		20	20	res-ltng		20	20																																																														0	1
+Hratli's Steady Hands		Hratli's Mechanisms		0					umg		1	110	74	whit	whit	invmgl					5	100	0	lh-repeated-attacks		1	1	swing2		20	20	dex		15	15	res-fire		20	20																																																														0	1
+Hratli's Tool Belt		Hratli's Mechanisms		0					umc		1	110	75	whit	whit	invmbl					5	100	0	hp		40	40	balance2		15	15	res-all		10	10																																																																		0	1
+Crown of the Vigil		The Zealot's Regalia		0					uh9		1	110	80	lblu	lblu						5	100	0	lh-recurring-speed		10	10	pal		1	1	hp		40	40																																																																		0	1
+Bulwark of Devotion		The Zealot's Regalia		0					pae		1	110	82	lgld	lgld	invpa4					5	100	0	lh-recurring-speed		10	10	skilltab	10	2	2	res-all		20	20	block		20	20																																																														0	1
+Gauntlets of Penance		The Zealot's Regalia		0					uvg		1	110	78	lblu	lblu	invvgl					5	100	0	lh-recurring-speed		10	10	swing2		20	20	lifesteal		5	5																																																																		0	1
+Pilgrim's Last Road		The Zealot's Regalia		0					uhb		1	110	80	lgld	lgld	invhbt					5	100	0	lh-recurring-speed		10	10	move2		30	30	balance2		20	20																																																																		0	1
+The First Seal		The Bound Host		0					wae		1	110	81	dpur	dpur	invbbb					5	100	0	skilltab	21	2	2	cast2		20	20	skill	Summon Defiler	1	1																																																																		0	1
+The Second Seal		The Bound Host		0					xtp		1	110	74	dpur	dpur	invltp					5	100	0	war		1	1	hp		40	40	res-all		20	20																																																																		0	1
+The Third Seal		The Bound Host		0					amu		1	110	72			invamu					5	100	0	war		1	1	cast2		10	10	mana		40	40																																																																		0	1
+Concord Focus		Vizjerei Concord		0					obc		1	110	80	cblu	cblu	invob2					5	100	0	sor		2	2	cast2		20	20	mana		40	40																																																																		0	1
+Concord Band		Vizjerei Concord		0					rin		1	110	78			invrin					5	100	0	cast2		10	10	mana		40	40	res-all		10	10																																																																		0	1
+Spring's Kindling		Seasons of Scosglen		0					drf		1	110	85	lgry	lgry	invdr5					5	100	0	skilltab	17	2	2	res-all		20	20																																																																						0	1
+Summer's Mantle		Seasons of Scosglen		0					uui		1	110	82	lgry	lgry	invqlt					5	100	0	dru		1	1	hp		60	60	cast2		20	20																																																																		0	1
+Autumn's Grasp		Seasons of Scosglen		0					ulg		1	110	80	whit	whit	invlgl					5	100	0	skilltab	17	1	1	res-fire		20	20	res-cold		20	20																																																																		0	1
+Winter's Tread		Seasons of Scosglen		0					utb		1	110	82	lgry	lgry	invtbt					5	100	0	move2		30	30	balance2		20	20	hp		30	30																																																																		0	1
+Fletcher's Grasp		The Fletcher's Watch		0					xlg		1	80	55	lyel	lyel	invlgl					5	100	0	swing2		20	20	att		50	100	dex		10	10																																																																		0	1
+Fletcher's Knot		The Fletcher's Watch		0					zvb		1	80	55	lyel	lyel	invvbl					5	100	0	balance2		20	20	hp		30	30	res-fire		20	20																																																																		0	1
+Fletcher's Tread		The Fletcher's Watch		0					xlb		1	80	55	dgld	dgld	invlbt					5	100	0	move2		20	20	res-cold		20	20	dex		10	10																																																																		0	1

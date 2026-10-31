@@ -1636,5 +1636,201 @@
       "uber": "lh/band_of_the_cast_shadow",
       "ultra": "lh/band_of_the_cast_shadow"
     }
+  },
+  {
+    "stormline_guard": {
+      "normal": "lh/stormline_guard",
+      "uber": "lh/stormline_guard",
+      "ultra": "lh/stormline_guard"
+    }
+  },
+  {
+    "stormline_binding": {
+      "normal": "lh/stormline_binding",
+      "uber": "lh/stormline_binding",
+      "ultra": "lh/stormline_binding"
+    }
+  },
+  {
+    "stormline_token": {
+      "normal": "lh/stormline_token",
+      "uber": "lh/stormline_token",
+      "ultra": "lh/stormline_token"
+    }
+  },
+  {
+    "circlehide": {
+      "normal": "lh/circlehide",
+      "uber": "lh/circlehide",
+      "ultra": "lh/circlehide"
+    }
+  },
+  {
+    "circle_tooth": {
+      "normal": "lh/circle_tooth",
+      "uber": "lh/circle_tooth",
+      "ultra": "lh/circle_tooth"
+    }
+  },
+  {
+    "circle_vow": {
+      "normal": "lh/circle_vow",
+      "uber": "lh/circle_vow",
+      "ultra": "lh/circle_vow"
+    }
+  },
+  {
+    "heldfast_hauberk": {
+      "normal": "lh/heldfast_hauberk",
+      "uber": "lh/heldfast_hauberk",
+      "ultra": "lh/heldfast_hauberk"
+    }
+  },
+  {
+    "heldfast_girdle": {
+      "normal": "lh/heldfast_girdle",
+      "uber": "lh/heldfast_girdle",
+      "ultra": "lh/heldfast_girdle"
+    }
+  },
+  {
+    "heldfast_torc": {
+      "normal": "lh/heldfast_torc",
+      "uber": "lh/heldfast_torc",
+      "ultra": "lh/heldfast_torc"
+    }
+  },
+  {
+    "hratlis_trigger_claw": {
+      "normal": "lh/hratlis_trigger_claw",
+      "uber": "lh/hratlis_trigger_claw",
+      "ultra": "lh/hratlis_trigger_claw"
+    }
+  },
+  {
+    "hratlis_steady_hands": {
+      "normal": "lh/hratlis_steady_hands",
+      "uber": "lh/hratlis_steady_hands",
+      "ultra": "lh/hratlis_steady_hands"
+    }
+  },
+  {
+    "hratlis_tool_belt": {
+      "normal": "lh/hratlis_tool_belt",
+      "uber": "lh/hratlis_tool_belt",
+      "ultra": "lh/hratlis_tool_belt"
+    }
+  },
+  {
+    "crown_of_the_vigil": {
+      "normal": "lh/crown_of_the_vigil",
+      "uber": "lh/crown_of_the_vigil",
+      "ultra": "lh/crown_of_the_vigil"
+    }
+  },
+  {
+    "bulwark_of_devotion": {
+      "normal": "lh/bulwark_of_devotion",
+      "uber": "lh/bulwark_of_devotion",
+      "ultra": "lh/bulwark_of_devotion"
+    }
+  },
+  {
+    "gauntlets_of_penance": {
+      "normal": "lh/gauntlets_of_penance",
+      "uber": "lh/gauntlets_of_penance",
+      "ultra": "lh/gauntlets_of_penance"
+    }
+  },
+  {
+    "pilgrims_last_road": {
+      "normal": "lh/pilgrims_last_road",
+      "uber": "lh/pilgrims_last_road",
+      "ultra": "lh/pilgrims_last_road"
+    }
+  },
+  {
+    "the_first_seal": {
+      "normal": "lh/the_first_seal",
+      "uber": "lh/the_first_seal",
+      "ultra": "lh/the_first_seal"
+    }
+  },
+  {
+    "the_second_seal": {
+      "normal": "lh/the_second_seal",
+      "uber": "lh/the_second_seal",
+      "ultra": "lh/the_second_seal"
+    }
+  },
+  {
+    "the_third_seal": {
+      "normal": "lh/the_third_seal",
+      "uber": "lh/the_third_seal",
+      "ultra": "lh/the_third_seal"
+    }
+  },
+  {
+    "concord_focus": {
+      "normal": "lh/concord_focus",
+      "uber": "lh/concord_focus",
+      "ultra": "lh/concord_focus"
+    }
+  },
+  {
+    "concord_band": {
+      "normal": "lh/concord_band",
+      "uber": "lh/concord_band",
+      "ultra": "lh/concord_band"
+    }
+  },
+  {
+    "springs_kindling": {
+      "normal": "lh/springs_kindling",
+      "uber": "lh/springs_kindling",
+      "ultra": "lh/springs_kindling"
+    }
+  },
+  {
+    "summers_mantle": {
+      "normal": "lh/summers_mantle",
+      "uber": "lh/summers_mantle",
+      "ultra": "lh/summers_mantle"
+    }
+  },
+  {
+    "autumns_grasp": {
+      "normal": "lh/autumns_grasp",
+      "uber": "lh/autumns_grasp",
+      "ultra": "lh/autumns_grasp"
+    }
+  },
+  {
+    "winters_tread": {
+      "normal": "lh/winters_tread",
+      "uber": "lh/winters_tread",
+      "ultra": "lh/winters_tread"
+    }
+  },
+  {
+    "fletchers_grasp": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "fletchers_knot": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "fletchers_tread": {
+      "normal": "boot/leather_boots",
+      "uber": "boot/leather_boots",
+      "ultra": "boot/leather_boots"
+    }
   }
 ]

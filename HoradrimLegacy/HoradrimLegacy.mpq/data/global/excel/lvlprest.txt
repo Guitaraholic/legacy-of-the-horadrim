@@ -863,7 +863,7 @@ Act 4 - Diablo Arm S	860	0	1	0	1	1	0	0	24	24	0	0	0	-4	2	Act4/Diab/WingS1.ds1	Act
 Act 4 - Diablo Arm N	861	0	1	0	1	1	0	0	24	24	0	0	0	-4	2	Act4/Diab/WingN1.ds1	Act4/Diab/WingN2.ds1	0	0	0	0	1567
 Act 4 - Diablo Heart	862	0	1	0	1	1	0	0	24	24	0	0	0	-4	1	Act4/Diab/Heart.ds1	0	0	0	0	0	1567
 Expansion																						
-Act 5 - Town	863	109	0	0	1	0	1	1	0	0	1	1	1	-4	1	Expansion/Town/townWest.ds1	0	0	0	0	0	1048575
+Act 5 - Town	863	109	0	0	1	0	1	1	0	0	1	1	1	-4	1	expansion/town/lhharrogath.ds1	0	0	0	0	0	1048575
 Act 5 - Temple Final Room	864	124	1	0	1	0	1	1	0	0	0	1	0	0	4	Expansion/wildtemple/NihlE.ds1	Expansion/wildtemple/NihlN.ds1	Expansion/wildtemple/NihlS.ds1	Expansion/wildtemple/NihlW.ds1	0	0	1
 Act 5 - Siege To Town	865	0	1	0	1	0	1	1	16	48	0	0	0	0	1	Expansion/Siege/striptownsiege.ds1	0	0	0	0	0	2047
 Act 5 - Siege Strip 1	866	0	1	0	1	0	1	1	16	48	0	0	0	0	1	Expansion/Siege/strip01.ds1	0	0	0	0	0	2047

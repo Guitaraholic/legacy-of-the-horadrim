@@ -50,3 +50,5 @@ lhstn	0	misc	0	3
 lhcur	0	misc	0	3
 lhbrt	0	misc	0	3
 lhmat	0	misc	0	3
+lhqvr	1	weap	1	3
+lhrnb	1	acce	1	3

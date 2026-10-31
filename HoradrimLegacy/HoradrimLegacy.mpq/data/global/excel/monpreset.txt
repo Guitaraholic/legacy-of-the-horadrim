@@ -208,6 +208,7 @@ Act	Place
 3	Exarch Szoreth the Unbound
 3	Echo of Juris Khan
 3	LH Echo Mephisto
+3	lh_rb_mephistospirit
 3	LH Echo Guard Bremm
 3	LH Echo Guard Wyand
 3	LH Echo Guard Maffer

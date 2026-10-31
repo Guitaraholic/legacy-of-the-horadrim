@@ -149,3 +149,11 @@ Occult Tome	wac
 Occult Codex	wad
 Blasphemous Compendium	wae
 Blasphemous Grimoire	waf
+Hexed Arrows	q01
+Hexed Bolts	q02
+Flight Arrows	q03
+Flight Bolts	q04
+Anointed Arrows	q05
+Anointed Bolts	q06
+Graven Arrows	q07
+Graven Bolts	q08

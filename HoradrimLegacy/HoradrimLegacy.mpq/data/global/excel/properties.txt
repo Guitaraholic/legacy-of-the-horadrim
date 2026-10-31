@@ -335,3 +335,22 @@ lh-aura-radius	331	1	1	lh_aura_radius																												+# Yards to Aur
 lh-chain-hits	332	1	1	lh_chain_hits																												+# Hits to Chain Lightning and Lightning Strike		Min #	Max #		0
 lh-summon-cap	333	1	1	lh_summon_cap																												+# to Maximum Summons		Min #	Max #		0
 lh-skill-duration	334	1	1	lh_skill_duration																												+#% Buff and Curse Duration		Min #	Max #		0
+lh-gems-fed-public		1	1	lh_gems_fed_public	0																																0
+lh-gem-fed-public		1	1	lh_gem_fed_public	0																																0
+lh-feed-hint-1		1	1	lh_feed_hint_1	0																																0
+lh-feed-hint-2		1	1	lh_feed_hint_2	0																																0
+lh-feed-hint-3		1	1	lh_feed_hint_3	0																																0
+lh-feed-hint-4		1	1	lh_feed_hint_4	0																																0
+lh-feed-hint-5		1	1	lh_feed_hint_5	0																																0
+lh-feed-hint-6		1	1	lh_feed_hint_6	0																																0
+lh-feed-hint-7		1	1	lh_feed_hint_7	0																																0
+lh-feed-hint-8		1	1	lh_feed_hint_8	0																																0
+lh-feed-hint-9		1	1	lh_feed_hint_9	0																																0
+lh-feed-hint-10		1	1	lh_feed_hint_10	0																																0
+lh-feed-hint-11		1	1	lh_feed_hint_11	0																																0
+lh-feed-hint-12		1	1	lh_feed_hint_12	0																																0
+lh-feed-cold		1	15	coldmindam			16	coldmaxdam																													0
+lh-feed-poison		1	15	poisonmindam			16	poisonmaxdam																													0
+lh-repeated-attacks	355	1	1	lh_repeated_attacks																												+# Attacks per Sequence and Shots per Sentry		Min #	Max #		0
+lh-recurring-speed	356	1	1	lh_recurring_speed																												+#% Faster Pulse Rate		Min #	Max #		0
+lh-companion-life	357	1	1	lh_companion_life																												+#% to Summoned Companion Life		Min #	Max #		0

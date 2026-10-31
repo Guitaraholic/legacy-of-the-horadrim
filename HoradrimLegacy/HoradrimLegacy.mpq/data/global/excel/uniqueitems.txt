@@ -468,7 +468,7 @@ Jamella's Grace		100		1					3	1	52	40	ci1			5	5000		lgld		invci1				allskills		1
 Pilgrim's Penance		100		1					1	1	48	42	xla			5	5000		lgry		invhla				red-dmg%		8	8	res-all		15	20	balance2		24	24	hp		40	60	ease		-20	-20	sock		2	2																										0
 Ormus' Riddle		100		1					1	1	50	44	xml			5	5000		dpur						block		20	20	block2		30	30	cast2		10	10	balance2		20	20	res-all		20	25	gethit-skill	Weaken	10	6																										0
 Halbu's Edge		100		1					1	1	44	38	9sm			5	5000		dred						dmg%		120	150	swing2		20	20	lifesteal		5	5	crush		10	10	res-all		10	10	rep-dur	10			charged	Battle Orders	25	4																						0
-Horadric Lens		100		1					1	1	45	38	jew			5	5000		bwht		invgswe				res-all		8	12	balance1		5	5	mag%		5	7	light		1	1																																		0
+Horadric Lens		100		0					1	1	45	38	jew			5	5000		bwht		invgswe				res-all		8	12	balance1		5	5	mag%		5	7	light		1	1																																		0
 Jered Cain's Bindings		100		1					1	1	66	60	uvg			5	5000		bwht		invvgl				swing2		15	15	cast1		10	10	lifesteal		4	5	manasteal		3	4	res-all		15	15	hp/lvl	6																												0
 Treads of Ivgorod		100		1					3	1	68	60	ulb			5	5000		lred		invlbt				move2		30	30	balance2		20	20	half-freeze		1	1	res-all		15	20	hp		30	40	mag%		15	25																										0
 Angiris Seal		100		1					1	1	72	64	rin			5	5000		whit		invrin				res-all		15	20	balance1		10	10	hp		30	40	heal-kill		3	5	red-mag		3	5																														0
@@ -497,11 +497,11 @@ Tear of Anguish		100		0					1	1	87	72	jew			5	5000		cgrn		invjw2				extra-pois		
 Marrow of Pain		100		0					1	1	91	74	jew			5	5000		dyel		invjw3				dmg%		20	30	pierce-dmg		3	5	slow		5	8																																						0
 Terror's Brand		100		0					1	1	95	76	jew			5	5000		cred		invjw4				extra-fire		4	6	pierce-fire		3	5	gethit-skill	Terror	5	3																																						0
 Ash of Destruction		100		0					1	1	99	78	jew			5	5000		dpur		invjw5				extra-mag		5	7	pierce-mag		4	6	red-mag		3	5																																						0
-Marius' Lament		100		1					1	1	30	25	jew			5	5000		dgry		invjw6				dmg%/lvl	2			hp/lvl	2			res-pois/lvl	4																																								0
+Marius' Lament		100		0					1	1	30	25	jew			5	5000		dgry		invjw6				dmg%/lvl	2			hp/lvl	2			res-pois/lvl	4																																								0
 The Taan Mirror		100		1					1	1	45	38	jew			5	5000		lpur		invjw1				dmg-to-mana		8	12	mana		10	20	regen-mana		8	12																																						0
 Aranoch Sandglass		100		0					2	1	48	40	jew			5	5000		lgld		invjw2				swing1		7	10	move1		3	5	balance1		7	10																																						0
 Flayer's Tooth		100		0					2	1	50	42	jew			5	5000		dyel		invgswe				openwounds		15	25	deadly		5	8	swing1		5	8																																						0
-Alkor's Transmutation		100		0					2	1	55	46	jew			5	5000		lgrn		invjw4				dmg-elem	25	8	15	dmg%		-15	-10																																										0
+Alkor's Transmutation		100		0					2	1	55	46	jew			5	5000		lgrn		invjw4				dmg-elem	25	8	15	att%		-15	-10																																										0
 Ureh's Beacon		100		0					2	1	58	50	jew			5	5000				invjw5				light		2	2	res-all		6	10	dmg-undead		30	50	att-undead		50	50																																		0
 Sescheron's Wrath		100		0					2	1	64	55	jew			5	5000		dred		invjw6				dmg%		25	35	att%		10	15	red-dmg%		-8	-5																																						0
 Leaf of Cain		100		1					2	1	45	38	cm1		1041	5	5000		lgld		invrsc				mag%/lvl	1			res-all		3	5	hp		10	15																																						0
@@ -538,7 +538,7 @@ The Ninefold Knot		100		1					5	1	20	16	amu			5	5000				invamu				cast2		10	10	m
 The Alchemist's Bezel		100		1					5	1	25	20	rin			5	5000		cgrn		invrin				mag%		15	25	gold%		25	40	light		1	1	res-pois		15	25	res-pois-len		25	25																														0
 Coldcrow's Talon		100		1					5	1	22	18	rin			5	5000		cblu		invrin				lifesteal		4	6	att		40	60	dex		5	8	dmg-max		3	5																																		0
 Shenk's Lash		100		1					1	1	36	30	mbl			5	5000		dred		invmbl				nofreeze		1	1	swing2		10	10	hp		20	30	heal-kill		2	3	res-cold		20	25	balance2		10	10																										0
-The Hearthless Torc		100		1					3	1	36	36	amu			5	5000				invamu				res-all		15	20	half-freeze		1	1	hp		20	30	red-dmg		3	5	regen		3	3																														0
+The Hearthless Torc		100		0					3	1	36	36	amu			5	5000				invamu				res-all		15	20	half-freeze		1	1	hp		20	30	red-dmg		3	5	regen		3	3																														0
 Firsthunt		100		1					5	1	16	12	ba2			5	5000		dgrn		invba2				bar		1	1	skill	Find Item	1	2	balance2		10	10	hp		15	20	res-cold		15	15	heal-kill		2	2																										0
 Ghostwalk Talons		100		1					5	1	32	26	btl			5	5000		bwht		invclw				skilltab	19	2	2	skill	Quickness	2	3	swing2		20	20	lifesteal		4	4	dmg%		80	100	res-all		10	10																										0
 The Seeker's Hood		100		1					1	1	34	28	hlm			5	5000		dpur						addxp		4	5	mana		20	30	light		2	2	res-all		8	12	sock		1	2																														0
@@ -649,7 +649,7 @@ Skovos Flint		100		1					1	1	44	38	jew			5	5000		lgry		invgswe				pierce-dmg		2	
 Quenchstone		100		0					1	1	85	72	jew			5	5000		dgry		invgswe				dmg-fire/lvl	6			dmg-cold/lvl	6			cold-len		50	50	extra-fire		2	2	extra-cold		2	2																														0
 Marsh-Light		100		0					2	1	50	42	jew			5	5000		lyel		invgswe				dmg-ltng/lvl	6			dmg-pois	75	102	137	extra-ltng		3	3	extra-pois		3	3																																		0
 The Wandering Shade		100		1					1	1	12	10	jew			5	5000		lpur		invgswe				kill-skill	Bone Spirit	10	6	extra-mag		2	2	mana-kill		1	1																																						0
-Kurast Votive		100		1					1	1	22	19	jew			5	5000		lgld		invgswe				aura	Redemption	2	2	res-all		5	5																																										0
+Kurast Votive		100		0					1	1	22	19	jew			5	5000		lgld		invgswe				aura	Redemption	2	2	res-all		5	5																																										0
 Bartuc's Taming		100		0					1	1	75	60	b30			5	5000		dgld		invrin				allskills		1	1	extra-fire		8	10	extra-cold		8	10	extra-ltng		8	10	pierce-fire		5	7	pierce-cold		5	7	pierce-ltng		5	7	dmg-elem	50	10	20	freeze		1	1														0
 Tamoe's Volley		100		1					3	1	39	34	rin			5	5000		lgrn		invrin				att-skill	Multiple Shot	10	8	dex		10	15	att		80	120	pierce		15	15																																		0
 The Elders' Pyre		100		1					3	1	63	55	amu			5	5000				invamu				kill-skill	Corpse Explosion	20	10	str		10	15	res-fire		25	35	hp		30	40	heal-kill		3	5																														0
@@ -886,3 +886,99 @@ Last Betrayal Level 20		100		0					1	1	85	85	bb1			5	5000								oskill	Guile Wh
 Last Betrayal Level 24		100		0					1	1	85	85	bb1			5	5000								oskill	Guile Whirlwind Sealed 24	1	1	indestruct		1	1	swing2		40	40	slow		20	20	dmg%		90	120	extra-ltng		12	20	lh-extra-projectiles		1	2	att-skill	Cloak of Shadows	8	22	hit-skill	Fire Trauma	15	24	kill-skill	Lightning Sentry	30	24	gethit-skill	Mind Blast	15	24	lh-hint-sealed-blade		1	1		0
 Snarekeeper's Tread		100		0					1	1	110	90	b89			5	5000		cgrn		invlbt				lh-summon-cap		1	1	skill	Lightning Sentry	1	1	skill	Wake of Fire Sentry	1	1	move2		30	30	balance2		20	20	res-ltng		15	25																										0
 Cinderwake		100		0					1	1	94	85	b90			5	5000		oran		invclw				swing2		15	15	skill	Wake of Fire Sentry	2	3	skill	Inferno Sentry	2	3	lh-area-radius		1	2	pierce-fire		10	15	mana		20	30																										0
+LH Council Votive		100		0					1	1	22	19	h01			5	5000		lgld		invgswe				aura	Redemption	2	2	res-all		5	5																																										0
+LH Council Marius		100		0					1	1	30	25	h02			5	5000		dgry		invjw6				dmg%/lvl	2			hp/lvl	2			res-pois/lvl	4																																								0
+LH Council Shard		100		0					1	1	72	60	h03			5	5000		cblu		invgswe				heal-kill		1	2	mana-kill		1	2	res-all		6	10	hp		10	20																																		0
+LH Summoner Lens		100		0					1	1	45	38	h04			5	5000		bwht		invgswe				res-all		8	12	balance1		5	5	mag%		5	7	light		1	1																																		0
+LH Blood Raven Fang		100		0					2	1	38	34	h05		1060	5	5000		dred		invchm				lifesteal		2	3	hp		-10	-10	regen		-1	-1																																						0
+LH Radament Skull		100		0					1	1	44	40	h06			5	5000		cgrn		invgswe				lifesteal		2	2	manasteal		2	2	heal-kill		2	2	mana-kill		2	2																																		0
+LH Hephasto Heart		100		0					2	1	57	52	h07			5	5000		oran		invgswe				res-fire		15	20	abs-fire		3	5	dmg-demon		25	40	hp		10	15																																		0
+LH Hephasto Quenchstone		100		0					1	1	85	72	h08			5	5000		dgry		invgswe				dmg-fire/lvl	6			dmg-cold/lvl	6			cold-len		50	50	extra-fire		2	2	extra-cold		2	2																														0
+LH Countess Stone		100		0					1	1	68	62	h09			5	5000		dred		invgswe				openwounds		10	15	crush		5	5	lifesteal		3	3	swing2		9	9																																		0
+LH Mephisto Tithe		100		0					3	1	55	52	h10			5	5000		dgld		invrin				hp		-32	-32	mana%		15	15	manasteal		6	8	dmg-to-mana		25	30	mana-kill		3	3																														0
+LH Baal Promise		100		0					1	1	85	75	h11		1002	5	5000				invsst				allskills		1	1	res-all		-15	-15	hp		-25	-25																																						0
+LH Nihlathak Pyre		100		0					3	1	63	55	h12			5	5000				invamu				kill-skill	Corpse Explosion	20	10	str		10	15	res-fire		25	35	hp		30	40	heal-kill		3	5																														0
+LH Summoner Glass		100		0					2	1	48	40	h13			5	5000		dblu		invgswe				pierce-mag		2	3	extra-mag		3	4	dmg-mag		4	10																																						0
+LH Izual Tear		100		0					1	1	75	62	h14			5	5000		lblu		invgswe				res-all-max		1	1	res-all		10	15	red-mag		2	3																																						0
+LH Sszark Emerald		100		0					2	1	49	40	h15			5	5000		dgrn		invgswe				swing1		5	5	regen		2	2	res-pois		15	20	res-pois-len		25	25																																		0
+LH Sszark Alkor		100		0					2	1	55	46	h16			5	5000		lgrn		invjw4				dmg-elem	25	8	15	att%		-15	-10																																										0
+LH Sarina Topaz		100		0					2	1	52	45	h17			5	5000		dgld		invgswe				mag%		10	15	gold%		20	30	light		1	1																																						0
+LH Endugu Tooth		100		0					2	1	50	42	h18			5	5000		dyel		invgswe				openwounds		15	25	deadly		5	8	swing1		5	8																																						0
+LH Frozenstein Sapphire		100		0					2	1	61	50	h19			5	5000		whit		invgswe				freeze		1	1	dmg-cold	100	8	16	res-cold		10	15	mana		10	15																																		0
+LH De Seis Wrath		100		0					2	1	64	55	h20			5	5000		dred		invjw6				dmg%		25	35	att%		10	15	red-dmg%		-8	-5																																						0
+LH Grand Vizier Bead		100		0					2	1	60	52	h21			5	5000		oran		invgswe				charge-noconsume		5	8	swing1		5	5	dex		5	8																																						0
+LH Coldworm Sandglass		100		0					2	1	48	40	h22			5	5000		lgld		invjw2				swing1		7	10	move1		3	5	balance1		7	10																																						0
+LH Summoner Lodestone		100		0					1	1	79	66	h23			5	5000		dblu		invgswe				pierce-mag		3	4	extra-mag		4	5	red-mag		2	2																																						0
+The Refugee's Token		100		1					5	1	7	5	j30			5	5000				invamu				hp		5	10	vit		2	3	res-all		3	3	light		1	1	sock		1	1																														0
+The Pauper's Mark		100		1					5	1	10	7	j29			5	5000				invrin				att		10	20	dex		1	2	mana		5	5	sock		1	1																																		0
+Leechmark		100		1					5	1	26	22	j29			5	5000				invrin				lifesteal		3	4	manasteal		2	3	hp		15	20	sock		1	1																																		0
+The Apprentice's Glass		100		1					5	1	30	26	j30			5	5000				invamu				extra-fire		5	5	extra-cold		5	5	extra-ltng		5	5	mana		15	25	enr		5	8	light		2	2	sock		1	1																						0
+The Clansman's Oath		100		1					5	1	46	40	j29			5	5000				invrin				bar		1	1	str		8	12	att		30	50	hp		20	30	sock		1	1																														0
+The Annalist		100		1					5	1	54	48	j30			5	5000				invamu				allskills		1	1	addxp		5	5	mana		20	30	enr		10	15	res-all		5	10	sock		1	1																										0
+The Iron Decree		100		1					5	1	72	66	j29			5	5000				invrin				deadly		8	10	att		100	150	str		10	15	red-dmg		3	5	sock		1	1																														0
+The Last Lantern		100		1					5	1	76	70	j30			5	5000				invamu				hp		30	45	res-all		15	20	red-mag		6	9	balance2		10	10	light		3	3	sock		1	1																										0
+Forgeward		100		1					5	1	34	30	j30			5	5000				invamu				res-fire		20	30	abs-fire		3	5	hp		15	25	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-1		1	1																										0
+The Banked Fire		100		1					5	1	34	30	j29			5	5000				invrin				dmg-fire		4	9	att		30	50	res-fire		10	15	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-1		1	1																										0
+Glacierward		100		1					5	1	36	32	j30			5	5000				invamu				res-cold		20	30	half-freeze		1	1	hp		15	25	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-2		1	1																										0
+The Deepening Cold		100		1					5	1	36	32	j29			5	5000				invrin				dmg-cold	50	3	7	att		30	50	res-cold		10	15	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-2		1	1																										0
+Fenward		100		1					5	1	32	28	j30			5	5000				invamu				res-pois		20	30	res-pois-len		50	50	hp		15	25	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-3		1	1																										0
+The Spreading Blight		100		1					5	1	32	28	j29			5	5000				invrin				dmg-pois	75	51	51	att		30	50	res-pois		10	15	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-3		1	1																										0
+Duskward		100		1					5	1	28	24	j30			5	5000				invamu				ac		40	60	dex		5	8	balance2		10	10	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-4		1	1																										0
+The Honing Edge		100		1					5	1	28	24	j29			5	5000				invrin				att		50	80	dmg-max		2	4	str		5	8	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-4		1	1																										0
+Prismward		100		1					5	1	55	50	j30			5	5000				invamu				res-all		5	10	hp		20	30	light		1	1	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-5		1	1																										0
+The Clearing Sky		100		1					5	1	64	58	j29			5	5000				invrin				dex		5	10	mana		20	30	res-ltng		15	20	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-5		1	1																										0
+The Gathering Storm		100		1					5	1	38	34	j29			5	5000				invrin				dmg-ltng		1	12	att		30	50	res-ltng		10	15	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-6		1	1																										0
+The Magpie		100		0					5	1	36	36	j46			5	5000				invamu				mag%		15	25	res-ltng		15	25	hp		20	30	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-6		1	1																										0
+Skullthorn		100		1					5	1	64	58	j30			5	5000				invamu				thorns		20	30	hp		30	40	balance2		10	10	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-7		1	1																										0
+Gravedrinker		100		1					5	1	60	54	j29			5	5000				invrin				lifesteal		4	6	manasteal		2	3	heal-kill		3	3	hp		20	30	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-7		1	1																						0
+The Yshari Reliquary		100		1					3	1	78	72	j30			5	5000				invamu				allskills		1	1	res-all		10	15	hp		30	50	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-8		1	1																										0
+Horazon's Focus		100		1					3	1	72	66	j29			5	5000				invrin				cast1		10	10	mana		30	40	enr		10	15	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-9		1	1																										0
+The Solstice		100		1					5	1	54	48	j29			5	5000				invrin				res-fire		15	20	res-cold		15	20	mana		20	30	enr		8	12	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-10		1	1																						0
+The Miser's Bite		100		0					5	1	36	36	j47			5	5000				invrin				mag%		20	20	dmg%		20	20	lifesteal		3	5	gold%		50	50	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-11		1	1																						0
+Bone and Slate		100		1					5	1	58	52	j30			5	5000				invamu				thorns		50	50	ac		100	100	hp		30	40	str		5	10	sock		1	1	lh-gem-fed-public		1	1	lh-feed-hint-12		1	1																						0
+The Hearthless Torc Pendant		100		1					3	1	36	36	j30			5	5000				invamu				res-all		15	20	half-freeze		1	1	hp		20	30	red-dmg		3	5	regen		3	3	sock		1	1																										0
+Witch Fletching Arrows		100		0					1	1	100	85	q01			5	5000		lpur		invqvr				hit-skill	Amplify Damage	5	15	lh-aura-radius		4	4	lh-skill-duration		20	40	deadly		10	15	att		100	100	noconsume		100	100																										0
+Witch Fletching Bolts		100		0					1	1	100	85	q02			5	5000		lpur		invcqv				hit-skill	Amplify Damage	5	15	lh-aura-radius		4	4	lh-skill-duration		20	40	deadly		10	15	att		100	100	noconsume		100	100																										0
+Unerring Flight Arrows		100		0					1	1	110	90	q03			5	5000		whit		invqvr				lh-extra-projectiles		3	5	swing2		20	20	pierce		15	25	att		100	150	dex		10	10	noconsume		100	100																										0
+Unerring Flight Bolts		100		0					1	1	110	90	q04			5	5000		whit		invcqv				lh-extra-projectiles		3	5	swing2		20	20	pierce		15	25	att		100	150	dex		10	10	noconsume		100	100																										0
+Consecrated Shaft Arrows		100		0					1	1	110	90	q05			5	5000		bwht		invqvr				lh-aura-radius		6	8	res-all		12	12	pierce-ltng		5	10	balance2		20	20	hp		25	40	noconsume		100	100																										0
+Consecrated Shaft Bolts		100		0					1	1	110	90	q06			5	5000		bwht		invcqv				lh-aura-radius		6	8	res-all		12	12	pierce-ltng		5	10	balance2		20	20	hp		25	40	noconsume		100	100																										0
+Skovos Stormtine		100		0					3	1	94	86	b94			5	5000		lyel						swing2		20	20	dmg%		120	160	skill	Lightning Strike	3	4	lh-chain-hits		1	2	pierce-ltng		10	15	mana-kill		3	5																										0
+Askari Rimebow		100		0					3	1	94	86	b95			5	5000		whit		invhbw				swing2		20	20	dmg%		100	140	skill	Freezing Arrow	3	4	lh-extra-projectiles		1	1	pierce-cold		10	15	dmg-cold	100	30	60	mana		30	40																						0
+Skovos Emberbow		100		0					3	1	94	86	b96			5	5000		oran		invsbw				swing2		20	20	dmg%		100	140	skill	Exploding Arrow	2	3	skill	Immolation Arrow	2	3	lh-extra-projectiles		1	1	pierce-fire		10	15	mana		20	30																						0
+The Unforgotten Sister		100		0					1	1	110	90	b91			5	5000		bwht		invci1				lh-summon-cap		1	1	skill	Valkyrie	2	2	balance2		20	20	hp		30	50	res-cold		20	30																														0
+First Hunt		100		1					3	1	25	25	dr1			5	5000		lgry		invdr1				skilltab	16	1	1	skill	Feral Rage	1	1	ac%		40	60	hp		20	20	res-cold		20	20																														0
+Rootward		100		1					3	1	42	42	dr5			5	5000		dgrn		invdr5				skill	Maul	2	2	skill	Shock Wave	1	1	balance2		20	20	ac%		60	80	hp		25	25	res-fire		20	20																										0
+Briarfever		100		0					1	1	90	80	b92			5	5000		dgrn		invvgl				skill	Rabies	2	2	swing2		10	10	pierce-pois		5	8	hp		20	20	res-pois		20	20																														0
+Anvilbrow		100		0					1	1	110	90	b93			5	5000		dgry		invba5				skill	Concentrate	3	5	skill	Bash	3	5	skill	Stun	3	5	swing2		20	20	att		150	250	hp		40	60	res-all		15	20																						0
+Askari Warpoint		100		1					3	1	55	48	9ts			5	5000		dgry		invtsp				swing2		20	20	dmg%		180	200	dmg-norm		25	50	skill	Jab	3	3	skill	Fend	3	3	lifesteal		5	7	rep-quant	30																								0
+Skovos Bloodtine		100		0					3	1	94	86	b97			5	5000		dred		invjav				hit-skill	Amplify Damage	10	3	swing2		40	40	dmg%		300	340	dmg-norm		30	60	skill	Jab	4	6	skill	Fend	4	6	crush		30	30	lifesteal		6	9	rep-quant	30																0
+Rogue's Keepsake		100		1					1	1	12	12	sbw			5	5000		dgry		invsbw				lh-extra-projectiles		1	1	lh-volley-weight		5	5	dmg%		50	70																																						0
+Vizjerei Lens		100		1					3	1	32	28	ob6			5	5000		cblu		invob1				sor		1	1	lh-extra-projectiles		1	1	lh-volley-weight		8	8	cast2		15	15																																		0
+Trapwright's Grips		100		1					1	1	39	30	xvg			5	5000		blac		invvgl				skilltab	18	1	1	lh-repeated-attacks		1	1	swing2		15	15																																						0
+Ardent Gauntlets		100		1					1	1	43	38	xmg			5	5000		dred		invmgl				lh-repeated-attacks		1	1	swing2		15	15	dmg%		20	20																																						0
+Marrowcall		100		1					1	1	46	46	9bw			5	5000		lgry						lh-summon-cap		1	1	lh-companion-life		30	40	skill	Raise Skeletal Mage	2	2																																						0
+Thunder-Seer's Band		100		1					3	1	52	52	ci1			5	5000		lblu		invci1				skilltab	4	2	2	lh-chain-hits		2	2	lh-recurring-speed		20	20	lh-area-radius		2	2																																		0
+Voice of the Ancients		100		1					1	1	58	58	baa			5	5000		dgld		invba5				skilltab	14	2	2	lh-aura-radius		3	3	lh-skill-duration		30	30	lh-area-radius		2	2																																		0
+Hand of Dominion		100		0					1	1	94	85	b98			5	5000				invamu				allskills		2	2	lh-aura-radius		4	4	lh-skill-duration		40	40																																						0
+Ninefold Fang		100		0					1	1	94	86	b99			5	5000		dred		invpik				skilltab	2	3	3	lh-repeated-attacks		2	2	dmg%		300	300	swing2		30	30																																		0
+The Engorged Codex		100		0					1	1	94	87	c00			5	5000		whit		invbbb				skilltab	21	3	3	lh-summon-cap		2	2	lh-companion-life		80	80	cast2		30	30																																		0
+Viz-Jun's Last Spark		100		0					1	1	94	88	c01			5	5000				invamu				sor		3	3	lh-extra-projectiles		2	2	lh-volley-weight		10	10	cast2		20	20																																		0
+Censer of Zakarum		100		0					1	1	94	88	c02			5	5000		lgld		invwsp				skilltab	9	3	3	lh-extra-projectiles		2	2	lh-area-radius		3	3	cast2		40	40																																		0
+Pack-Mother's Hide		100		0					1	1	94	88	c03			5	5000		lgry		invltp				skilltab	15	3	3	lh-summon-cap		2	2	lh-companion-life		60	60																																						0
+Storm Brood		100		0					1	1	109	85	obb			5	5000		cblu		invob1				sor		2	2	lh-extra-projectiles		6	8	cast2		30	30	mana		20	30																																		0
+The Far Requiem		100		0					1	1	100	85	neb			5	5000		lpur		invne1				lh-aura-radius		6	8	skilltab	6	2	2	cast2		20	20	res-all		20	20	mana		30	30																														0
+Gale Binder		100		0					1	1	110	90	h90			5	5000		cblu		invlgl				lh-volley-weight		10	10	cast2		20	20	mana		20	30	hp		15	25																																		0
+Ashwalker's Due		100		0					1	1	110	90	h91			5	5000		oran		invlbt				lh-area-radius		3	5	skill	Dragon Tail	2	2	move2		30	30	balance2		20	20	res-fire		30	30																														0
+Fork of the Storm		100		0					1	1	110	90	h92			5	5000		lyel		invspr				ama		2	2	lh-chain-hits		6	8	swing2		30	30	dmg%		180	230	pierce-ltng		5	10																														0
+The Unbound Page		100		0					1	1	106	85	h93			5	5000		dgrn		invbbb				lh-summon-cap		1	2	skilltab	21	2	2	cast2		20	20	hp		20	30	res-all		15	20																														0
+The Unspent Oath		100		0					1	1	109	85	h94			5	5000		lyel		invmbl				lh-skill-duration		60	100	skilltab	14	1	1	balance2		20	20	hp		30	40	str		10	10																														0
+Brood of Embers		100		0					1	1	110	90	h95			5	5000		oran		invob5				sor		2	2	lh-summon-cap		2	3	cast2		30	30	pierce-fire		5	10	mana		20	30																														0
+The Quarreling Dead		100		1					3	1	40	36	q01			5	5000		cblu		invqvr				hit-skill	Confuse	10	5	openwounds		15	15	manasteal		3	3	att		60	60	noconsume		100	100																														0
+The Widow's Reproach		100		1					3	1	70	66	q02			5	5000		blac		invcqv				hit-skill	Decrepify	10	1	lh-skill-duration		20	20	deadly		10	10	att		100	100	noconsume		100	100																														0
+The Borrowed Volley		100		1					3	1	45	42	q03			5	5000		lyel		invqvr				oskill	Strafe	3	5	swing2		15	15	pierce		15	15	att		75	75	noconsume		100	100																														0
+The Last Pursuit		100		1					3	1	70	66	q04			5	5000		dgrn		invcqv				oskill	Guided Arrow	3	5	swing2		20	20	knock		1	1	deadly		10	15	noconsume		100	100																														0
+The Pale Procession		100		1					3	1	52	48	q05			5	5000		dblu		invqvr				aura	Holy Freeze	1	6	res-all		8	8	pierce-cold		5	8	mana		20	30	noconsume		100	100																														0
+The Empty Reliquary		100		1					3	1	75	70	q06			5	5000		dgld		invcqv				aura	Redemption	1	3	res-all		12	12	heal-kill		3	5	mana-kill		2	3	noconsume		100	100																														0
+The Unwritten Storm		100		1					3	1	58	54	q07			5	5000		lblu		invqvr				oskill	Lightning	8	12	lh-extra-projectiles		1	1	lh-volley-weight		10	10	cast2		20	20	mana		30	50	noconsume		100	100																										0
+The Bell of Bone		100		0					1	1	103	90	h96			5	5000		dred		invcqv				hit-skill	Bone Spear	50	20	lh-extra-projectiles		1	2	lh-volley-weight		10	10	att		100	150	noconsume		100	100																														0

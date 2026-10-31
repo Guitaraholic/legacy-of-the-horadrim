@@ -145,7 +145,7 @@ Runeword144	Thought																																																			0
 Runeword145	Thunder																																																			0
 Runeword146	Time																																																			0
 Runeword147	Tradition																																																			0
-Runeword148	Treachery	1					111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45													0
+Runeword148	Treachery	1					111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45	lh-skill-duration		10	15									0
 Runeword149	Trust																																																			0
 Runeword150	Truth																																																			0
 Runeword151	Unbending Will	1			1	2	D2R Ladder 1	swor									FalIoIthEldElHel	r19	r16	r06	r02	r01	r15	skilltab	12	3	3	hit-skill	Taunt	18	18	swing2		20	30	dmg%		300	350	red-dmg		8	8	noheal		1	1	lifesteal		8	10	0
@@ -224,7 +224,7 @@ Runeword235	Windfall	1						glov									IthOrt	r06	r09					mag%		15	20	gold%		2
 Runeword220	Fervor	1						helm									EthRal	r05	r08					lifesteal		3	4	att		30	40	str		5	5	ac%		20	30													0
 Runeword221	Musing	1						helm									IthTal	r06	r07					mana		15	20	regen-mana		15	15	cast2		10	10	ac%		20	20													0
 Runeword222	Watch	1						helm									EldIth	r02	r06					dex		5	8	att%		15	20	ac%		20	20																	0
-Runeword223	Clamor	1						phlm									TirTal	r03	r07					skilltab	14	1	1	hp		15	20	mana		10	15	ac%		20	20													0
+Runeword223	Clamor	1						phlm									TirTal	r03	r07					skilltab	14	1	1	hp		15	20	mana		10	15	ac%		20	20	lh-skill-duration		10	15									0
 Runeword224	Rampart	1						shie	ashd								ElNef	r01	r04					block		10	10	block2		20	20	res-all		5	8	ac%		20	30													0
 Runeword225	Malediction	1						head									NefTal	r04	r07					skilltab	6	1	1	mana		15	20	res-all		5	5																	0
 Runeword226	Thrall	1						grim									EthIth	r05	r06					skilltab	21	1	1	hp		15	20	regen-mana		10	10																	0
@@ -238,7 +238,7 @@ Runeword237	Yoke	1						head	grim								TalDolLum	r07	r14	r17				skilltab	8	1	1
 Runeword238	Pall	1						head	grim								OrtUmMal	r09	r22	r23				skilltab	7	2	2	skilltab	23	2	2	cast2		10	10	pierce-pois		8	12	pierce-fire		8	12	hp		20	30					0
 Runeword239	Anathema	1						head	grim								DolUmIst	r14	r22	r24				skilltab	6	2	2	skilltab	22	2	2	cast2		20	20	gethit-skill	Weaken	10	6	res-all		15	20	mana		30	40					0
 Runeword240	Fealty	1						head	grim								SolMalGul	r12	r23	r25				skilltab	8	2	2	skilltab	21	2	2	skill	Summon Resist	1	1	skill	Bind Demon	1	1	hp		30	50	res-all		15	20					0
-Runeword241	Solace	1						shld									EthIthDol	r05	r06	r14				allskills		1	1	cast2		15	15	res-all		15	15	aura	Meditation	3	5													0
+Runeword241	Solace	1						shld									EthIthDol	r05	r06	r14				allskills		1	1	cast2		15	15	res-all		15	15	aura	Meditation	3	5	lh-aura-radius		2	2									0
 Runeword242	Sufferance	1						swor									IthTirIo	r06	r03	r16				allskills		1	1	cast2		20	20	mana		30	40	dmg-to-mana		20	25													0
 Runeword243	Undoing	1						orb									ThulIst	r10	r24					sor		1	1	cast2		20	20	pierce-fire		5	8	pierce-cold		5	8	pierce-ltng		5	8									0
 Runeword244	Frailty	1						glov									AmnShaelLem	r11	r13	r20				swing2		20	20	lifesteal		3	5	hit-skill	Amplify Damage	8	5																	0
@@ -248,10 +248,10 @@ Runeword247	Retinue	1						glov									DolTirMal	r14	r03	r23				skilltab	8	2	2	
 Runeword248	Smolder	1						boot									SolThulLem	r12	r10	r20				balance2		30	30	red-dmg%		8	10	nofreeze		1	1																	0
 Runeword249	Feint	1						boot									EldKoPul	r02	r18	r21				move2		30	30	dex		10	15	oskill	Evade	3	3																	0
 Runeword250	Fastness	1						boot									RalUmMal	r08	r22	r23				move2		30	30	mana		30	40	res-all-max		3	3																	0
-Runeword251	Cortege of Briars	1						boot									EldIo	r02	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Cycle of Life	2	2									0
-Runeword252	Cortege of Clay	1						boot									TirIo	r03	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Clay Golem	2	2									0
-Runeword253	Cortege of Bones	1						boot									ElIo	r01	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Raise Skeleton	2	2									0
-Runeword254	Cortege of Horns	1						boot									IthIo	r06	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Summon Goatman	2	2									0
+Runeword251	Cortege of Briars	1						boot									EldIo	r02	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Cycle of Life	2	2	lh-companion-life		15	25					0
+Runeword252	Cortege of Clay	1						boot									TirIo	r03	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Clay Golem	2	2	lh-companion-life		15	25					0
+Runeword253	Cortege of Bones	1						boot									ElIo	r01	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Raise Skeleton	2	2	lh-companion-life		15	25					0
+Runeword254	Cortege of Horns	1						boot									IthIo	r06	r16					skilltab	8	1	1	skilltab	15	1	1	skilltab	21	1	1	move2		20	20	oskill	Summon Goatman	2	2	lh-companion-life		15	25					0
 Runeword255	Mainstay	1						belt									SolLem	r12	r20					hp		30	40	balance2		20	20	red-dmg%		8	10																	0
 Runeword256	Rankle	1						belt									FalPul	r19	r21					str		15	15	lifesteal		4	6	noheal		1	1																	0
 Runeword257	Sagacity	1						belt									LumUm	r17	r22					allskills		1	1	cast2		10	10	mana		20	30																	0
@@ -259,32 +259,32 @@ Runeword258	Hoarfrost	1						spea	pole								EthThulDol	r05	r10	r14				skilltab
 Runeword259	Rapture	1						axe									AmnShaelIo	r11	r13	r16				skilltab	12	1	1	dmg%		40	50	swing2		20	20	aura	Fanaticism	2	3													0
 Runeword260	Sedition	1						h2h									NefDolKo	r04	r14	r18				skilltab	20	1	1	swing2		20	20	dmg%		30	30	gethit-skill	Mind Blast	10	6													0
 Runeword261	Hemlock	1						knif									TalLumUm	r07	r17	r22				skilltab	22	2	2	skilltab	7	2	2	cast2		20	20	swing2		20	20	hit-skill	Poison Nova	8	10									0
-Runeword262	Naphtha	1						miss									RalFalMal	r08	r19	r23				skilltab	0	1	1	dmg%		60	80	swing2		20	20	explosivearrow		5	7													0
+Runeword262	Naphtha	1						miss									RalFalMal	r08	r19	r23				skilltab	0	1	1	dmg%		60	80	swing2		20	20	explosivearrow		5	7	lh-volley-weight		13	15									0
 Runeword263	Sovereignty	1						orb									ThulRalLo	r10	r08	r28				sor		2	2	cast2		25	25	skill	Fire Mastery	1	1	skill	Cold Mastery	1	1	skill	Lightning Mastery	1	1									0
 Runeword264	Twain	1						knif									TalShael	r07	r13					allskills		1	1	cast2		20	20	swing2		20	20	mana		20	20	skilltab	22	1	1	skilltab	7	1	1					0
 Runeword265	Ossify	1						wand									TalSol	r07	r12					allskills		1	1	cast2		25	25	balance2		20	20	mana		30	30	oskill	Bone Armor	3	3									0
 Runeword266	Sleet	1						orb									RalSol	r08	r12					allskills		1	1	cast2		25	25	balance2		20	20	mana		30	30	gethit-skill	Frost Nova	10	6									0
 Runeword267	Lichgate	1						wand									KoGul	r18	r25					skilltab	8	2	2	cast2		20	20	mana		40	40	charged	Decrepify	25	8													0
-Runeword268	Kindle	1						orb	staf								XethRalUm	wr2	r08	r22				skilltab	3	2	2	cast2		35	35	pierce-fire		15	15	extra-fire		10	10	charged	Lower Resist	40	15									0
-Runeword269	Frostbite	1						orb	staf								XethIoUm	wr2	r16	r22				skilltab	5	2	2	cast2		35	35	pierce-cold		15	15	extra-cold		10	10	nofreeze		1	1									0
-Runeword270	Thunderhead	1						orb	staf								XethOrtLum	wr2	r09	r17				skilltab	4	2	2	cast2		35	35	pierce-ltng		15	15	extra-ltng		10	10	mana-kill		5	5									0
+Runeword268	Kindle	1						orb	staf								XethRalUm	wr2	r08	r22				skilltab	3	2	2	cast2		35	35	pierce-fire		15	15	extra-fire		10	10	charged	Lower Resist	40	15	lh-extra-projectiles		1	1					0
+Runeword269	Frostbite	1						orb	staf								XethIoUm	wr2	r16	r22				skilltab	5	2	2	cast2		35	35	pierce-cold		15	15	extra-cold		10	10	nofreeze		1	1	lh-extra-projectiles		1	1					0
+Runeword270	Thunderhead	1						orb	staf								XethOrtLum	wr2	r09	r17				skilltab	4	2	2	cast2		35	35	pierce-ltng		15	15	extra-ltng		10	10	mana-kill		5	5	lh-chain-hits		2	2	lh-recurring-speed		20	20	0
 Runeword271	Double Edge	1						knif	swor								VotShaelUm	wr3	r13	r22				skill	Echoing Strike	3	3	swing2		40	40	dmg%		250	250	lifesteal		6	6	move2		20	20									0
 Runeword272	Ill Omen	1						grim									XethTalMal	wr2	r07	r23				war		2	2	cast2		30	30	pierce-fire		15	15	charged	Lower Resist	40	15	res-all		25	25	noheal		1	1					0
 Runeword273	Hellbound	1						grim									MyrDolUm	wr1	r14	r22				skilltab	21	3	3	cast2		20	20	heal-kill		12	12	res-all		30	30	regen		20	20									0
 Runeword274	Hammerfall	1						scep	mace								XethLumPul	wr2	r17	r21				skilltab	9	3	3	cast2		30	30	res-all		20	20	regen		15	15	extra-mag		10	10									0
 Runeword275	Stalwart	1						ashd									MyrUmLum	wr1	r22	r17				pal		2	2	cast2		20	20	res-all		35	35	heal-kill		12	12	block		20	20									0
 Runeword276	Holy War	1						swor	mace								MyrShaelMal	wr1	r13	r23				aura	Fanaticism	12	12	dmg%		280	280	swing2		30	30	crush		25	25	heal-kill		12	12									0
-Runeword277	Heaven's Wrath	1						scep									XethIstLem	wr2	r24	r20				skilltab	9	3	3	cast2		30	30	extra-ltng		20	20	pierce-ltng		10	10	extra-mag		10	10									0
+Runeword277	Heaven's Wrath	1						scep									XethIstLem	wr2	r24	r20				skilltab	9	3	3	cast2		30	30	extra-ltng		20	20	pierce-ltng		10	10	extra-mag		10	10	lh-extra-projectiles		1	1	lh-area-radius		2	2	0
 Runeword278	Barrage	1						h2h	knif								VotRalMal	wr3	r08	r23				skill	Blade Fury	3	3	swing2		40	40	pierce		33	33	move2		30	30	dmg%		150	150									0
-Runeword279	Tripwire	1						h2h									XethIoOrt	wr2	r16	r09				skilltab	18	3	3	cast2		30	30	pierce-fire		15	15	pierce-ltng		15	15													0
+Runeword279	Tripwire	1						h2h									XethIoOrt	wr2	r16	r09				skilltab	18	3	3	cast2		30	30	pierce-fire		15	15	pierce-ltng		15	15	lh-repeated-attacks		1	1	lh-summon-cap		1	1					0
 Runeword280	Open Hand	1						h2h									MyrShaelLum	wr1	r13	r17				skilltab	20	2	2	swing2		40	40	deadly		30	30	heal-kill		12	12	noheal		1	1									0
-Runeword281	Black Death	1						head									XethTalUm	wr2	r07	r22				skilltab	7	3	3	cast2		20	20	pierce-pois		25	25	extra-pois		15	15	charged	Lower Resist	40	15									0
+Runeword281	Black Death	1						head									XethTalUm	wr2	r07	r22				skilltab	7	3	3	cast2		20	20	pierce-pois		25	25	extra-pois		15	15	charged	Lower Resist	40	15	lh-area-radius		2	2					0
 Runeword282	Boneyard	1						head									XethDolUm	wr2	r14	r22				skilltab	7	3	3	cast2		30	30	gethit-skill	Bone Armor	10	10	balance2		20	20	res-all		25	25									0
-Runeword283	Dead March	1						head									MyrDolLum	wr1	r14	r17				skilltab	8	3	3	skill	Skeleton Mastery	2	2	cast2		20	20	heal-kill		12	12	res-all		30	30									0
-Runeword284	Arrowstorm	1						miss									VotOrtMal	wr3	r09	r23				aura	Might	8	8	dmg%		220	220	swing2		20	20	pierce		33	33	move2		30	30									0
+Runeword283	Dead March	1						head									MyrDolLum	wr1	r14	r17				skilltab	8	3	3	skill	Skeleton Mastery	2	2	cast2		20	20	heal-kill		12	12	res-all		30	30	lh-summon-cap		1	1					0
+Runeword284	Arrowstorm	1						miss									VotOrtMal	wr3	r09	r23				aura	Might	8	8	dmg%		220	220	swing2		20	20	pierce		33	33	move2		30	30	lh-extra-projectiles		1	2					0
 Runeword285	Spearhead	1						spea									VotOrtUm	wr3	r09	r22				skilltab	2	3	3	pierce-ltng		20	20	swing2		40	40	move2		30	30													0
 Runeword286	Rampage	1						swor	axe								MyrShaelIst	wr1	r13	r24				aura	Might	12	12	dmg%		250	250	swing2		40	40	noheal		1	1	heal-kill		12	12									0
-Runeword287	Wildfire	1						pelt	staf								XethOrtUm	wr2	r09	r22				skilltab	17	3	3	cast2		30	30	pierce-fire		15	15	pierce-cold		15	15													0
+Runeword287	Wildfire	1						pelt	staf								XethOrtUm	wr2	r09	r22				skilltab	17	3	3	cast2		30	30	pierce-fire		15	15	pierce-cold		15	15	lh-area-radius		2	2									0
 Runeword288	Outrider	1						boot	glov	belt	helm	tors	shie				VotVot	wr3	wr3					move2		30	30	balance2		10	10																					0
 Runeword289	Quicksilver	1						weap									VotEldVot	wr3	r02	wr3				move2		40	40	swing2		20	20	nofreeze		1	1																	0
 Runeword290	Bastion	1						tors									MyrUmIst	wr1	r22	r24				hp%		15	15	nofreeze		1	1	red-dmg%		10	10	res-all		30	30	heal-kill		12	12									0
@@ -304,7 +304,7 @@ Runeword303	Bloodfeast	1						swor	axe	mace							MyrBerJahChamLo	wr1	r30	r31	r3
 Runeword304	Deathknell	1						miss									VotBerJahSur	wr3	r30	r31	r29			aura	Conviction	15	15	dmg%		350	350	pierce		100	100	move2		40	40	kill-skill	Corpse Explosion	25	30									0
 Runeword305	Nightfall	1						h2h									VotJahBer	wr3	r31	r30				ass		3	3	charge-noconsume		50	50	pierce-fire		15	15	pierce-cold		15	15	pierce-ltng		15	15	swing2		40	40	move2		30	30	0
 Runeword306	Revelation	1						grim									XethBerJah	wr2	r30	r31				war		3	3	cast2		50	50	pierce-fire		20	20	charged	Lower Resist	60	20	hp%		20	20									0
-Runeword307	Bone Throne	1						head	grim								MyrBerCham	wr1	r30	r32				skilltab	8	4	4	skill	Skeleton Mastery	3	3	kill-skill	Corpse Explosion	25	20	heal-kill		40	40	res-all		30	30									0
+Runeword307	Bone Throne	1						head									MyrBerCham	wr1	r30	r32				skilltab	8	4	4	skill	Skeleton Mastery	3	3	kill-skill	Corpse Explosion	25	20	heal-kill		40	40	res-all		30	30	lh-summon-cap		1	1	lh-companion-life		50	50	0
 Runeword308	Judgment Day	1						ashd									MyrBerSur	wr1	r30	r29				allskills		3	3	res-all		60	60	red-dmg%		15	15	cast2		40	40	nofreeze		1	1									0
 Runeword309	Wanderlust	1						tors									MyrBerJahZod	wr1	r30	r31	r33			allskills		3	3	oskill	Teleport	1	1	move2		45	45	hp%		25	25	red-dmg%		15	15	nofreeze		1	1					0
 Runeword310	Sovereign	1						helm									XethBerCham	wr2	r30	r32				allskills		3	3	cast2		30	30	nofreeze		1	1	hp%		20	20	lifesteal		8	8									0
@@ -316,7 +316,63 @@ Runeword315	Hail	1						helm	glov								TalOrtFal	r07	r09	r19				lh-extra-proje
 Runeword316	Deluge	1						helm	glov								LemIstGul	r20	r24	r25				allskills		1	1	lh-extra-projectiles		3	5	res-all		15	15																	0
 Runeword318	Torrent	1						swor	staf	scep	knif						EldRalOrt	r02	r08	r09				allskills		1	1	lh-extra-projectiles		1	1	cast2		20	20	mana		20	20													0
 Runeword319	Squall	1						bow	xbow								EthTalRal	r05	r07	r08				lh-extra-projectiles		1	1	cast2		10	10	swing2		10	10	mana		15	15													0
-Runeword320	Flurry	1						helm	glov	belt							TalNef	r07	r04					lh-extra-projectiles		1	1																									0
-Runeword321	Cloudburst	1						bow	xbow	swor	staf	scep	knif				OrtShaelUm	r09	r13	r22				lh-extra-projectiles		1	1	lh-volley-weight		15	20	cast2		20	20																	0
+Runeword320	Flurry	1						helm	glov	belt							TalNef	r07	r04					lh-extra-projectiles		1	1	lh-volley-weight		5	5	mana		10	10																	0
+Runeword321	Cloudburst	1						bow	xbow	swor	staf	scep	knif				OrtShaelUm	r09	r13	r22				lh-extra-projectiles		1	1	lh-volley-weight		10	10	cast2		20	20	allskills		1	1													0
 Runeword322	Expanse	1						staf	orb	h2h							OrtLum	r09	r17					lh-chain-hits		2	2	lh-area-radius		2	2	cast2		20	20																	0
-Runeword323	Mandate	1						helm									ShaelDol	r13	r14					lh-aura-radius		2	2	lh-summon-cap		1	1	lh-skill-duration		15	20																	0
+Runeword323	Mandate	1						helm									ShaelDol	r13	r14					lh-aura-radius		2	2	lh-summon-cap		1	1	lh-skill-duration		15	20	lh-companion-life		15	25													0
+Runeword329	Lore	1						rb01									Sol	r12						enr		10	10	allskills		1	1	light		2	2	mana-kill		2	2													0
+Runeword330	Stealth	1						rb02									Eth	r05						red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
+Runeword331	Steel	1						rb03									El	r01						swing2		25	25	dmg-min		3	3	dmg-max		3	3	openwounds		50	50	dmg%		20	20									0
+Runeword332	Smoke	1						rb04									Lum	r17						ac-miss		250	250	ac%		75	75	res-all		50	50	balance2		20	20	light		-1	-1	charged	72	18	6					0
+Runeword333	Rhyme	1						rb05									Eth	r05						block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
+Runeword334	White	1						rb06									Io	r16						skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
+Runeword335	Lawbringer	1						rb07									Ko	r18						dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	16	18	hit-skill	Decrepify	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
+Runeword336	Crescent Moon	1						rb08									Tir	r03						pierce-ltng		35	35	ignore-ac		1	1	dmg%		180	220	abs-mag		9	11	charged	Summon Spirit Wolf	30	18	hit-skill	Static Field	7	13	hit-skill	Chain Lightning	10	17	0
+Runeword337	Wind	1						rb09									El	r01						dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	Tornado	10	9	charged	240	127	13	balance2		15	15	0
+Runeword338	Enigma	1						rb10									Ber	r30						ac		750	775	heal-kill		14	14	move2		45	45	str/lvl	6			allskills		2	2	mag%/lvl	8			oskill	Teleport	1	1	0
+Runeword339	Worldbreaker	1						rb11									Ber	r30						allskills		2	2	swing2		30	30	cast2		20	20	lifesteal		10	10	heal-kill		20	20									0
+Runeword340	Doomsday	1						rb12									Ber	r30						allskills		3	3	cast2		60	60	aura	Conviction	18	18	pierce-fire		20	20	pierce-cold		20	20	pierce-ltng		20	20	charged	Lower Resist	60	20	0
+Runeword341	Exodus	1						rb13									Jah	r31						move2		60	60	allskills		2	2	res-all		40	40	balance2		20	20													0
+Runeword342	Kingmaker	1						rb14									Jah	r31						move2		40	40	hp%		15	15	red-dmg%		10	10	cast2		20	20													0
+Runeword343	Starfall	1						rb15									Lum	r17						cast2		20	20	hp		40	40	res-all		30	30	mana%		10	10													0
+Runeword344	Ironbound	1						rb16									Um	r22						red-dmg%		10	10	hp		60	60	heal-kill		12	12	res-all		30	30													0
+Runeword373	Salvo	1						qgra	qgrb								OrtRal	r09	r08					lh-extra-projectiles		1	1	swing2		10	10	pierce		20	20	att		50	50													0
+Runeword374	Trueflight	1						qgra	qgrb								KoFal	r18	r19					skilltab	0	1	1	lh-extra-projectiles		1	1	lh-volley-weight		5	5	deadly		20	20													0
+Runeword375	Arrowfall	1						qgra	qgrb								KoUmIst	r18	r22	r24				skilltab	0	1	1	lh-extra-projectiles		1	1	swing2		20	20	pierce		30	30	lh-volley-weight		10	10									0
+Runeword376	Windborne	1						qgra	qgrb								XethUmLo	wr2	r22	r28				skilltab	0	2	2	lh-area-radius		3	3	lh-extra-projectiles		1	1	swing2		20	20													0
+Runeword377	Firmament	1						qgra	qgrb								VotBerJah	wr3	r30	r31				skilltab	0	2	2	lh-extra-projectiles		2	2	swing2		20	20	pierce		40	40	lh-volley-weight		10	10									0
+Runeword345	Wild Covenant	1						pelt									ShaelEthLum	r13	r05	r17				skilltab	16	1	1	swing2		10	10	lifesteal		3	3	ac%		60	60	hp		20	20									0
+Runeword346	Close Ranks	1						spea									ShaelAmnEth	r13	r11	r05				hit-skill	Amplify Damage	2	1	dmg%		120	160	skill	Jab	1	2	skill	Fend	1	2	crush		10	10									0
+Runeword347	Bloodsworn	1						spea									ShaelOhmLo	r13	r27	r28				hit-skill	Amplify Damage	5	1	dmg%		250	300	skill	Jab	2	2	skill	Fend	2	2	crush		25	25	lifesteal		5	7					0
+Runeword348	Snare	1						h2h									TalOrt	r07	r09					skilltab	18	1	1	lh-repeated-attacks		1	1	swing2		15	15																	0
+Runeword349	Cadence	1						mele									RalThulTal	r08	r10	r07				lh-repeated-attacks		1	1	swing2		20	20	dmg%		40	60																	0
+Runeword350	Muster	1						helm									ElOrt	r01	r09					lh-summon-cap		1	1	lh-companion-life		10	20																					0
+Runeword351	Tolling	1						shie									IthOrtRal	r06	r09	r08				lh-recurring-speed		15	15	cast2		10	10	res-all		10	10																	0
+Runeword352	Murmur	1						wand	head								EthThul	r05	r10					skilltab	6	1	1	lh-aura-radius		2	2	lh-skill-duration		20	20																	0
+Runeword353	Anthem	1						swor	scep								ShaelKoLem	r13	r18	r20				aura	Holy Shock	8	8	lh-repeated-attacks		1	1	lh-recurring-speed		20	20	swing2		10	10													0
+Runeword354	Herald	1						phlm									OrtDolLem	r09	r14	r20				skilltab	14	2	2	lh-aura-radius		3	3	lh-skill-duration		25	25																	0
+Runeword355	Gravewarden	1						head	shie								DolLumPul	r14	r17	r21				skilltab	8	2	2	lh-summon-cap		1	1	lh-companion-life		30	40																	0
+Runeword356	Wildbond	1						pelt									TirLumPul	r03	r17	r21				skilltab	15	2	2	lh-summon-cap		1	1	lh-companion-life		30	50																	0
+Runeword357	Shieldmaiden	1						tors									DolIoLem	r14	r16	r20				skilltab	1	2	2	lh-summon-cap		1	1	lh-companion-life		40	60																	0
+Runeword358	Stormlash	1						spea									OrtMalIst	r09	r23	r24				skilltab	2	2	2	lh-chain-hits		2	2	lh-area-radius		2	2	pierce-ltng		10	10													0
+Runeword359	Forked Path	1						staf	orb								OrtKoMal	r09	r18	r23				skilltab	4	2	2	lh-chain-hits		2	2	lh-extra-projectiles		1	1	cast2		20	20													0
+Runeword360	Pyre	1						staf	orb								RalLumIst	r08	r17	r24				skilltab	3	2	2	lh-extra-projectiles		1	1	lh-volley-weight		8	8	cast2		20	20													0
+Runeword361	Whiteout	1						staf	orb								IoUmGul	r16	r22	r25				skilltab	5	2	2	lh-area-radius		2	2	lh-skill-duration		20	20	cast2		30	30													0
+Runeword362	Marrow	1						wand									LumIst	r17	r24					skilltab	7	2	2	lh-extra-projectiles		1	1	lh-volley-weight		8	8	cast2		20	20													0
+Runeword363	Gale	1						pelt	staf								RalKoUm	r08	r18	r22				skilltab	17	2	2	lh-extra-projectiles		1	1	lh-area-radius		2	2	cast2		20	20													0
+Runeword364	Standard	1						ashd									KoPulMal	r18	r21	r23				lh-aura-radius		4	4	res-all		25	25	block		20	20																	0
+Runeword365	Thousand Edges	1						h2h									ShaelLumUm	r13	r17	r22				skill	Blade Shield	3	3	lh-recurring-speed		25	25	lh-area-radius		2	2	swing2		10	10													0
+Runeword366	Fetor	1						grim									IoLumIst	r16	r17	r24				skilltab	23	2	2	lh-extra-projectiles		1	1	lh-area-radius		2	2	lh-skill-duration		20	20													0
+Runeword367	Host of Hell	1						grim									TalPulGul	r07	r21	r25				skilltab	21	2	2	lh-summon-cap		1	1	lh-companion-life		40	40																	0
+Runeword368	Litany	1						swor	scep	spea							MyrOhmBer	wr1	r27	r30				lh-repeated-attacks		2	2	dmg%		300	300	swing2		40	40	heal-kill		20	20													0
+Runeword369	Starbreak	1						orb									XethOhmVex	wr2	r27	r26				sor		3	3	lh-extra-projectiles		2	2	lh-volley-weight		10	10	cast2		40	40	pierce-fire		15	15	pierce-cold		15	15					0
+Runeword370	Warlord's Call	1						phlm									MyrVexLo	wr1	r26	r28				skilltab	14	3	3	allskills		2	2	lh-aura-radius		4	4	lh-skill-duration		50	50													0
+Runeword371	Galeheart	1						pelt	staf								XethVexBer	wr2	r26	r30				skilltab	17	3	3	lh-extra-projectiles		2	2	lh-area-radius		3	3	cast2		30	30													0
+Runeword372	Hundred Shafts	1						bow									VotOhmBer	wr3	r27	r30				skilltab	0	3	3	lh-extra-projectiles		3	3	swing2		30	30	pierce		50	50													0
+Runeword378	Undertow	1						qgra	qgrb								TalOrtFal	r07	r09	r19				lh-extra-projectiles		1	1	lh-volley-weight		10	15	pierce		15	15	mana		20	20													0
+Runeword379	Long Vigil	1						glov									ShaelFalThul	r13	r19	r10				lh-skill-duration		25	35	mana		15	15																					0
+Runeword380	Crosswind	1						boot									ShaelUmFal	r13	r22	r19				lh-volley-weight		15	20	move2		20	20	mana		10	15																	0
+Runeword381	Aftershock	1						spea									ThulDolIo	r10	r14	r16				lh-chain-hits		2	2	skilltab	2	1	1	dmg%		40	60	swing2		20	20	mana		20	20									0
+Runeword382	Hallow	1						orb	wand								TirThul	r03	r10					lh-area-radius		2	2	allskills		1	1	cast2		10	10	mana		15	15													0
+Runeword383	Far Cry	1						wand									DolEth	r14	r05					lh-aura-radius		2	2	lh-skill-duration		15	20	skilltab	6	1	1	cast2		20	20													0
+Runeword384	Kindred	1						wand									IoEth	r16	r05					lh-summon-cap		2	2	skill	Raise Skeleton	2	2	skill	Raise Skeletal Mage	2	2	skill	Skeleton Mastery	2	2	cast2		15	15	mana		20	20					0

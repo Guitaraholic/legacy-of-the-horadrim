@@ -821,3 +821,6 @@ lh_affix_skewering	100	1	1	12		9				3	1050	pierce		10	20										qfla	qflb
 lh_affix_transfixing	100	1	1	45		34				3	1050	pierce		21	35										qfla	qflb												
 lh_affix_hobbling	100	1	1	12		9				3	1051	slow		10	15										qfla	qflb												
 lh_affix_fettering	100	1	1	45		34				3	1051	slow		16	25										qfla	qflb												
+lh_affix_onslaught	100	1	1	30		25				1	315	lh-repeated-attacks		1	1										weap	glov						wand	staf	orb			0	0
+of Reach	100	1	1	12		10				1	311	lh-aura-radius		2	2										phlm												0	0
+of Far Reach	100	1	1	40		35				1	311	lh-aura-radius		4	4										phlm												0	0

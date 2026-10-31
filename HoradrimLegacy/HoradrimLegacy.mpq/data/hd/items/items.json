@@ -3645,6 +3645,96 @@
     }
   },
   {
+    "j29": {
+      "asset": "lh/j29"
+    }
+  },
+  {
+    "j30": {
+      "asset": "lh/j30"
+    }
+  },
+  {
+    "j31": {
+      "asset": "lh/j31"
+    }
+  },
+  {
+    "j32": {
+      "asset": "lh/j32"
+    }
+  },
+  {
+    "j33": {
+      "asset": "lh/j33"
+    }
+  },
+  {
+    "j49": {
+      "asset": "lh/j49"
+    }
+  },
+  {
+    "j35": {
+      "asset": "lh/j35"
+    }
+  },
+  {
+    "j36": {
+      "asset": "lh/j36"
+    }
+  },
+  {
+    "j37": {
+      "asset": "lh/j37"
+    }
+  },
+  {
+    "j38": {
+      "asset": "lh/j38"
+    }
+  },
+  {
+    "j39": {
+      "asset": "lh/j39"
+    }
+  },
+  {
+    "j40": {
+      "asset": "lh/j40"
+    }
+  },
+  {
+    "j41": {
+      "asset": "lh/j41"
+    }
+  },
+  {
+    "j42": {
+      "asset": "lh/j42"
+    }
+  },
+  {
+    "j43": {
+      "asset": "lh/j43"
+    }
+  },
+  {
+    "j44": {
+      "asset": "lh/j44"
+    }
+  },
+  {
+    "j45": {
+      "asset": "lh/j45"
+    }
+  },
+  {
+    "j48": {
+      "asset": "lh/j48"
+    }
+  },
+  {
     "w02": {
       "asset": "lh/w02"
     }
@@ -4037,6 +4127,16 @@
   {
     "q08": {
       "asset": "lh/q08"
+    }
+  },
+  {
+    "j46": {
+      "asset": "lh/j30"
+    }
+  },
+  {
+    "j47": {
+      "asset": "lh/j29"
     }
   },
   {
@@ -4445,8 +4545,223 @@
     }
   },
   {
+    "b94": {
+      "asset": "spear/trident"
+    }
+  },
+  {
+    "b95": {
+      "asset": "bow/hunters_bow"
+    }
+  },
+  {
+    "b96": {
+      "asset": "bow/short_bow"
+    }
+  },
+  {
+    "b91": {
+      "asset": "circlet/coronet"
+    }
+  },
+  {
+    "b92": {
+      "asset": "glove/heavy_gloves"
+    }
+  },
+  {
+    "b93": {
+      "asset": "helmet/avenger_guard"
+    }
+  },
+  {
+    "b97": {
+      "asset": "javelin/javelin"
+    }
+  },
+  {
+    "b98": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "b99": {
+      "asset": "spear/pike"
+    }
+  },
+  {
+    "c00": {
+      "asset": "grimoires/codex"
+    }
+  },
+  {
+    "c01": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "c02": {
+      "asset": "scepter/war_scepter"
+    }
+  },
+  {
+    "c03": {
+      "asset": "armor/light_plate"
+    }
+  },
+  {
+    "h90": {
+      "asset": "glove/gloves_l"
+    }
+  },
+  {
+    "h91": {
+      "asset": "boot/leather_boots"
+    }
+  },
+  {
+    "h92": {
+      "asset": "spear/spear"
+    }
+  },
+  {
+    "h93": {
+      "asset": "grimoires/tome_book"
+    }
+  },
+  {
+    "h94": {
+      "asset": "belt/belt_m"
+    }
+  },
+  {
+    "h95": {
+      "asset": "orb/dragon_stone"
+    }
+  },
+  {
+    "h96": {
+      "asset": "lh/q08"
+    }
+  },
+  {
     "b06": {
       "asset": "ring/ring"
+    }
+  },
+  {
+    "h01": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h02": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h03": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h04": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h05": {
+      "asset": "charm/charm_small"
+    }
+  },
+  {
+    "h06": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h07": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h08": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h09": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h10": {
+      "asset": "ring/ring"
+    }
+  },
+  {
+    "h11": {
+      "asset": "charm/charm_large"
+    }
+  },
+  {
+    "h12": {
+      "asset": "amulet/amulet"
+    }
+  },
+  {
+    "h13": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h14": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h15": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h16": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h17": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h18": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h19": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h20": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h21": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h22": {
+      "asset": "gem/perfect_diamond"
+    }
+  },
+  {
+    "h23": {
+      "asset": "gem/perfect_diamond"
     }
   },
   {

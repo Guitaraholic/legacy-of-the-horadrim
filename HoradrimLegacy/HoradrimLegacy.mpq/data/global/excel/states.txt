@@ -231,6 +231,6 @@ herald	228																																										herald																						
 apocalypse	229																																																																									0
 missilelimit	230																																																																									0
 primeevil_threat	231																																																																									0
-lhgilded	232																																																								70	110	255	200	40													0
+lhgilded	232					1																																					fanaticismfront	fanaticismback													70	110	255	200	40													0
 lh_boss_glow	233					1																																					convictionfront	convictionback																														0
 lhpaleghost	234																																																								70	111	170	200	255													0

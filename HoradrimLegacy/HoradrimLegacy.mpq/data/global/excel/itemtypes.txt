@@ -4,12 +4,12 @@ None	none			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Shield	shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	3	40	4	0	3			0							armo	0	shlds	r_off		
 Armor	tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0	armor	r_arm		
 Gold	gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0								0				
-Bow Quiver	bowq	misl	seco	0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Crossbow Quiver	xboq	misl	seco	0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0	ammo			
+Bow Quiver	bowq	misl	seco	0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Crossbow Quiver	xboq	misl	seco	0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
 Player Body Part	play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0				
 Herb	herb	char		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0	charm			
 Potion	poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0	potis			
-Ring	ring	misc	merc	0	1	rrin	lrin			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0	rings			
+Ring	ring	misc	merc	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0	rings			
 Elixir	elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0				
 Amulet	amul	misc	merc	0	1	neck	neck			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			3	invamu1	invamu2	invamu3				misc	0	amule			
 Charm	char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0	charm			
@@ -113,14 +113,14 @@ Helm	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							arm
 Oil	oil															1																			0				
 Runecraft Special	lhsp															1																			0				
 Cow Relic	lhcw															1																			0				
-Hexed Arrows	qhxa	mboq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Hexed Bolts	qhxb	mxbq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Flight Arrows	qfla	mboq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Flight Bolts	qflb	mxbq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Anointed Arrows	qana	mboq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Anointed Bolts	qanb	mxbq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0	ammo			
-Graven Arrows	qgra	bowq		0	1	rarm	larm		bow	0	1	0	0			0	0	1	25	2	40	3	0	3			0							misc	0	ammo	r_off		
-Graven Bolts	qgrb	xboq		0	1	rarm	larm		xbow	0	1	0	0			0	0	1	25	2	40	3	0	3			0							misc	0	ammo	r_off		
+Hexed Arrows	qhxa	mboq		0	1	rarm	larm		bow	0	1	0	0		1	0	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Hexed Bolts	qhxb	mxbq		0	1	rarm	larm		xbow	0	1	0	0		1	0	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Flight Arrows	qfla	mboq		0	1	rarm	larm		bow	0	1	0	0		1	0	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Flight Bolts	qflb	mxbq		0	1	rarm	larm		xbow	0	1	0	0		1	0	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Anointed Arrows	qana	mboq		0	1	rarm	larm		bow	0	1	0	0		1	0	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Anointed Bolts	qanb	mxbq		0	1	rarm	larm		xbow	0	1	0	0		1	0	0	0	25	0	40	0	0	3			0							misc	0	lhqvr			
+Graven Arrows	qgra	bowq		0	1	rarm	larm		bow	0	1	0	0			0	0	1	25	2	40	3	0	3			0							misc	0	lhqvr	r_off		
+Graven Bolts	qgrb	xboq		0	1	rarm	larm		xbow	0	1	0	0			0	0	1	25	2	40	3	0	3			0							misc	0	lhqvr	r_off		
 Soul Helms 4	s000	s001												1	1																				0				
 Soul Helms 7	s001	s002												1	1																				0				
 Soul Helms 16	s002	s003												1	1																				0				
@@ -200,7 +200,7 @@ Soul Throwing axes 80	s062													1	1																				0
 Soul Throwing knives 52	s070	s071												1	1																				0				
 Soul Throwing knives 83	s071													1	1																				0				
 Soul Javelins 26	s080	s081												1	1																				0				
-Soul Javelins 50	s081	s082												1	1																				0				
+Soul Javelins 50	s081	s084												1	1																				0				
 Soul Javelins 77	s082	s083												1	1																				0				
 Soul Javelins 87	s083													1	1																				0				
 Soul Swords 3	s090	s091												1	1																				0				
@@ -217,7 +217,7 @@ Soul Swords 73	s09a	s09b												1	1																				0
 Soul Swords 80	s09b	s09c												1	1																				0				
 Soul Swords 85	s09c	s09d												1	1																				0				
 Soul Swords 87	s09d													1	1																				0				
-Soul Bows 10	s0a0	s0a1												1	1																				0				
+Soul Bows 10	s0a0	s0aa												1	1																				0				
 Soul Bows 22	s0a1	s0a2												1	1																				0				
 Soul Bows 27	s0a2	s0a3												1	1																				0				
 Soul Bows 38	s0a3	s0a4												1	1																				0				
@@ -312,7 +312,7 @@ Soul Sceptres 52	s134	s135												1	1																				0
 Soul Sceptres 69	s135	s136												1	1																				0				
 Soul Sceptres 80	s136	s137												1	1																				0				
 Soul Sceptres 85	s137													1	1																				0				
-Soul Orbs 18	s140	s141												1	1																				0				
+Soul Orbs 18	s140	s144												1	1																				0				
 Soul Orbs 50	s141	s142												1	1																				0				
 Soul Orbs 80	s142	s143												1	1																				0				
 Soul Orbs 87	s143													1	1																				0				
@@ -327,23 +327,50 @@ Soul Claws 94	s157													1	1																				0
 Soul Rings 10	s160	s161												1	1																				0				
 Soul Rings 12	s161	s162												1	1																				0				
 Soul Rings 22	s162	s163												1	1																				0				
-Soul Rings 25	s163	s164												1	1																				0				
+Soul Rings 25	s163	s16c												1	1																				0				
 Soul Rings 39	s164	s165												1	1																				0				
 Soul Rings 47	s165	s166												1	1																				0				
 Soul Rings 53	s166	s167												1	1																				0				
-Soul Rings 58	s167	s168												1	1																				0				
+Soul Rings 58	s167	s16f												1	1																				0				
 Soul Rings 68	s168	s169												1	1																				0				
 Soul Rings 75	s169	s16a												1	1																				0				
 Soul Rings 77	s16a	s16b												1	1																				0				
 Soul Rings 84	s16b													1	1																				0				
 Soul Amulets 10	s170	s171												1	1																				0				
 Soul Amulets 16	s171	s172												1	1																				0				
-Soul Amulets 22	s172	s173												1	1																				0				
+Soul Amulets 22	s172	s17b												1	1																				0				
 Soul Amulets 36	s173	s174												1	1																				0				
 Soul Amulets 55	s174	s175												1	1																				0				
 Soul Amulets 60	s175	s176												1	1																				0				
-Soul Amulets 63	s176	s177												1	1																				0				
+Soul Amulets 63	s176	s17c												1	1																				0				
 Soul Amulets 76	s177	s178												1	1																				0				
 Soul Amulets 80	s178	s179												1	1																				0				
 Soul Amulets 85	s179	s17a												1	1																				0				
 Soul Amulets 90	s17a													1	1																				0				
+Signet	lsgn	ring		0	1	rrin	lrin			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			0							misc	0	rings			
+Pendant	lpnd	amul		0	1	neck	neck			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			0							misc	0	amule			
+Runeband of Lore	rb01	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Stealth	rb02	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Steel	rb03	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Smoke	rb04	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Rhyme	rb05	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of White	rb06	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Lawbringer	rb07	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Crescent Moon	rb08	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Wind	rb09	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Enigma	rb10	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Worldbreaker	rb11	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Doomsday	rb12	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Exodus	rb13	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Kingmaker	rb14	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Starfall	rb15	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Runeband of Ironbound	rb16	ring		0	1	rrin	lrin			0	0	0	0	0	0	1	0	1	25	1	40	1	0	3			0							misc	0	lhrnb			
+Soul Rings 26	s16c	s16d												1	1																				0				
+Soul Rings 28	s16d	s16e												1	1																				0				
+Soul Rings 36	s16e	s164												1	1																				0				
+Soul Rings 64	s16f	s168												1	1																				0				
+Soul Amulets 30	s17b	s173												1	1																				0				
+Soul Amulets 64	s17c	s177												1	1																				0				
+Soul Javelins 55	s084	s082												1	1																				0				
+Soul Bows 12	s0aa	s0a1												1	1																				0				
+Soul Orbs 32	s144	s141												1	1																				0				
