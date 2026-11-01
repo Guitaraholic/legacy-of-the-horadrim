@@ -1,4 +1,5 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	ConditionCalc	firstLadderSeason	lastLadderSeason	noAlwaysSpawn	QuestFlag	QuestFlagEx	*eol
+LH Nothing			1					1																														0
 Gold			1						gld	1																												0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	j29	1	j30	1														0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	j29	1	j30	1														0
@@ -313,11 +314,11 @@ Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																						0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																						0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																						0
 LH Reagents			1						k05	2500	k01	2083	k04	1250	k06	1250	k02	833	k03	400	k07	167	k09	625	k08	125	k10	100										0
-LH Reagent Roll			1					9813	LH Reagents	187																												0
+LH Reagent Roll			1					6133	LH Reagents	187	LH Nothing	3680																										0
 LH Reagents (N)			1						k05	3200	k01	2667	k04	1280	k06	1280	k02	800	k03	356	k07	160	k09	640	k08	133	k10	100										0
-LH Reagent Roll (N)			1					9668	LH Reagents (N)	332																												0
+LH Reagent Roll (N)			1					6042	LH Reagents (N)	332	LH Nothing	3626																										0
 LH Reagents (H)			1						k05	8333	k01	6667	k04	2222	k06	2222	k02	1111	k03	417	k07	133	k09	833	k08	125	k10	100										0
-LH Reagent Roll (H)			1					9778	LH Reagents (H)	222																												0
+LH Reagent Roll (H)			1					6111	LH Reagents (H)	222	LH Nothing	3667																										0
 Act 1 Good	5	0	1						Jewelry A	5	Chipped Gem	5																										0
 Act 2 Good	5	12	1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 2	3																				0
 Act 3 Good	5	18	1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3																				0
@@ -349,36 +350,36 @@ LH Burning Hells Fragment (H)			1					1	f04	2	s01	1																										0
 LH Arreat Fragment			1					3	f05	1																												0
 LH Arreat Fragment (N)			1					5	f05	3																												0
 LH Arreat Fragment (H)			1					1	f05	2	s01	1																										0
-LH Bishibosh Unique			1					24	Bishibosh's Fetish	1																												0
-LH Rakanishu Unique			1					24	Rakanishu's Retreat	1																												0
+LH Bishibosh Unique			1					15	Bishibosh's Fetish	1	LH Nothing	9																										0
+LH Rakanishu Unique			1					15	Rakanishu's Retreat	1	LH Nothing	9																										0
 LH Blood Raven Unique			1					24	LH Blood Raven Fang	1																												0
 LH Radament Unique			1					24	LH Radament Skull	1																												0
 LH Hephasto Unique			1					23	LH Hephasto Heart	1	LH Hephasto Quenchstone	1																										0
 LH Hephasto Unique (N)			1					24	LH Hephasto Heart	1																												0
-LH Countess Unique			1					24	LH Countess Stone	1																												0
+LH Countess Unique			1					15	LH Countess Stone	1	LH Nothing	9																										0
 LH Mephisto Unique			1					24	LH Mephisto Tithe	1																												0
 LH Diablo Unique			1					24	Aidan's Burden	1																												0
 LH Baal Unique			1					39	LH Baal Promise	1																												0
-LH Bartuc Unique			1					24	Bartuc's Throw of Bones	1																												0
+LH Bartuc Unique			1					15	Bartuc's Throw of Bones	1	LH Nothing	9																										0
 LH Nihlathak Unique			1					24	LH Nihlathak Pyre	1																												0
 LH Summoner Unique			1					24	LH Summoner Glass	1																												0
 LH Summoner Unique (H)			1					24	LH Summoner Lodestone	1																												0
 LH Izual Unique			1					24	LH Izual Tear	1																												0
-LH Sszark Unique			1					23	LH Sszark Emerald	1	LH Sszark Alkor	1																										0
-LH Sszark Unique (N)			1					24	LH Sszark Emerald	1																												0
-LH Sarina Unique			1					24	LH Sarina Topaz	1																												0
-LH Endugu Unique			1					24	LH Endugu Tooth	1																												0
-LH Frozenstein Unique			1					24	LH Frozenstein Sapphire	1																												0
-LH De Seis Unique			1					24	LH De Seis Wrath	1																												0
-LH Grand Vizier Unique			1					24	LH Grand Vizier Bead	1																												0
-LH Tormentor Unique			1					24	Marsh-Light	1																												0
+LH Sszark Unique			1					14	LH Sszark Emerald	1	LH Sszark Alkor	1	LH Nothing	9																								0
+LH Sszark Unique (N)			1					15	LH Sszark Emerald	1	LH Nothing	9																										0
+LH Sarina Unique			1					15	LH Sarina Topaz	1	LH Nothing	9																										0
+LH Endugu Unique			1					15	LH Endugu Tooth	1	LH Nothing	9																										0
+LH Frozenstein Unique			1					15	LH Frozenstein Sapphire	1	LH Nothing	9																										0
+LH De Seis Unique			1					15	LH De Seis Wrath	1	LH Nothing	9																										0
+LH Grand Vizier Unique			1					15	LH Grand Vizier Bead	1	LH Nothing	9																										0
+LH Tormentor Unique			1					15	Marsh-Light	1	LH Nothing	9																										0
 LH Coldworm Unique			1					24	LH Coldworm Sandglass	1																												0
 LH Summit Unique			1					956	Talic's Vow	8	Madawc's Vow	8	Korlic's Vow	8	Four Hours Girdle Watcher	8	Girdle of the Four Hours Reaver	6	Four Hours Girdle Warrior	4	Four Hours Girdle Mountain King	2																0
-LH Terror Pool			1					1497	Brow of the Herald	1	Herald-Bane Grips	1	Blood of Arreat	1																								0
-LH Terror Pool Herald			1					147	Brow of the Herald	1	Herald-Bane Grips	1	Blood of Arreat	1																								0
+LH Terror Pool			1					935	Brow of the Herald	1	Herald-Bane Grips	1	Blood of Arreat	1	LH Nothing	562																						0
+LH Terror Pool Herald			1					91	Brow of the Herald	1	Herald-Bane Grips	1	Blood of Arreat	1	LH Nothing	56																						0
 LH Stone TZ Boss Stone			1					1	s01	1																												0
-LH Stone TZ Super Stone			1					3	s01	1																												0
-LH Stone TZ Unique Stone			1					19	s01	1																												0
+LH Stone TZ Super Stone			1					1	s01	1	LH Nothing	2																										0
+LH Stone TZ Unique Stone			1					11	s01	1	LH Nothing	8																										0
 LH Stone TZ Boss			-2					0	LH Stone TZ Boss Stone	1	LH Terror Pool	1																										0
 LH Stone TZ Super			-2					0	LH Stone TZ Super Stone	1	LH Terror Pool	1																										0
 LH Stone TZ Unique			-2					0	LH Stone TZ Unique Stone	1	LH Terror Pool	1																										0
@@ -406,11 +407,11 @@ LH Burning Hells Fragment Quest (H)			-2					0	f04	1	LH Diablo Unique	1									
 LH Arreat Fragment Quest			1					0	f05	1																												0
 LH Arreat Fragment Quest (N)			1					0	f05	1																												0
 LH Arreat Fragment Quest (H)			-2					0	f05	1	LH Baal Unique	1																										0
-LH Jewel Normal			1					29	LH Council Votive	1																												0
-LH Jewel Nightmare			1					29	LH Council Marius	1																												0
-LH Jewel Hell			1					29	LH Council Shard	1																												0
+LH Jewel Normal			1					18	LH Council Votive	1	LH Nothing	11																										0
+LH Jewel Nightmare			1					18	LH Council Marius	1	LH Nothing	11																										0
+LH Jewel Hell			1					18	LH Council Shard	1	LH Nothing	11																										0
 LH Jewel Lens			1					29	LH Summoner Lens	1																												0
-LH Fletcher's Watch			1					117	Fletcher's Grasp	1	Fletcher's Knot	1	Fletcher's Tread	1																								0
+LH Fletcher's Watch			1					73	Fletcher's Grasp	1	Fletcher's Knot	1	Fletcher's Tread	1	LH Nothing	44																						0
 LH LH Echo V Storm Brood Roll			1					119	Storm Brood	1																												0
 LH LH Echo II The Far Requiem Roll			1					119	The Far Requiem	1																												0
 Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																						0
@@ -1898,20 +1899,20 @@ Act 4 (H) Herald C	41	87	-2	800	800	850	1024	0	LH Stone TZ Herald	1	Act 4 (H) He
 Act 5 (H) Herald A	41	90	-2	800	800	850	1024	0	LH Stone TZ Herald	1	Act 5 (H) Herald A Vanilla	1																										0
 Act 5 (H) Herald B	41	93	-2	800	800	850	1024	0	LH Stone TZ Herald	1	Act 5 (H) Herald B Vanilla	1																										0
 Act 5 (H) Herald C	41	96	-2	800	800	850	1024	0	LH Stone TZ Herald	1	Act 5 (H) Herald C Vanilla	1																										0
-LH Stone T1 Main			1					3	s01	17																												0
-LH Stone T1 Bonus			1					3	s01	1																												0
-LH Stone T1 Up			1					9	s02	1																												0
-LH Stone T1 Gem			2					14	Perfect Gem	2																												0
+LH Stone T1 Main			1					1	s01	17	LH Nothing	2																										0
+LH Stone T1 Bonus			1					1	s01	1	LH Nothing	2																										0
+LH Stone T1 Up			1					5	s02	1	LH Nothing	4																										0
+LH Stone T1 Gem			2					8	Perfect Gem	2	LH Nothing	6																										0
 LH Stone T2 Main			1					1	s02	4																												0
-LH Stone T2 Bonus			1					4	s02	1																												0
-LH Stone T2 Up			1					9	s03	1																												0
-LH Stone T2 Gem			2					13	Perfect Gem	3																												0
+LH Stone T2 Bonus			1					2	s02	1	LH Nothing	2																										0
+LH Stone T2 Up			1					5	s03	1	LH Nothing	4																										0
+LH Stone T2 Gem			2					8	Perfect Gem	3	LH Nothing	5																										0
 LH Stone T3 Main			1					1	s03	4																												0
-LH Stone T3 Bonus			1					4	s03	1																												0
-LH Stone T3 Up			1					9	s04	1																												0
+LH Stone T3 Bonus			1					2	s03	1	LH Nothing	2																										0
+LH Stone T3 Up			1					5	s04	1	LH Nothing	4																										0
 LH Blades I			1					0	Cinderbrand	1	Coldsnap	1	Stormspark	1	Bilefang	1	Bonecarver	1	Windlash	1	Penitent	1	Hexbrand	1	Silver Tongue	1												0
-LH Blades I Roll			1					1199	LH Blades I	1																												0
-LH Stone Blades II			1					351	Flamebrand	1	Winterfang	1	Thunderfang	1	Plaguefang	1	Gravecarver	1	Skycleaver	1	Tribunal	1	Cursebearer	1	Hidden Hand	1												0
+LH Blades I Roll			1					749	LH Blades I	1	LH Nothing	450																										0
+LH Stone Blades II			1					219	Flamebrand	1	Winterfang	1	Thunderfang	1	Plaguefang	1	Gravecarver	1	Skycleaver	1	Tribunal	1	Cursebearer	1	Hidden Hand	1	LH Nothing	132										0
 LH Seal Blades Ember			1					0	Pyrebrand	1	Pyrebrand Level 20	1	Pyrebrand Level 24	1																								0
 LH Seal Blades Rime			1					0	Winter's Ruin	1	Winter's Ruin Level 20	1	Winter's Ruin Level 24	1																								0
 LH Seal Blades Tempest			1					0	Skyfall	1	Skyfall Level 20	1	Skyfall Level 24	1																								0
@@ -1922,7 +1923,7 @@ LH Seal Blades Censure			1					0	Final Sentence	1	Final Sentence Level 20	1	Fina
 LH Seal Blades Malison			1					0	Damnation	1	Damnation Level 20	1	Damnation Level 24	1																								0
 LH Seal Blades Guile			1					0	Last Betrayal	1	Last Betrayal Level 20	1	Last Betrayal Level 24	1																								0
 LH Seal Blades III			1					0	LH Seal Blades Ember	1	LH Seal Blades Rime	1	LH Seal Blades Tempest	1	LH Seal Blades Blight	1	LH Seal Blades Marrow	1	LH Seal Blades Gale	1	LH Seal Blades Censure	1	LH Seal Blades Malison	1	LH Seal Blades Guile	1												0
-LH Stone T3 Gem			2					12	Perfect Gem	4																												0
+LH Stone T3 Gem			2					7	Perfect Gem	4	LH Nothing	5																										0
 LH Stone T1 Boss Vanilla			-6						LH Stone T1 Main	1	LH Stone T1 Bonus	1	LH Stone T1 Up	1	LH Stone Blades II	1	LH Stone T1 Gem	1	Act 5 (H) Super Cx	1																		0
 LH Stone T1 Boss			-2					0	LH Fletcher's Watch	1	LH Stone T1 Boss Vanilla	1																										0
 LH Stone T2 Boss Vanilla			-6						LH Stone T2 Main	1	LH Stone T2 Bonus	1	LH Stone T2 Up	1	LH Stone Blades II	1	LH Stone T2 Gem	1	Act 5 (H) Super Cx	1																		0
@@ -2004,7 +2005,7 @@ LH Echo IV Sigil			1					35	w04	2	w03	1	w02	1	w01	1																						0
 LH Echo IV Stone			1					1	s12	1																												0
 LH Echo IV Stone Up			1					9	s13	1																												0
 LH Echo IV			-9						LH Echo IV Elixir	1	LH Echo IV Trophy	1	LH Shade Relic Echo	1	LH Echo IV Jewel	1	LH Echo IV Unique	1	LH Echo IV Sigil	1	LH Echo IV Stone	1	LH Echo IV Stone Up	1	LH Echo IV Loot	1												0
-LH Echo V Loot			7	983	983	983	1024	33	"gld,mul=2048"	11	Act 5 (H) Equip B	110	Act 5 (H) Junk	11	Act 5 (H) Good	6	fed	3	Ancient Statue 5	1																		0
+LH Echo V Loot			7	983	983	983	1024	20	"gld,mul=2048"	11	Act 5 (H) Equip B	110	Act 5 (H) Junk	11	Act 5 (H) Good	6	fed	3	Ancient Statue 5	1	LH Nothing	13																0
 LH Echo V Elixir			1					0	e05	1																						(stat('lh_elixir_e05'.accr)==0)						0
 LH Echo V Trophy			1					3	t05	17																												0
 LH Echo V Jewel			1					4	Ash of Destruction	1																												0
@@ -2013,7 +2014,7 @@ LH Echo V Sigil			1					34	w05	2	w04	1	w03	1	w02	1	w01	1																				0
 LH Echo V Stone			1					1	s15	1																												0
 LH Echo V Vanilla			-7						LH Echo V Elixir	1	LH Echo V Trophy	1	LH Echo V Jewel	1	LH Echo V Unique	1	LH Echo V Sigil	1	LH Echo V Stone	1	LH Echo V Loot	1																0
 LH Echo V			-2					0	LH LH Echo V Storm Brood Roll	1	LH Echo V Vanilla	1																										0
-LH Stone Sigil I			1					199	w01	1																												0
+LH Stone Sigil I			1					124	w01	1	LH Nothing	75																										0
 LH Mage-Clans Wall			1					0	Mage-Clans Wall Frozen Armor	1	Mage-Clans Wall Shiver Armor	1	Mage-Clans Wall Chilling Armor	1	Mage-Clans Wall Energy Shield	1	Mage-Clans Wall Thunder Storm	1																				0
 LH Viz-Jaq'taar			1					0	Viz-Jaq'taar Blade-Claw	1	Viz-Jaq'taar Cowl	1	Viz-Jaq'taar Leathers	1	Viz-Jaq'taar Grasp	1	Viz-Jaq'taar Silent Step	1	Viz-Jaq'taar Signet	1	Viz-Jaq'taar Mage-Bane	1																0
 LH Set Khalim's Light			1					0	Khalim's Mitre	1	Khalim's Surcoat	1	Khalim's Bulwark	1	Khalim's Benediction	1	Khalim's Penance	1	Khalim's Pilgrimage	1																		0
@@ -2025,88 +2026,92 @@ LH Set Heirs of the Horadrim			1					0	Cowl of the Horadrim	1	Vestment of the Ho
 LH Set Imperius' Vanguard			1					0	Imperius' Faceless Helm	1	Imperius' Burnished Mail	1	Imperius' Grasp of Wrath	1	Imperius' March	1	Solarion's Echo	1																				0
 LH Seal Tier0			1					0	Death-Mask of Ureh	3	Bane of Dubhdroiacht	1																										0
 LH Canticle			1					0	The Canticle Might	1	The Canticle Holy Freeze	1	The Canticle Conviction	1	The Canticle Meditation	1	The Canticle Vigor	1																				0
-LH Stone T4 Main			1					3	s04	17																												0
-LH Stone T4 Bonus			1					3	s04	1																												0
-LH Stone T4 Up			1					9	s05	1																												0
-LH Stone T4 Gem			2					11	Perfect Gem	5																												0
-LH Stone T4 Tier1			1					236	Girdle of the Far Oasis	4																												0
-LH Stone Vault Sigil			1					29	rel	1																												0
+LH Stone T4 Main			1					1	s04	17	LH Nothing	2																										0
+LH Stone T4 Bonus			1					1	s04	1	LH Nothing	2																										0
+LH Stone T4 Up			1					5	s05	1	LH Nothing	4																										0
+LH Stone T4 Gem			2					6	Perfect Gem	5	LH Nothing	5																										0
+LH Stone T4 Tier1			1					147	Girdle of the Far Oasis	4	LH Nothing	89																										0
+LH Stone Vault Sigil			1					18	rel	1	LH Nothing	11																										0
 LH Stone T4 Boss			-8						LH Stone T4 Main	1	LH Stone T4 Bonus	1	LH Stone T4 Up	1	LH Stone T4 Tier1	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T4 Gem	1	Act 5 (H) Super Cx	1														0
-LH Stone T5 Main			1					3	s05	17																												0
-LH Stone T5 Bonus			1					3	s05	1																												0
-LH Stone T5 Up			1					9	s06	1																												0
-LH Stone T5 Gem			2					10	Perfect Gem	6																												0
-LH Stone T5 Tier1			1					235	Girdle of the Far Oasis	1	Hide of the Bound Elder	4																										0
+LH Stone T5 Main			1					1	s05	17	LH Nothing	2																										0
+LH Stone T5 Bonus			1					1	s05	1	LH Nothing	2																										0
+LH Stone T5 Up			1					5	s06	1	LH Nothing	4																										0
+LH Stone T5 Gem			2					6	Perfect Gem	6	LH Nothing	4																										0
+LH Stone T5 Tier1			1					146	Girdle of the Far Oasis	1	Hide of the Bound Elder	4	LH Nothing	89																								0
 LH Stone T5 Boss			-8						LH Stone T5 Main	1	LH Stone T5 Bonus	1	LH Stone T5 Up	1	LH Stone T5 Tier1	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T5 Gem	1	Act 5 (H) Super Cx	1														0
-LH Stone T6 Main			1					3	s06	17																												0
-LH Stone T6 Bonus			1					3	s06	1																												0
-LH Stone T6 Up			1					9	s07	1																												0
-LH Stone T6 Gem			2					9	Perfect Gem	7																												0
-LH Stone T6 Tier1			1					237	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1																								0
+LH Stone T6 Main			1					1	s06	17	LH Nothing	2																										0
+LH Stone T6 Bonus			1					1	s06	1	LH Nothing	2																										0
+LH Stone T6 Up			1					5	s07	1	LH Nothing	4																										0
+LH Stone T6 Gem			2					5	Perfect Gem	7	LH Nothing	4																										0
+LH Stone T6 Tier1			1					148	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	LH Nothing	89																						0
 LH Stone T6 Boss			-8						LH Stone T6 Main	1	LH Stone T6 Bonus	1	LH Stone T6 Up	1	LH Stone T6 Tier1	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T6 Gem	1	Act 5 (H) Super Cx	1														0
-LH Stone T7 Main			1					3	s07	17																												0
-LH Stone T7 Bonus			1					3	s07	1																												0
-LH Stone T7 Up			1					9	s08	1																												0
-LH Stone T7 Gem			2					8	Perfect Gem	8																												0
-LH Stone T7 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	4	Vosse's Last March	4																						0
+LH Stone T7 Main			1					1	s07	17	LH Nothing	2																										0
+LH Stone T7 Bonus			1					1	s07	1	LH Nothing	2																										0
+LH Stone T7 Up			1					5	s08	1	LH Nothing	4																										0
+LH Stone T7 Gem			2					5	Perfect Gem	8	LH Nothing	3																										0
+LH Stone T7 Tier1			1					143	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	4	Vosse's Last March	4	LH Nothing	87																				0
 LH Stone T7 Boss			-8						LH Stone T7 Main	1	LH Stone T7 Bonus	1	LH Stone T7 Up	1	LH Stone T7 Tier1	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T7 Gem	1	Act 5 (H) Super Cx	1														0
-LH Stone T8 Main			1					3	s08	17																												0
-LH Stone T8 Bonus			1					3	s08	1																												0
-LH Stone T8 Up			1					9	s09	1																												0
-LH Stone T8 Gem			2					7	Perfect Gem	9																												0
-LH Stone T8 Tier1			1					228	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	4	Tide of the Twin Seas	4																		0
-LH Stone T8 Set			1					295	LH Set Askari Foresight	5																												0
+LH Stone T8 Main			1					1	s08	17	LH Nothing	2																										0
+LH Stone T8 Bonus			1					1	s08	1	LH Nothing	2																										0
+LH Stone T8 Up			1					5	s09	1	LH Nothing	4																										0
+LH Stone T8 Gem			2					4	Perfect Gem	9	LH Nothing	3																										0
+LH Stone T8 Tier1			1					142	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	4	Tide of the Twin Seas	4	LH Nothing	86																0
+LH Stone T8 Set			1					184	LH Set Askari Foresight	5	LH Nothing	111																										0
 LH Stone T8 Boss			-9						LH Stone T8 Main	1	LH Stone T8 Bonus	1	LH Stone T8 Up	1	LH Stone T8 Tier1	1	LH Stone T8 Set	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T8 Gem	1	Act 5 (H) Super Cx	1												0
-LH Stone T9 Main			1					3	s09	17																												0
-LH Stone T9 Bonus			1					3	s09	1																												0
-LH Stone T9 Up			1					9	s10	1																												0
-LH Stone T9 Gem			2					6	Perfect Gem	10																												0
-LH Stone T9 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	4																0
+LH Stone T9 Main			1					1	s09	17	LH Nothing	2																										0
+LH Stone T9 Bonus			1					1	s09	1	LH Nothing	2																										0
+LH Stone T9 Up			1					5	s10	1	LH Nothing	4																										0
+LH Stone T9 Gem			2					3	Perfect Gem	10	LH Nothing	3																										0
+LH Stone T9 Tier1			1					143	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	4	LH Nothing	87														0
 LH Stone T9 Boss			-8						LH Stone T9 Main	1	LH Stone T9 Bonus	1	LH Stone T9 Up	1	LH Stone T9 Tier1	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T9 Gem	1	Act 5 (H) Super Cx	1														0
-LH Stone T10-12 Chase			1					2995	Briarfever	5																												0
-LH Stone T10 Main			1					3	s10	17																												0
-LH Stone T10 Bonus			1					3	s10	1																												0
-LH Stone T10 Up			1					9	s11	1																												0
-LH Stone T10 Gem			2					5	Perfect Gem	11																												0
-LH Stone T10 Tier1			1					229	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	4														0
+LH Stone T10-12 Chase			1					1871	Briarfever	5	LH Nothing	1124																										0
+LH Stone T10 Main			1					1	s10	17	LH Nothing	2																										0
+LH Stone T10 Bonus			1					1	s10	1	LH Nothing	2																										0
+LH Stone T10 Up			1					5	s11	1	LH Nothing	4																										0
+LH Stone T10 Gem			2					3	Perfect Gem	11	LH Nothing	2																										0
+LH Stone T10 Tier1			1					143	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	4	LH Nothing	86												0
 LH Stone T10 Boss			-9						LH Stone T10 Main	1	LH Stone T10 Bonus	1	LH Stone T10 Up	1	LH Stone T10 Tier1	1	LH Stone T10-12 Chase	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T10 Gem	1	Act 5 (H) Super Cx	1												0
-LH Stone T11 Main			1					3	s11	17																												0
-LH Stone T11 Bonus			1					3	s11	1																												0
-LH Stone T11 Up			1					9	s12	1																												0
-LH Stone T11 Gem			2					4	Perfect Gem	12																												0
-LH Stone T11 Tier1			1					228	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	4												0
+LH Stone T11 Main			1					1	s11	17	LH Nothing	2																										0
+LH Stone T11 Bonus			1					1	s11	1	LH Nothing	2																										0
+LH Stone T11 Up			1					5	s12	1	LH Nothing	4																										0
+LH Stone T11 Gem			2					2	Perfect Gem	12	LH Nothing	2																										0
+LH Stone T11 Tier1			1					142	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	4	LH Nothing	86										0
 LH Stone T11 Boss			-9						LH Stone T11 Main	1	LH Stone T11 Bonus	1	LH Stone T11 Up	1	LH Stone T11 Tier1	1	LH Stone T10-12 Chase	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T11 Gem	1	Act 5 (H) Super Cx	1												0
-LH Stone T12 Main			1					3	s12	17																												0
-LH Stone T12 Bonus			1					3	s12	1																												0
-LH Stone T12 Up			1					9	s13	1																												0
-LH Stone T12 Gem			2					3	Perfect Gem	13																												0
-LH Stone T12 Tier1			1					227	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	4										0
+LH Stone T12 Main			1					1	s12	17	LH Nothing	2																										0
+LH Stone T12 Bonus			1					1	s12	1	LH Nothing	2																										0
+LH Stone T12 Up			1					5	s13	1	LH Nothing	4																										0
+LH Stone T12 Gem			2					1	Perfect Gem	13	LH Nothing	2																										0
+LH Stone T12 Tier1 Items			1					0	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	4										0
+LH Stone T12 Tier1			1					141	LH Stone T12 Tier1 Items	13	LH Nothing	86																										0
 LH Stone T12 Boss			-9						LH Stone T12 Main	1	LH Stone T12 Bonus	1	LH Stone T12 Up	1	LH Stone T12 Tier1	1	LH Stone T10-12 Chase	1	LH Stone Vault Sigil	1	LH Stone Blades II	1	LH Stone T12 Gem	1	Act 5 (H) Super Cx	1												0
-LH Stone T13 Main			1					3	s13	17																												0
-LH Stone T13 Bonus			1					3	s13	1																												0
-LH Stone T13 Up			1					9	s14	1																												0
-LH Stone T13 Gem			2					2	Perfect Gem	14																												0
-LH Stone T13 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
-LH Stone T13 Chase			1					2885	Death-Mask of Ureh	10	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5	Skovos Stormtine	5	Skovos Bloodtine	5	LH Skill Shape Chase	30														0
-LH Stone T13 Seal			1					20	u01	1	u02	1	u03	1	u04	1	u05	1																				0
+LH Stone T13 Main			1					1	s13	17	LH Nothing	2																										0
+LH Stone T13 Bonus			1					1	s13	1	LH Nothing	2																										0
+LH Stone T13 Up			1					5	s14	1	LH Nothing	4																										0
+LH Stone T13 Gem			2					1	Perfect Gem	14	LH Nothing	1																										0
+LH Stone T13 Tier1 Items			1					0	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
+LH Stone T13 Tier1			1					143	LH Stone T13 Tier1 Items	10	LH Nothing	87																										0
+LH Stone T13 Chase			1					1803	Death-Mask of Ureh	10	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5	Skovos Stormtine	5	Skovos Bloodtine	5	LH Skill Shape Chase	30	LH Nothing	1082												0
+LH Stone T13 Seal			1					12	u01	1	u02	1	u03	1	u04	1	u05	1	LH Nothing	8																		0
 LH Stone T13 Boss			-9						LH Stone T13 Seal	1	LH Stone T13 Main	1	LH Stone T13 Bonus	1	LH Stone T13 Up	1	LH Stone T13 Tier1	1	LH Stone T13 Chase	1	LH Stone Blades II	1	LH Stone T13 Gem	1	Act 5 (H) Super Cx	1												0
-LH Stone T14 Main			1					3	s14	17																												0
-LH Stone T14 Bonus			1					3	s14	1																												0
-LH Stone T14 Up			1					9	s15	1																												0
+LH Stone T14 Main			1					1	s14	17	LH Nothing	2																										0
+LH Stone T14 Bonus			1					1	s14	1	LH Nothing	2																										0
+LH Stone T14 Up			1					5	s15	1	LH Nothing	4																										0
 LH Stone T14 Gem			2					1	Perfect Gem	15																												0
-LH Stone T14 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
-LH Stone T14 Chase			1					2900	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5	Askari Rimebow	5	LH Skill Shape Chase	30																		0
-LH Stone T14 Set			1					144	LH Set Khalim's Light	6																												0
-LH Stone T14 Seal			1					20	u01	1	u02	1	u03	1	u04	1	u05	1																				0
+LH Stone T14 Tier1 Items			1					0	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
+LH Stone T14 Tier1			1					143	LH Stone T14 Tier1 Items	10	LH Nothing	87																										0
+LH Stone T14 Chase			1					1812	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5	Askari Rimebow	5	LH Skill Shape Chase	30	LH Nothing	1088																0
+LH Stone T14 Set			1					90	LH Set Khalim's Light	6	LH Nothing	54																										0
+LH Stone T14 Seal			1					12	u01	1	u02	1	u03	1	u04	1	u05	1	LH Nothing	8																		0
 LH Stone T14 Boss			-10						LH Stone T14 Seal	1	LH Stone T14 Main	1	LH Stone T14 Bonus	1	LH Stone T14 Up	1	LH Stone T14 Tier1	1	LH Stone T14 Chase	1	LH Stone T14 Set	1	LH Stone Blades II	1	LH Stone T14 Gem	1	Act 5 (H) Super Cx	1										0
 LH Stone T15 Main			1					1	s15	4																												0
-LH Stone T15 Bonus			1					4	s15	1																												0
+LH Stone T15 Bonus			1					2	s15	1	LH Nothing	2																										0
 LH Stone T15 Gem			2					0	Perfect Gem	16																												0
 LH Stone T15 Gem Blades			-2						LH Stone T15 Gem	1	LH Stone Blades II	1																										0
-LH Stone T15 Tier1			1					230	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
-LH Stone T15 Chase			1					2900	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5	Skovos Emberbow	5	LH Skill Shape Chase	30																		0
-LH Stone T15 Set			1					144	LH Set The Mage Clans' Accord	6																												0
-LH Stone T15 Seal			1					20	u01	1	u02	1	u03	1	u04	1	u05	1																				0
+LH Stone T15 Tier1 Items			1					0	Girdle of the Far Oasis	1	Hide of the Bound Elder	1	Valostre's Rot	1	Vosse's Last March	1	Moonwood Pack-Bond	1	Tide of the Twin Seas	1	Kharazad's Cestus	1	Harrogath's Long Winter	1	Varkhos' Wallbreaker	1	Tooth of the Serac	1										0
+LH Stone T15 Tier1			1					143	LH Stone T15 Tier1 Items	10	LH Nothing	87																										0
+LH Stone T15 Chase			1					1812	LH Mage-Clans Wall	20	LH Viz-Jaq'taar	35	LH Canticle	5	Cinderwake	5	Skovos Emberbow	5	LH Skill Shape Chase	30	LH Nothing	1088																0
+LH Stone T15 Set			1					90	LH Set The Mage Clans' Accord	6	LH Nothing	54																										0
+LH Stone T15 Seal			1					12	u01	1	u02	1	u03	1	u04	1	u05	1	LH Nothing	8																		0
 LH Stone T15 Boss			-10						LH Stone T15 Seal	1	LH Shade Relic Stone	1	LH Stone T15 Main	1	LH Stone T15 Bonus	1	LH Stone Sigil I	1	LH Stone T15 Tier1	1	LH Stone T15 Chase	1	LH Stone T15 Set	1	LH Stone T15 Gem Blades	1	Act 5 (H) Super Cx	1										0
 LH Echo I Normal			-2	983	983	983	1024	0	Mephisto Vanilla	1	Runes 7	1																										0
 LH Echo I Nightmare			-2	983	983	983	1024	0	Mephisto (N) Vanilla	1	Runes 12	1																										0
@@ -2123,27 +2128,29 @@ LH Uber Lilith Unique			1					992	Lilith's Gaze	8																												0
 LH Uber Lilith			-2					0	LH Uber Lilith Unique	1	Uber Andariel	1																										0
 LH Uber Izual Unique			1					992	Izual's Betrayal	8																												0
 LH Uber Izual			-2					0	LH Uber Izual Unique	1	Uber Izual	1																										0
-LH Seal Sigil			1					245	w01	1	w02	1	w03	1	w04	1	w05	1																				0
-LH Seal Stone XIII			1					3	s13	1																												0
-LH Seal Stone XIV			1					3	s14	1																												0
+LH Seal Sigil			1					153	w01	1	w02	1	w03	1	w04	1	w05	1	LH Nothing	92																		0
+LH Seal Stone XIII			1					1	s13	1	LH Nothing	2																										0
+LH Seal Stone XIV			1					1	s14	1	LH Nothing	2																										0
 LH Seal Stone XV			1					3	s15	1																												0
 LH Set The Skovos Stormline			1					0	Stormline Guard	1	Stormline Binding	1	Stormline Token	1																								0
 LH Set The Heldfast Line			1					0	Heldfast Hauberk	1	Heldfast Girdle	1	Heldfast Torc	1																								0
-LH Seal I Chase			1					1548	The Unsated Cord	18	Ring of Borrowed Sins	18	Azmodan's Legion	18	Ring of the Broken Stone	90	LH Seal Tier0	12	Arreat's Defiance	18	LH Seal Blades III	18	LH Set The Skovos Stormline	20	LH Set The Heldfast Line	20	LH Set Seasons of Scosglen	20										0
-LH Seal I Herb			1					132	Hellebore	4	Nightshade	1	Snowdrop	1	Mandrake	1	Thunderwort	1	Moonwort	1	Wolfsbane	3																0
+LH Seal I Chase Items			1					0	The Unsated Cord	18	Ring of Borrowed Sins	18	Azmodan's Legion	18	Ring of the Broken Stone	90	LH Seal Tier0	12	Arreat's Defiance	18	LH Seal Blades III	18	LH Set The Skovos Stormline	20	LH Set The Heldfast Line	20	LH Set Seasons of Scosglen	20										0
+LH Seal I Chase			1					967	LH Seal I Chase Items	252	LH Nothing	581																										0
+LH Seal I Herb			1					82	Hellebore	4	Nightshade	1	Snowdrop	1	Mandrake	1	Thunderwort	1	Moonwort	1	Wolfsbane	3	LH Nothing	50														0
 LH Seal I			-7						o01	1	LH Seal I Chase	1	LH Seal I Herb	1	LH Reagents	1	LH Seal Sigil	1	LH Seal Stone XIII	1	LH Echo V Loot	1																0
-LH Seal II Chase			1					530	The Whispered Fever	6	The Liar's Second Self	6	Mask of False Intent	6	Ring of the Broken Stone Belial	30	LH Seal Tier0	4	LH Seal Blades III	6	The Unforgotten Sister	5	LH Set Hratli's Mechanisms	7														0
-LH Seal II Herb			1					132	Hellebore	1	Nightshade	4	Snowdrop	1	Mandrake	1	Thunderwort	1	Moonwort	1	Wolfsbane	3																0
+LH Seal II Chase			1					331	The Whispered Fever	6	The Liar's Second Self	6	Mask of False Intent	6	Ring of the Broken Stone Belial	30	LH Seal Tier0	4	LH Seal Blades III	6	The Unforgotten Sister	5	LH Set Hratli's Mechanisms	7	LH Nothing	199												0
+LH Seal II Herb			1					82	Hellebore	1	Nightshade	4	Snowdrop	1	Mandrake	1	Thunderwort	1	Moonwort	1	Wolfsbane	3	LH Nothing	50														0
 LH Seal II			-7						o02	1	LH Seal II Chase	1	LH Seal II Herb	1	LH Reagents	1	LH Seal Sigil	1	LH Seal Stone XIII	1	LH Echo V Loot	1																0
-LH Seal III Chase			1					1082	Rod of the Bonebound	6	The Riven Mail	6	Bough of the Bonebound	6	Broken Stone Ring Twins	30	LH Set Rathma's Ossuary	60	LH Seal Tier0	4	LH Seal Blades III	6																0
+LH Seal III Chase			1					676	Rod of the Bonebound	6	The Riven Mail	6	Bough of the Bonebound	6	Broken Stone Ring Twins	30	LH Set Rathma's Ossuary	60	LH Seal Tier0	4	LH Seal Blades III	6	LH Nothing	406														0
 LH Set The Hunter's Circle			1					0	Circlehide	1	Circle Tooth	1	Circle Vow	1																								0
-LH Seal III Chase Vardek			1					3166	Rod of the Bonebound	18	The Riven Mail	18	Bough of the Bonebound	18	Broken Stone Ring Twins	90	LH Set Rathma's Ossuary	180	LH Seal Tier0	12	LH Seal Blades III	18	LH Set The Hunter's Circle	40	LH Set The Zealot's Regalia	40												0
-LH Seal III Herb			1					273	Hellebore	1	Nightshade	1	Snowdrop	4	Mandrake	4	Thunderwort	1	Moonwort	1	Wolfsbane	3																0
+LH Seal III Chase Vardek			1					1978	Rod of the Bonebound	18	The Riven Mail	18	Bough of the Bonebound	18	Broken Stone Ring Twins	90	LH Set Rathma's Ossuary	180	LH Seal Tier0	12	LH Seal Blades III	18	LH Set The Hunter's Circle	40	LH Set The Zealot's Regalia	40	LH Nothing	1188										0
+LH Seal III Herb			1					170	Hellebore	1	Nightshade	1	Snowdrop	4	Mandrake	4	Thunderwort	1	Moonwort	1	Wolfsbane	3	LH Nothing	103														0
 LH Seal III			-4						LH Seal III Chase	1	LH Seal III Herb	1	LH Reagents	1	LH Echo V Loot	1																						0
 LH Seal III Vardek			-7						o03	1	LH Seal Sigil	1	LH Seal Stone XIV	1	LH Seal III Chase Vardek	1	LH Seal III Herb	1	LH Reagents	1	LH Echo V Loot	1																0
 LH Set The Patient Hand			1					0	Stillpoint Coronet	1	Hush of the Wyrm	1	Coil of Patience	1																								0
-LH Seal IV Chase			1					1331	Rod of the High Council	18	Bloodwade	18	Grasp of Travincal	18	Broken Stone Ring High Council	90	LH Set Bartuc's Dominion	180	LH Mage-Clans Wall	75	LH Seal Tier0	12	LH Seal Blades III	18	LH Set The Patient Hand	20	LH Set The Bound Host	20										0
-LH Seal IV Herb			1					132	Hellebore	1	Nightshade	1	Snowdrop	1	Mandrake	1	Thunderwort	4	Moonwort	1	Wolfsbane	3																0
+LH Seal IV Chase Items			1					0	Rod of the High Council	18	Bloodwade	18	Grasp of Travincal	18	Broken Stone Ring High Council	90	LH Set Bartuc's Dominion	180	LH Mage-Clans Wall	75	LH Seal Tier0	12	LH Seal Blades III	18	LH Set The Patient Hand	20	LH Set The Bound Host	20										0
+LH Seal IV Chase			1					831	LH Seal IV Chase Items	469	LH Nothing	500																										0
+LH Seal IV Herb			1					82	Hellebore	1	Nightshade	1	Snowdrop	1	Mandrake	1	Thunderwort	4	Moonwort	1	Wolfsbane	3	LH Nothing	50														0
 LH Seal IV			-7						o04	1	LH Seal IV Chase	1	LH Seal IV Herb	1	LH Reagents	1	LH Seal Sigil	1	LH Seal Stone XIV	1	LH Echo V Loot	1																0
 LH Set The Second Shadow			1					0	Twinned Talons	1	Locket of Fading	1	Band of the Cast Shadow	1																								0
 LH Seal V Assassin Rewards			1					0	LH Seal Blades III	18	LH Set The Second Shadow	20	Snarekeeper's Tread	15	Anvilbrow	15																						0
@@ -2152,14 +2159,14 @@ LH Seal V Herb			1					132	Hellebore	1	Nightshade	1	Snowdrop	1	Mandrake	1	Thunde
 LH Seal V			-7						o05	1	LH Seal V Chase	1	LH Seal V Herb	1	LH Reagents	1	LH Seal Sigil	1	LH Seal Stone XV	1	LH Echo V Loot	1																0
 LH Heaven Summit Pool			1					607	Inarius' Wing-Blade	25	Uldyssian's Awakening	25	Anu's Radiance	25	The Cathedral's Mercy	25	Ward of the Light	25	LH Set Imperius' Vanguard	200	Shroud of the Nephalem	3	The Wordless	40	The Lone Voice	25												0
 LH Heaven Summit			-3						LH Heaven Summit Pool	1	LH Reagents	1	LH Echo V Loot	1																								0
-LH Theme sets			1		1024			2	Act 5 (H) Equip C	1																												0
-LH Theme uniques			1	1024				2	Act 5 (H) Equip C	1																												0
-LH Theme weapons			1			1024		2	weap87	1																												0
-LH Theme armor			1			1024		2	armo87	1																												0
-LH Theme jewelry			1			1024		8	rin	2	amu	1	jew	1																								0
-LH Theme charms			1				1024	6	cm1	1	cm2	1	cm3	1																								0
-LH Theme runes			1					2	Runes 17	1																												0
-LH Theme gems			1					2	Perfect Gem	1																												0
+LH Theme sets			1		1024			1	Act 5 (H) Equip C	1	LH Nothing	1																										0
+LH Theme uniques			1	1024				1	Act 5 (H) Equip C	1	LH Nothing	1																										0
+LH Theme weapons			1			1024		1	weap87	1	LH Nothing	1																										0
+LH Theme armor			1			1024		1	armo87	1	LH Nothing	1																										0
+LH Theme jewelry			1			1024		5	rin	2	amu	1	jew	1	LH Nothing	3																						0
+LH Theme charms			1				1024	3	cm1	1	cm2	1	cm3	1	LH Nothing	3																						0
+LH Theme runes			1					1	Runes 17	1	LH Nothing	1																										0
+LH Theme gems			1					1	Perfect Gem	1	LH Nothing	1																										0
 LH Ithmar Gear			-2	800	800	972	1024	0	Act 5 Equip C	2																												0
 LH Ithmar			-4					0	Runes 7	1	Normal Gem	1	LH Common Reagent	1	LH Ithmar Gear	1																						0
 LH Ithmar Gear (N)			-2	800	800	972	1024	0	Act 5 (N) Equip C	2																												0
@@ -2262,12 +2269,12 @@ LH Vault Prize Group 09			1					0	LH Vault Prize Leaf 81	10	LH Vault Prize Leaf 
 LH Vault Prize			1	1024	1024			0	LH Vault Prize Group 01	100	LH Vault Prize Group 02	100	LH Vault Prize Group 03	100	LH Vault Prize Group 04	100	LH Vault Prize Group 05	97	LH Vault Prize Group 06	99	LH Vault Prize Group 07	100	LH Vault Prize Group 08	100	LH Vault Prize Group 09	40												0
 LH Sentinel Elite			1			1024		0	weap87	1	armo87	1																										0
 LH Sentinel Uniques			1	1024				0	Husk of Offerings	1	Ward of Four Shrines	1	The Shrine's Due	1	The Altar's Last Taper	1																						0
-LH Sentinel Unique Gear			1					5	LH Sentinel Uniques	1																												0
+LH Sentinel Unique Gear			1					3	LH Sentinel Uniques	1	LH Nothing	2																										0
 LH Sentinel Unique			-4					0	LH Sentinel Elite	1	LH Sentinel Unique Gear	1	Act 5 (H) Unique C	1	LH Sentinel Unique Key	1																						0
-LH Sentinel Champ Gear			1					11	LH Sentinel Uniques	1																												0
+LH Sentinel Champ Gear			1					6	LH Sentinel Uniques	1	LH Nothing	5																										0
 LH Sentinel Champ			-4					0	LH Sentinel Elite	1	LH Sentinel Champ Gear	1	Act 5 (H) Champ C	1	LH Sentinel Champ Key	1																						0
-LH Sentinel Unique Key			1					2	gky	1																												0
-LH Sentinel Champ Key			1					5	gky	1																												0
+LH Sentinel Unique Key			1					1	gky	1	LH Nothing	1																										0
+LH Sentinel Champ Key			1					3	gky	1	LH Nothing	2																										0
 LH Guardian 6			1	1024				0	Sentinels' Votive	1																												0
 LH Guardian 1			1	1024				0	The Unbowed	1																												0
 LH Guardian 2			1	1024				0	The Unbroken Oath	1																												0
@@ -2276,10 +2283,10 @@ LH Guardian 4			1	1024				0	Stonefast	1																												0
 LH Guardian 5			1	1024				0	Hands of Mercy	1																												0
 LH Vigil Oil			1					0	oi1	30	oi2	25	oi3	20	oi4	15	oi5	8	oi6	2																		0
 LH Vigil Rune			1					0	wr1	1	wr2	1	wr3	1																								0
-LH Vigil Rune Roll			1					3	LH Vigil Rune	1																												0
+LH Vigil Rune Roll			1					1	LH Vigil Rune	1	LH Nothing	2																										0
 LH Vigil Shared			1	1024				0	Husk of Offerings	1	Ward of Four Shrines	1	The Shrine's Due	1	The Altar's Last Taper	1																						0
-LH Vigil Shared Roll			1					5	LH Vigil Shared	1																												0
-LH Vigil Exclusive Roll			1					12	LH Guardian 1	1	LH Guardian 2	1	LH Guardian 3	1	LH Guardian 4	1	LH Guardian 5	1	LH Guardian 6	1																		0
+LH Vigil Shared Roll			1					3	LH Vigil Shared	1	LH Nothing	2																										0
+LH Vigil Exclusive Roll			1					7	LH Guardian 1	1	LH Guardian 2	1	LH Guardian 3	1	LH Guardian 4	1	LH Guardian 5	1	LH Guardian 6	1	LH Nothing	5																0
 LH Vigil Quarter1			1					0	sq1	1																												0
 LH Vigil Quarter2			1					0	sq2	1																												0
 LH Vigil Quarter3			1					0	sq3	1																												0
@@ -2295,10 +2302,10 @@ LH Vigil Rime Unique			-4					0	LH Vigil Quarter3	1	LH Vigil Oil	1	LH Sentinel U
 LH Vigil Forge Champ			-3					0	LH Sentinel Champ	1	LH Vigil Oil	1	LH Sentinel New Roll	1																								0
 LH Vigil Forge Unique			-4					0	LH Vigil Quarter4	1	LH Vigil Oil	1	LH Sentinel Unique	1	LH Sentinel New Roll	1																						0
 LH Shade Relic Echo			1					19	sdk	1																												0
-LH Shade Relic Stone			1					99	sdk	1																												0
+LH Shade Relic Stone			1					61	sdk	1	LH Nothing	38																										0
 LH Sentinel 7			1	1024				0	Winterwatch	1																												0
 LH Sentinel New			1					0	LH Sentinel 7	8	LH Sentinel New Rings	17	LH Sentinel New Amulets	16	LH Sentinel New Belts	17	LH Sentinel New Gloves	18	LH Sentinel New Boots	16																		0
-LH Sentinel New Roll			1					5	LH Sentinel New	1																												0
+LH Sentinel New Roll			1					3	LH Sentinel New	1	LH Nothing	2																										0
 LH Sentinel 8			1	1024				0	The Red Offering	1																												0
 LH Sentinel New Rings			1					0	LH Sentinel 8	8	LH Sentinel 9	4	LH Sentinel 10	4	LH Sentinel 11	1																						0
 LH Sentinel 9			1	1024				0	Stormworn	1																												0
@@ -2331,7 +2338,7 @@ LH Pail Cow Uniques 3			1	1024				0	Bovine Intervention	1	The Ber Run	1	LH Pail 
 LH Pail Cow Set			1		1024			0	The Holy Cowl	1	Hide and Go Moo	1	Butterfingers	1	Beef Wellingtons	1	The Big Buckle	1																				0
 LH Pail Cow Pool			1					0	LH Pail Cow Uniques 1	10	LH Pail Cow Uniques 2	10	LH Pail Cow Uniques 3	3	LH Pail Cow Set	5																						0
 LH Pail Cow King (H)			-2					0	LH Pail Cow Pool	1	Cow King (H)	1																										0
-LH Pale Bovine Scrap			1					49	k11	1																												0
+LH Pale Bovine Scrap			1					30	k11	1	LH Nothing	19																										0
 LH Pale Bovine			-2					0	LH Pale Bovine Scrap	1	Cow	1																										0
 LH Pale Bovine (N)			-2					0	LH Pale Bovine Scrap	1	Cow (N)	1																										0
 LH Pale Bovine (H)			-2					0	LH Pale Bovine Scrap	1	Cow (H)	1																										0
@@ -2349,7 +2356,7 @@ LH Named Council (H) Desecrated E	61	96	-2					0	LH Stone TZ Boss	1	Council (H) 
 LH Named Council			-2					0	LH Jewel Normal	1	Council	1																										0
 LH Named Council (N)			-2					0	LH Jewel Nightmare	1	Council (N)	1																										0
 LH Named Council (H)			-2					0	LH Jewel Hell	1	Council (H)	1																										0
-LH Ember I			1					149	x01	1																												0
+LH Ember I			1					93	x01	1	LH Nothing	56																										0
 LH Ember II			1					119	x01	1																												0
 LH Ember III			1					89	x01	1																												0
 LH Ember IV			1					69	x01	1																												0
@@ -2388,22 +2395,22 @@ LH Set Seasons of Scosglen			1					0	Spring's Kindling	1	Summer's Mantle	1	Autum
 LH Seal V Trek and Concord			1					0	Nor Tiraj's Trek	6	LH Set Vizjerei Concord	20																										0
 LH Quiver 1096 Roll			1					238	Witch Fletching Arrows	1	Witch Fletching Bolts	1																										0
 LH Quiver 1096 Hell 1			-2						LH Quiver 1096 Roll	1	LH Echo II	1																										0
-LH Quiver 1097 Roll			1					238	Unerring Flight Arrows	1	Unerring Flight Bolts	1																										0
+LH Quiver 1097 Roll			1					148	Unerring Flight Arrows	1	Unerring Flight Bolts	1	LH Nothing	90																								0
 LH Quiver 1097 Hell 1			-8						o03	1	LH Reagents	1	LH Quiver 1097 Roll	1	LH Seal Sigil	1	LH Seal Stone XIV	1	LH Seal III Chase Vardek	1	LH Seal III Herb	1	LH Echo V Loot	1														0
 LH Quiver 1097 Hell 2			-2						LH Quiver 1097 Roll	1	LH Seal III	1																										0
 LH Quiver 1098 Roll			1					238	Consecrated Shaft Arrows	1	Consecrated Shaft Bolts	1																										0
 LH Quiver 1098 Hell 1			-2						LH Quiver 1098 Roll	1	LH Heaven Summit	1																										0
 LH Boss 1090 Roll			1					119	Gale Binder	1																												0
 LH Boss 1090 Hell			-2					0	LH Boss 1090 Roll	1	LH Seal V	1																										0
-LH Boss 1091 Roll			1					119	Ashwalker's Due	1																												0
+LH Boss 1091 Roll			1					74	Ashwalker's Due	1	LH Nothing	45																										0
 LH Boss 1091 Hell			-2					0	LH Boss 1091 Roll	1	LH Seal IV	1																										0
-LH Boss 1093 Roll			1					119	Fork of the Storm	1																												0
+LH Boss 1093 Roll			1					74	Fork of the Storm	1	LH Nothing	45																										0
 LH Boss 1093 Hell			-2					0	LH Boss 1093 Roll	1	LH Boss 1091 Hell	1																										0
 LH Boss 1094 Roll			1					119	The Unbound Page	1																												0
 LH Boss 1094 Hell			-2					0	LH Boss 1094 Roll	1	LH Echo IV	1																										0
 LH Boss 1095 Roll			1					119	The Unspent Oath	1																												0
 LH Boss 1095 Hell			-2					0	LH Boss 1095 Roll	1	LH Echo V	1																										0
-LH Boss 1099 Roll			1					119	Brood of Embers	1																												0
+LH Boss 1099 Roll			1					74	Brood of Embers	1	LH Nothing	45																										0
 LH Boss 1099 Hell			-2					0	LH Boss 1099 Roll	1	LH Seal I	1																										0
 LH Quiver 1388 Roll			1					119	The Bell of Bone	1																												0
 LH Quiver 1388 Hell			-2					0	LH Quiver 1388 Roll	1	LH Echo III	1																										0
@@ -2511,20 +2518,24 @@ LH Gilded Cache Band 4			1					0	The Alchemist's Bezel	1																								
 LH Gilded Cache Band 5			1					0	Leaguestride	1	Ghostwalk Talons	1	The Seeker's Hood	1	Harrogath Muster-Cord	1																						0
 LH Gilded Cache Band 6			1					0	Shenk's Lash	1																												0
 LH Gilded Cache Band 7			1					0	The Hearthless Torc Pendant	1	Meshif's Sea-Legs	1	Qual-Kehk's Stand	1	The Magpie	1	The Miser's Bite	1																				0
-LH Gilded Cache Act 1			1					21	LH Gilded Cache Band 1	7																												0
-LH Gilded Cache Act 2			1					51	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10																										0
-LH Gilded Cache Act 3			1					87	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 3b	2																						0
-LH Gilded Cache Act 4			1					90	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 3b	2																				0
-LH Gilded Cache Act 5			1					102	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 5	4	LH Gilded Cache Band 3b	2																		0
-LH Gilded Cache Act 1 (N)			1					140	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 5	4	LH Gilded Cache Band 6	1	LH Gilded Cache Band 3b	2																0
-LH Gilded Cache (N)			1					152	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 5	4	LH Gilded Cache Band 6	1	LH Gilded Cache Band 7	5	LH Gilded Cache Band 3b	2														0
-LH Gilded Hoard (H)			1					117	The Gilded Hoard Hoard	1	The Gilded Hoard Fortune	1	The Gilded Hoard Talent	1																								0
+LH Gilded Cache Act 1			1					13	LH Gilded Cache Band 1	7	LH Nothing	8																										0
+LH Gilded Cache Act 2			1					31	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Nothing	20																								0
+LH Gilded Cache Act 3			1					54	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 3b	2	LH Nothing	33																				0
+LH Gilded Cache Act 4			1					56	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 3b	2	LH Nothing	34																		0
+LH Gilded Cache Act 5			1					63	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 5	4	LH Gilded Cache Band 3b	2	LH Nothing	39																0
+LH Gilded Cache Act 1 (N)			1					87	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 5	4	LH Gilded Cache Band 6	1	LH Gilded Cache Band 3b	2	LH Nothing	53														0
+LH Gilded Cache (N)			1					95	LH Gilded Cache Band 1	7	LH Gilded Cache Band 2	10	LH Gilded Cache Band 3	10	LH Gilded Cache Band 4	1	LH Gilded Cache Band 5	4	LH Gilded Cache Band 6	1	LH Gilded Cache Band 7	5	LH Gilded Cache Band 3b	2	LH Nothing	57												0
+LH Gilded Hoard (H)			1					73	The Gilded Hoard Hoard	1	The Gilded Hoard Fortune	1	The Gilded Hoard Talent	1	LH Nothing	44																						0
 LH Gilded Reagents (H)			-2					0	LH Gilded Hoard (H)	1	LH Reagents (H)	1																										0
 LH Gilded Vault		0	-6	883	883	1024	1024	0	"gld,mul=2560"	1	Act 5 Equip A	1	Act 5 Good	1	Runes 4	1	LH Reagents	1	LH Gilded Cache Act 5	1																		0
 LH Gilded Vault (N)		0	-6	883	883	1024	1024	0	"gld,mul=2560"	1	Act 5 (N) Equip A	1	Act 5 (N) Good	1	Runes 8	1	LH Reagents (N)	1	LH Gilded Cache (N)	1																		0
 LH Gilded Vault (H)		0	-6	883	883	1024	1024	0	"gld,mul=2560"	1	Act 5 (H) Equip A	2	Act 5 (H) Good	1	Runes 12	1	LH Gilded Reagents (H)	1																				0
+LH Runes15 Act 5 (H) Wraith C Pick			1					481857	Runes 17	1000																												0
+LH Runes15 Act 5 (H) Wraith C			-2						Act 5 (H) Wraith C	1	LH Runes15 Act 5 (H) Wraith C Pick	1																										0
 LH Runes15 LH Descent Cast II Pick			1					1484714	Runes 17	1000																												0
 LH Runes15 LH Descent Cast II			-2						LH Descent Cast II	1	LH Runes15 LH Descent Cast II Pick	1																										0
+LH Runes15 LH Descent Cast III Pick			1					1484714	Runes 17	1000																												0
+LH Runes15 LH Descent Cast III			-2						LH Descent Cast III	1	LH Runes15 LH Descent Cast III Pick	1																										0
 LH Runes15 LH Descent Champ II Pick			1					493000	Runes 17	1000																												0
 LH Runes15 LH Descent Champ II			-2						LH Descent Champ II	1	LH Runes15 LH Descent Champ II Pick	1																										0
 LH Runes15 LH Descent Champ III Pick			1					493000	Runes 17	1000																												0
@@ -2533,6 +2544,10 @@ LH Runes15 LH Descent H2H II Pick			1					1484714	Runes 17	1000																	
 LH Runes15 LH Descent H2H II			-2						LH Descent H2H II	1	LH Runes15 LH Descent H2H II Pick	1																										0
 LH Runes15 LH Descent H2H III Pick			1					1484714	Runes 17	1000																												0
 LH Runes15 LH Descent H2H III			-2						LH Descent H2H III	1	LH Runes15 LH Descent H2H III Pick	1																										0
+LH Runes15 LH Descent Miss II Pick			1					1484714	Runes 17	1000																												0
+LH Runes15 LH Descent Miss II			-2						LH Descent Miss II	1	LH Runes15 LH Descent Miss II Pick	1																										0
+LH Runes15 LH Descent Miss III Pick			1					1484714	Runes 17	1000																												0
+LH Runes15 LH Descent Miss III			-2						LH Descent Miss III	1	LH Runes15 LH Descent Miss III Pick	1																										0
 LH Runes15 LH Descent Unique II Pick			1					255905	Runes 17	1000																												0
 LH Runes15 LH Descent Unique II			-2						LH Descent Unique II	1	LH Runes15 LH Descent Unique II Pick	1																										0
 LH Runes15 LH Descent Unique III Pick			1					255905	Runes 17	1000																												0
@@ -2559,6 +2574,8 @@ LH Runes15 Swarm 2 (H) Pick			1					2784714	Runes 15	1000																							
 LH Runes15 Swarm 2 (H)			-2						Swarm 2 (H)	1	LH Runes15 Swarm 2 (H) Pick	1																										0
 LH Runes20 Act 5 (H) Wraith C Pick			1					240429	Runes 17	1000																												0
 LH Runes20 Act 5 (H) Wraith C			-2						Act 5 (H) Wraith C	1	LH Runes20 Act 5 (H) Wraith C Pick	1																										0
+LH Runes20 LH Descent Cast IV Pick			1					741857	Runes 17	1000																												0
+LH Runes20 LH Descent Cast IV			-2						LH Descent Cast IV	1	LH Runes20 LH Descent Cast IV Pick	1																										0
 LH Runes20 LH Descent Cast V Pick			1					741857	Runes 17	1000																												0
 LH Runes20 LH Descent Cast V			-2						LH Descent Cast V	1	LH Runes20 LH Descent Cast V Pick	1																										0
 LH Runes20 LH Descent Champ IV Pick			1					246000	Runes 17	1000																												0
@@ -2569,6 +2586,10 @@ LH Runes20 LH Descent H2H IV Pick			1					741857	Runes 17	1000																		
 LH Runes20 LH Descent H2H IV			-2						LH Descent H2H IV	1	LH Runes20 LH Descent H2H IV Pick	1																										0
 LH Runes20 LH Descent H2H V Pick			1					741857	Runes 17	1000																												0
 LH Runes20 LH Descent H2H V			-2						LH Descent H2H V	1	LH Runes20 LH Descent H2H V Pick	1																										0
+LH Runes20 LH Descent Miss IV Pick			1					741857	Runes 17	1000																												0
+LH Runes20 LH Descent Miss IV			-2						LH Descent Miss IV	1	LH Runes20 LH Descent Miss IV Pick	1																										0
+LH Runes20 LH Descent Miss V Pick			1					741857	Runes 17	1000																												0
+LH Runes20 LH Descent Miss V			-2						LH Descent Miss V	1	LH Runes20 LH Descent Miss V Pick	1																										0
 LH Runes20 LH Descent Unique IV Pick			1					127452	Runes 17	1000																												0
 LH Runes20 LH Descent Unique IV			-2						LH Descent Unique IV	1	LH Runes20 LH Descent Unique IV Pick	1																										0
 LH Runes20 LH Descent Unique V Pick			1					127452	Runes 17	1000																												0
@@ -2590,7 +2611,7 @@ LH Runes20 LH Stone Swarm 2 (H) Blade			-2						LH Stone Swarm 2 (H) Blade	1	LH 
 LH Runebands 250000			1						j31	1	j32	1	j33	1	j49	1	j35	1	j36	1	j37	1	j38	1														0
 LH Runebands 981256			1						j39	1	j40	1																										0
 LH Runebands 8300000			1						j41	1	j42	1	j43	1	j44	1	j45	1	j48	1																		0
-LH Runebands Roll			1					999965242	LH Runebands 250000	32000	LH Runebands 981256	2038	LH Runebands 8300000	720																								0
+LH Runebands Roll			1					624978276	LH Runebands 250000	32000	LH Runebands 981256	2038	LH Runebands 8300000	720	LH Nothing	374986966																						0
 LH Runebands Council (H)			-2						Council (H)	1	LH Runebands Roll	1																										0
 LH Runebands LH Echo I			-2						LH Echo I	1	LH Runebands Roll	1																										0
 LH Runebands LH Echo II			-2						LH Echo II	1	LH Runebands Roll	1																										0
@@ -2641,23 +2662,32 @@ LH Runebands LH Runes20 LH Stone Act 5 (H) Cast C Blade			-2						LH Runes20 LH 
 LH Runebands LH Descent H2H I			-2						LH Descent H2H I	1	LH Runebands Roll	1																										0
 LH Runebands LH Descent Champ I			-2						LH Descent Champ I	1	LH Runebands Roll	1																										0
 LH Runebands LH Descent Unique I			-2						LH Descent Unique I	1	LH Runebands Roll	1																										0
+LH Runebands LH Descent Miss I			-2						LH Descent Miss I	1	LH Runebands Roll	1																										0
 LH Runebands LH Descent Cast I			-2						LH Descent Cast I	1	LH Runebands Roll	1																										0
+LH Runebands Swarm 2 (H)			-2						Swarm 2 (H)	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 LH Descent H2H II			-2						LH Runes15 LH Descent H2H II	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 LH Descent Champ II			-2						LH Runes15 LH Descent Champ II	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 LH Descent Unique II			-2						LH Runes15 LH Descent Unique II	1	LH Runebands Roll	1																										0
-LH Runebands LH Runes15 LH Descent Cast II			-2						LH Runes15 LH Descent Cast II	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 Swarm 2 (H)			-2						LH Runes15 Swarm 2 (H)	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes15 LH Descent Cast II			-2						LH Runes15 LH Descent Cast II	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes15 LH Descent Miss II			-2						LH Runes15 LH Descent Miss II	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes15 Act 5 (H) Wraith C			-2						LH Runes15 Act 5 (H) Wraith C	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 LH Descent H2H III			-2						LH Runes15 LH Descent H2H III	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 LH Descent Champ III			-2						LH Runes15 LH Descent Champ III	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes15 LH Descent Unique III			-2						LH Runes15 LH Descent Unique III	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes15 LH Descent Cast III			-2						LH Runes15 LH Descent Cast III	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes15 LH Descent Miss III			-2						LH Runes15 LH Descent Miss III	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent H2H IV			-2						LH Runes20 LH Descent H2H IV	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent Champ IV			-2						LH Runes20 LH Descent Champ IV	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent Unique IV			-2						LH Runes20 LH Descent Unique IV	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes20 LH Descent Cast IV			-2						LH Runes20 LH Descent Cast IV	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes20 LH Descent Miss IV			-2						LH Runes20 LH Descent Miss IV	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 Act 5 (H) Wraith C			-2						LH Runes20 Act 5 (H) Wraith C	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent H2H V			-2						LH Runes20 LH Descent H2H V	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent Champ V			-2						LH Runes20 LH Descent Champ V	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent Unique V			-2						LH Runes20 LH Descent Unique V	1	LH Runebands Roll	1																										0
 LH Runebands LH Runes20 LH Descent Cast V			-2						LH Runes20 LH Descent Cast V	1	LH Runebands Roll	1																										0
+LH Runebands LH Runes20 LH Descent Miss V			-2						LH Runes20 LH Descent Miss V	1	LH Runebands Roll	1																										0
 LH Runebands LH Gilded Fallen Act 5 (H) C			-2						LH Gilded Fallen Act 5 (H) C	1	LH Runebands Roll	1																										0
 LH Runebands LH Stone T1 Boss 139			-2						LH Stone T1 Boss 139	1	LH Runebands Roll	1																										0
 LH Runebands LH Stone T2 Boss 141			-2						LH Stone T2 Boss 141	1	LH Runebands Roll	1																										0
@@ -2720,3 +2750,471 @@ LH Runebands LH Stone T15 Boss			-2						LH Stone T15 Boss	1	LH Runebands Roll	1
 LH Runebands LH Quiver 1096 Hell 1			-2						LH Quiver 1096 Hell 1	1	LH Runebands Roll	1																										0
 LH Runebands LH Quiver 1388 Hell			-2						LH Quiver 1388 Hell	1	LH Runebands Roll	1																										0
 LH Runebands LH Ithmar (H)			-2						LH Ithmar (H)	1	LH Runebands Roll	1																										0
+LH Reagent Roll (H) KS1			1					1944583	LH Reagents (H)	222000	LH Nothing	1166750																										0
+Act 5 (H) H2H C KS1			-2					0	LH Reagent Roll (H) KS1	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Stone Act 5 (H) H2H C Blade KS1			-2						Act 5 (H) H2H C KS1	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) H2H C Blade KS1			-2						LH Stone Act 5 (H) H2H C Blade KS1	1	LH Runebands Roll	1																										0
+LH Kill S1 Runes 0			1					2312053	Runes 17	10000	LH Nothing	1387233																										0
+LH Kill S1 Root 0			-2						LH Runebands LH Stone Act 5 (H) H2H C Blade KS1	1	LH Kill S1 Runes 0	1																										0
+LH Kill S1 Runes 1			1					762500	Runes 17	10000	LH Nothing	457500																										0
+LH Kill S1 Root 1			-2						LH Runebands LH Stone Act 5 (H) Champ C Blade	1	LH Kill S1 Runes 1	1																										0
+LH Kill S1 Runes 2			1					392038	Runes 17	10000	LH Nothing	235224																										0
+LH Kill S1 Root 2			-2						LH Runebands LH Stone Act 5 (H) Unique C Blade	1	LH Kill S1 Runes 2	1																										0
+Act 5 (H) Cast C KS1			-2					0	LH Reagent Roll (H) KS1	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Stone Act 5 (H) Cast C Blade KS1			-2						Act 5 (H) Cast C KS1	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) Cast C Blade KS1			-2						LH Stone Act 5 (H) Cast C Blade KS1	1	LH Runebands Roll	1																										0
+LH Kill S1 Runes 3			1					2312053	Runes 17	10000	LH Nothing	1387233																										0
+LH Kill S1 Root 3			-2						LH Runebands LH Stone Act 5 (H) Cast C Blade KS1	1	LH Kill S1 Runes 3	1																										0
+Act 5 (H) Wraith C KS1			-2					0	LH Reagent Roll (H) KS1	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Stone Act 5 (H) Wraith C Blade KS1			-2						Act 5 (H) Wraith C KS1	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) Wraith C Blade KS1			-2						LH Stone Act 5 (H) Wraith C Blade KS1	1	LH Runebands Roll	1																										0
+LH Kill S1 Runes 4			1					745089	Runes 17	10000	LH Nothing	447054																										0
+LH Kill S1 Root 4			-2						LH Runebands LH Stone Act 5 (H) Wraith C Blade KS1	1	LH Kill S1 Runes 4	1																										0
+Swarm 2 (H) KS1			-2					0	LH Reagent Roll (H) KS1	1	Swarm 2 (H) Vanilla	1																										0
+LH Stone Swarm 2 (H) Blade KS1			-2						Swarm 2 (H) KS1	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Swarm 2 (H) Blade KS1			-2						LH Stone Swarm 2 (H) Blade KS1	1	LH Runebands Roll	1																										0
+LH Kill S1 Runes 5			1					4343303	Runes 15	10000	LH Nothing	2605983																										0
+LH Kill S1 Root 5			-2						LH Runebands LH Stone Swarm 2 (H) Blade KS1	1	LH Kill S1 Runes 5	1																										0
+Act 5 (H) Miss C KS1			-2					0	LH Reagent Roll (H) KS1	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Stone Act 5 (H) Miss C Blade KS1			-2						Act 5 (H) Miss C KS1	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) Miss C Blade KS1			-2						LH Stone Act 5 (H) Miss C Blade KS1	1	LH Runebands Roll	1																										0
+LH Kill S1 Runes 6			1					2312053	Runes 17	10000	LH Nothing	1387233																										0
+LH Kill S1 Root 6			-2						LH Runebands LH Stone Act 5 (H) Miss C Blade KS1	1	LH Kill S1 Runes 6	1																										0
+LH Reagent Roll (H) KS2			1					1646964	LH Reagents (H)	222000	LH Nothing	988179																										0
+Act 5 (H) H2H C KS2			-2					0	LH Reagent Roll (H) KS2	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Stone Act 5 (H) H2H C Blade KS2			-2						Act 5 (H) H2H C KS2	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) H2H C Blade KS2			-2						LH Stone Act 5 (H) H2H C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 0			1					1848393	Runes 17	10000	LH Nothing	1109036																										0
+LH Kill S2 Root 0			-2						LH Runebands LH Stone Act 5 (H) H2H C Blade KS2	1	LH Kill S2 Runes 0	1																										0
+LH Kill S2 Runes 1			1					608750	Runes 17	10000	LH Nothing	365250																										0
+LH Kill S2 Root 1			-2						LH Runebands LH Stone Act 5 (H) Champ C Blade	1	LH Kill S2 Runes 1	1																										0
+LH Kill S2 Runes 2			1					312381	Runes 17	10000	LH Nothing	187429																										0
+LH Kill S2 Root 2			-2						LH Runebands LH Stone Act 5 (H) Unique C Blade	1	LH Kill S2 Runes 2	1																										0
+Swarm 2 (H) KS2			-2					0	LH Reagent Roll (H) KS2	1	Swarm 2 (H) Vanilla	1																										0
+LH Stone Swarm 2 (H) Blade KS2			-2						Swarm 2 (H) KS2	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Swarm 2 (H) Blade KS2			-2						LH Stone Swarm 2 (H) Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 3			1					3473393	Runes 15	10000	LH Nothing	2084036																										0
+LH Kill S2 Root 3			-2						LH Runebands LH Stone Swarm 2 (H) Blade KS2	1	LH Kill S2 Runes 3	1																										0
+Act 5 (H) Cast C KS2			-2					0	LH Reagent Roll (H) KS2	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Stone Act 5 (H) Cast C Blade KS2			-2						Act 5 (H) Cast C KS2	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) Cast C Blade KS2			-2						LH Stone Act 5 (H) Cast C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 4			1					1848393	Runes 17	10000	LH Nothing	1109036																										0
+LH Kill S2 Root 4			-2						LH Runebands LH Stone Act 5 (H) Cast C Blade KS2	1	LH Kill S2 Runes 4	1																										0
+Act 5 (H) Wraith C KS2			-2					0	LH Reagent Roll (H) KS2	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Stone Act 5 (H) Wraith C Blade KS2			-2						Act 5 (H) Wraith C KS2	1	LH Blades I Roll	1																										0
+LH Runebands LH Stone Act 5 (H) Wraith C Blade KS2			-2						LH Stone Act 5 (H) Wraith C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 5			1					594821	Runes 17	10000	LH Nothing	356893																										0
+LH Kill S2 Root 5			-2						LH Runebands LH Stone Act 5 (H) Wraith C Blade KS2	1	LH Kill S2 Runes 5	1																										0
+LH Runes15 LH Stone Act 5 (H) Wraith C Blade Pick KS2			1					85599464	Runes 17	1000000	LH Nothing	51359679																										0
+LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS2			-2						LH Stone Act 5 (H) Wraith C Blade KS2	1	LH Runes15 LH Stone Act 5 (H) Wraith C Blade Pick KS2	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS2			-2						LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 6			1					590464	Runes 17	10000	LH Nothing	354279																										0
+LH Kill S2 Root 6			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS2	1	LH Kill S2 Runes 6	1																										0
+LH Runes15 LH Stone Act 5 (H) Champ C Blade Pick KS2			1					87589285	Runes 17	1000000	LH Nothing	52553572																										0
+LH Runes15 LH Stone Act 5 (H) Champ C Blade KS2			-2						LH Stone Act 5 (H) Champ C Blade	1	LH Runes15 LH Stone Act 5 (H) Champ C Blade Pick KS2	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Champ C Blade KS2			-2						LH Runes15 LH Stone Act 5 (H) Champ C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 7			1					604392	Runes 17	10000	LH Nothing	362636																										0
+LH Kill S2 Root 7			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Champ C Blade KS2	1	LH Kill S2 Runes 7	1																										0
+LH Runes15 LH Stone Act 5 (H) Unique C Blade Pick KS2			1					45250893	Runes 17	1000000	LH Nothing	27150536																										0
+LH Runes15 LH Stone Act 5 (H) Unique C Blade KS2			-2						LH Stone Act 5 (H) Unique C Blade	1	LH Runes15 LH Stone Act 5 (H) Unique C Blade Pick KS2	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Unique C Blade KS2			-2						LH Runes15 LH Stone Act 5 (H) Unique C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 8			1					308040	Runes 17	10000	LH Nothing	184824																										0
+LH Kill S2 Root 8			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Unique C Blade KS2	1	LH Kill S2 Runes 8	1																										0
+LH Runes15 LH Stone Swarm 2 (H) Blade Pick KS2			1					496823928	Runes 15	1000000	LH Nothing	298094358																										0
+LH Runes15 LH Stone Swarm 2 (H) Blade KS2			-2						LH Stone Swarm 2 (H) Blade KS2	1	LH Runes15 LH Stone Swarm 2 (H) Blade Pick KS2	1																										0
+LH Runebands LH Runes15 LH Stone Swarm 2 (H) Blade KS2			-2						LH Runes15 LH Stone Swarm 2 (H) Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 9			1					3469021	Runes 15	10000	LH Nothing	2081413																										0
+LH Kill S2 Root 9			-2						LH Runebands LH Runes15 LH Stone Swarm 2 (H) Blade KS2	1	LH Kill S2 Runes 9	1																										0
+LH Runes15 LH Stone Act 5 (H) Cast C Blade Pick KS2			1					264681071	Runes 17	1000000	LH Nothing	158808643																										0
+LH Runes15 LH Stone Act 5 (H) Cast C Blade KS2			-2						LH Stone Act 5 (H) Cast C Blade KS2	1	LH Runes15 LH Stone Act 5 (H) Cast C Blade Pick KS2	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Cast C Blade KS2			-2						LH Runes15 LH Stone Act 5 (H) Cast C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 10			1					1844023	Runes 17	10000	LH Nothing	1106415																										0
+LH Kill S2 Root 10			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Cast C Blade KS2	1	LH Kill S2 Runes 10	1																										0
+LH Runes15 LH Stone Act 5 (H) H2H C Blade Pick KS2			1					264681071	Runes 17	1000000	LH Nothing	158808643																										0
+LH Runes15 LH Stone Act 5 (H) H2H C Blade KS2			-2						LH Stone Act 5 (H) H2H C Blade KS2	1	LH Runes15 LH Stone Act 5 (H) H2H C Blade Pick KS2	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) H2H C Blade KS2			-2						LH Runes15 LH Stone Act 5 (H) H2H C Blade KS2	1	LH Runebands Roll	1																										0
+LH Kill S2 Runes 11			1					1844023	Runes 17	10000	LH Nothing	1106415																										0
+LH Kill S2 Root 11			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) H2H C Blade KS2	1	LH Kill S2 Runes 11	1																										0
+LH Reagent Roll (H) KS3			1					1423750	LH Reagents (H)	222000	LH Nothing	854250																										0
+Act 5 (H) Wraith C KS3			-2					0	LH Reagent Roll (H) KS3	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Stone Act 5 (H) Wraith C Blade KS3			-2						Act 5 (H) Wraith C KS3	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) Wraith C Blade Pick KS3			1					74821406	Runes 17	1000000	LH Nothing	44892844																										0
+LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS3			-2						LH Stone Act 5 (H) Wraith C Blade KS3	1	LH Runes15 LH Stone Act 5 (H) Wraith C Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS3			-2						LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 0			1					490493	Runes 17	10000	LH Nothing	294297																										0
+LH Kill S3 Root 0			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS3	1	LH Kill S3 Runes 0	1																										0
+LH Runes15 LH Stone Act 5 (H) Champ C Blade Pick KS3			1					76562500	Runes 17	1000000	LH Nothing	45937500																										0
+LH Runes15 LH Stone Act 5 (H) Champ C Blade KS3			-2						LH Stone Act 5 (H) Champ C Blade	1	LH Runes15 LH Stone Act 5 (H) Champ C Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Champ C Blade KS3			-2						LH Runes15 LH Stone Act 5 (H) Champ C Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 1			1					502100	Runes 17	10000	LH Nothing	301260																										0
+LH Kill S3 Root 1			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Champ C Blade KS3	1	LH Kill S3 Runes 1	1																										0
+LH Runes15 LH Stone Act 5 (H) Unique C Blade Pick KS3			1					39516406	Runes 17	1000000	LH Nothing	23709844																										0
+LH Runes15 LH Stone Act 5 (H) Unique C Blade KS3			-2						LH Stone Act 5 (H) Unique C Blade	1	LH Runes15 LH Stone Act 5 (H) Unique C Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Unique C Blade KS3			-2						LH Runes15 LH Stone Act 5 (H) Unique C Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 2			1					255141	Runes 17	10000	LH Nothing	153086																										0
+LH Kill S3 Root 2			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Unique C Blade KS3	1	LH Kill S3 Runes 2	1																										0
+Act 5 (H) Cast C KS3			-2					0	LH Reagent Roll (H) KS3	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Stone Act 5 (H) Cast C Blade KS3			-2						Act 5 (H) Cast C KS3	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) Cast C Blade Pick KS3			1					231517812	Runes 17	1000000	LH Nothing	138910688																										0
+LH Runes15 LH Stone Act 5 (H) Cast C Blade KS3			-2						LH Stone Act 5 (H) Cast C Blade KS3	1	LH Runes15 LH Stone Act 5 (H) Cast C Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Cast C Blade KS3			-2						LH Runes15 LH Stone Act 5 (H) Cast C Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 3			1					1535124	Runes 17	10000	LH Nothing	921075																										0
+LH Kill S3 Root 3			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Cast C Blade KS3	1	LH Kill S3 Runes 3	1																										0
+LH Runes15 LH Stone Council (H) Blade Pick KS3			1					17108125	Runes 16	1000000	LH Nothing	10264875																										0
+LH Runes15 LH Stone Council (H) Blade KS3			-2						LH Stone Council (H) Blade	1	LH Runes15 LH Stone Council (H) Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Council (H) Blade KS3			-2						LH Runes15 LH Stone Council (H) Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 4			1					106466	Runes 16	10000	LH Nothing	63881																										0
+LH Kill S3 Root 4			-2						LH Runebands LH Runes15 LH Stone Council (H) Blade KS3	1	LH Kill S3 Runes 4	1																										0
+Act 5 (H) H2H C KS3			-2					0	LH Reagent Roll (H) KS3	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Stone Act 5 (H) H2H C Blade KS3			-2						Act 5 (H) H2H C KS3	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) H2H C Blade Pick KS3			1					231517812	Runes 17	1000000	LH Nothing	138910688																										0
+LH Runes15 LH Stone Act 5 (H) H2H C Blade KS3			-2						LH Stone Act 5 (H) H2H C Blade KS3	1	LH Runes15 LH Stone Act 5 (H) H2H C Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) H2H C Blade KS3			-2						LH Runes15 LH Stone Act 5 (H) H2H C Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 5			1					1535124	Runes 17	10000	LH Nothing	921075																										0
+LH Kill S3 Root 5			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) H2H C Blade KS3	1	LH Kill S3 Runes 5	1																										0
+Swarm 2 (H) KS3			-2					0	LH Reagent Roll (H) KS3	1	Swarm 2 (H) Vanilla	1																										0
+LH Stone Swarm 2 (H) Blade KS3			-2						Swarm 2 (H) KS3	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Swarm 2 (H) Blade Pick KS3			1					434642812	Runes 15	1000000	LH Nothing	260785688																										0
+LH Runes15 LH Stone Swarm 2 (H) Blade KS3			-2						LH Stone Swarm 2 (H) Blade KS3	1	LH Runes15 LH Stone Swarm 2 (H) Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Swarm 2 (H) Blade KS3			-2						LH Runes15 LH Stone Swarm 2 (H) Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 6			1					2889288	Runes 15	10000	LH Nothing	1733574																										0
+LH Kill S3 Root 6			-2						LH Runebands LH Runes15 LH Stone Swarm 2 (H) Blade KS3	1	LH Kill S3 Runes 6	1																										0
+Act 5 (H) Miss C KS3			-2					0	LH Reagent Roll (H) KS3	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Stone Act 5 (H) Miss C Blade KS3			-2						Act 5 (H) Miss C KS3	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) Miss C Blade Pick KS3			1					231517812	Runes 17	1000000	LH Nothing	138910688																										0
+LH Runes15 LH Stone Act 5 (H) Miss C Blade KS3			-2						LH Stone Act 5 (H) Miss C Blade KS3	1	LH Runes15 LH Stone Act 5 (H) Miss C Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Miss C Blade KS3			-2						LH Runes15 LH Stone Act 5 (H) Miss C Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 7			1					1535124	Runes 17	10000	LH Nothing	921075																										0
+LH Kill S3 Root 7			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Miss C Blade KS3	1	LH Kill S3 Runes 7	1																										0
+Quill 5 (H) KS3			-2					0	LH Reagent Roll (H) KS3	1	Quill 5 (H) Vanilla	1																										0
+LH Stone Quill 5 (H) Blade KS3			-2						Quill 5 (H) KS3	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Quill 5 (H) Blade Pick KS3			1					159940468	Runes 15	1000000	LH Nothing	95964282																										0
+LH Runes15 LH Stone Quill 5 (H) Blade KS3			-2						LH Stone Quill 5 (H) Blade KS3	1	LH Runes15 LH Stone Quill 5 (H) Blade Pick KS3	1																										0
+LH Runebands LH Runes15 LH Stone Quill 5 (H) Blade KS3			-2						LH Runes15 LH Stone Quill 5 (H) Blade KS3	1	LH Runebands Roll	1																										0
+LH Kill S3 Runes 8			1					1057944	Runes 15	10000	LH Nothing	634767																										0
+LH Kill S3 Root 8			-2						LH Runebands LH Runes15 LH Stone Quill 5 (H) Blade KS3	1	LH Kill S3 Runes 8	1																										0
+LH Reagent Roll (H) KS4			1					1250138	LH Reagents (H)	222000	LH Nothing	750084																										0
+Act 5 (H) H2H C KS4			-2					0	LH Reagent Roll (H) KS4	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Stone Act 5 (H) H2H C Blade KS4			-2						Act 5 (H) H2H C KS4	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) H2H C Blade Pick KS4			1					205724166	Runes 17	1000000	LH Nothing	123434501																										0
+LH Runes15 LH Stone Act 5 (H) H2H C Blade KS4			-2						LH Stone Act 5 (H) H2H C Blade KS4	1	LH Runes15 LH Stone Act 5 (H) H2H C Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) H2H C Blade KS4			-2						LH Runes15 LH Stone Act 5 (H) H2H C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 0			1					1314482	Runes 17	10000	LH Nothing	788690																										0
+LH Kill S4 Root 0			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) H2H C Blade KS4	1	LH Kill S4 Runes 0	1																										0
+LH Runes15 LH Stone Act 5 (H) Champ C Blade Pick KS4			1					67986111	Runes 17	1000000	LH Nothing	40791667																										0
+LH Runes15 LH Stone Act 5 (H) Champ C Blade KS4			-2						LH Stone Act 5 (H) Champ C Blade	1	LH Runes15 LH Stone Act 5 (H) Champ C Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Champ C Blade KS4			-2						LH Runes15 LH Stone Act 5 (H) Champ C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 1			1					429034	Runes 17	10000	LH Nothing	257421																										0
+LH Kill S4 Root 1			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Champ C Blade KS4	1	LH Kill S4 Runes 1	1																										0
+LH Runes15 LH Stone Act 5 (H) Unique C Blade Pick KS4			1					35056250	Runes 17	1000000	LH Nothing	21033750																										0
+LH Runes15 LH Stone Act 5 (H) Unique C Blade KS4			-2						LH Stone Act 5 (H) Unique C Blade	1	LH Runes15 LH Stone Act 5 (H) Unique C Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Unique C Blade KS4			-2						LH Runes15 LH Stone Act 5 (H) Unique C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 2			1					217356	Runes 17	10000	LH Nothing	130415																										0
+LH Kill S4 Root 2			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Unique C Blade KS4	1	LH Kill S4 Runes 2	1																										0
+Act 5 (H) Wraith C KS4			-2					0	LH Reagent Roll (H) KS4	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Stone Act 5 (H) Wraith C Blade KS4			-2						Act 5 (H) Wraith C KS4	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) Wraith C Blade Pick KS4			1					66438472	Runes 17	1000000	LH Nothing	39863084																										0
+LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS4			-2						LH Stone Act 5 (H) Wraith C Blade KS4	1	LH Runes15 LH Stone Act 5 (H) Wraith C Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS4			-2						LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 3			1					419085	Runes 17	10000	LH Nothing	251452																										0
+LH Kill S4 Root 3			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Wraith C Blade KS4	1	LH Kill S4 Runes 3	1																										0
+Act 5 (H) Cast C KS4			-2					0	LH Reagent Roll (H) KS4	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Stone Act 5 (H) Cast C Blade KS4			-2						Act 5 (H) Cast C KS4	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Act 5 (H) Cast C Blade Pick KS4			1					205724166	Runes 17	1000000	LH Nothing	123434501																										0
+LH Runes15 LH Stone Act 5 (H) Cast C Blade KS4			-2						LH Stone Act 5 (H) Cast C Blade KS4	1	LH Runes15 LH Stone Act 5 (H) Cast C Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Act 5 (H) Cast C Blade KS4			-2						LH Runes15 LH Stone Act 5 (H) Cast C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 4			1					1314482	Runes 17	10000	LH Nothing	788690																										0
+LH Kill S4 Root 4			-2						LH Runebands LH Runes15 LH Stone Act 5 (H) Cast C Blade KS4	1	LH Kill S4 Runes 4	1																										0
+LH Runes15 LH Stone Council (H) Blade Pick KS4			1					15137777	Runes 16	1000000	LH Nothing	9082667																										0
+LH Runes15 LH Stone Council (H) Blade KS4			-2						LH Stone Council (H) Blade	1	LH Runes15 LH Stone Council (H) Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Council (H) Blade KS4			-2						LH Runes15 LH Stone Council (H) Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 5			1					89923	Runes 16	10000	LH Nothing	53954																										0
+LH Kill S4 Root 5			-2						LH Runebands LH Runes15 LH Stone Council (H) Blade KS4	1	LH Kill S4 Runes 5	1																										0
+Swarm 2 (H) KS4			-2					0	LH Reagent Roll (H) KS4	1	Swarm 2 (H) Vanilla	1																										0
+LH Stone Swarm 2 (H) Blade KS4			-2						Swarm 2 (H) KS4	1	LH Blades I Roll	1																										0
+LH Runes15 LH Stone Swarm 2 (H) Blade Pick KS4			1					386279722	Runes 15	1000000	LH Nothing	231767834																										0
+LH Runes15 LH Stone Swarm 2 (H) Blade KS4			-2						LH Stone Swarm 2 (H) Blade KS4	1	LH Runes15 LH Stone Swarm 2 (H) Blade Pick KS4	1																										0
+LH Runebands LH Runes15 LH Stone Swarm 2 (H) Blade KS4			-2						LH Runes15 LH Stone Swarm 2 (H) Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 6			1					2475194	Runes 15	10000	LH Nothing	1485117																										0
+LH Kill S4 Root 6			-2						LH Runebands LH Runes15 LH Stone Swarm 2 (H) Blade KS4	1	LH Kill S4 Runes 6	1																										0
+LH Runes20 LH Stone Act 5 (H) H2H C Blade Pick KS4			1					102549583	Runes 17	1000000	LH Nothing	61529750																										0
+LH Runes20 LH Stone Act 5 (H) H2H C Blade KS4			-2						LH Stone Act 5 (H) H2H C Blade KS4	1	LH Runes20 LH Stone Act 5 (H) H2H C Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) H2H C Blade KS4			-2						LH Runes20 LH Stone Act 5 (H) H2H C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 7			1					1310470	Runes 17	10000	LH Nothing	786282																										0
+LH Kill S4 Root 7			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) H2H C Blade KS4	1	LH Kill S4 Runes 7	1																										0
+LH Runes20 LH Stone Act 5 (H) Champ C Blade Pick KS4			1					33680555	Runes 17	1000000	LH Nothing	20208334																										0
+LH Runes20 LH Stone Act 5 (H) Champ C Blade KS4			-2						LH Stone Act 5 (H) Champ C Blade	1	LH Runes20 LH Stone Act 5 (H) Champ C Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Champ C Blade KS4			-2						LH Runes20 LH Stone Act 5 (H) Champ C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 8			1					425032	Runes 17	10000	LH Nothing	255020																										0
+LH Kill S4 Root 8			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Champ C Blade KS4	1	LH Kill S4 Runes 8	1																										0
+LH Runes20 LH Stone Act 5 (H) Unique C Blade Pick KS4			1					17215555	Runes 17	1000000	LH Nothing	10329334																										0
+LH Runes20 LH Stone Act 5 (H) Unique C Blade KS4			-2						LH Stone Act 5 (H) Unique C Blade	1	LH Runes20 LH Stone Act 5 (H) Unique C Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Unique C Blade KS4			-2						LH Runes20 LH Stone Act 5 (H) Unique C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 9			1					213370	Runes 17	10000	LH Nothing	128023																										0
+LH Kill S4 Root 9			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Unique C Blade KS4	1	LH Kill S4 Runes 9	1																										0
+LH Runes20 LH Stone Act 5 (H) Wraith C Blade Pick KS4			1					32906805	Runes 17	1000000	LH Nothing	19744084																										0
+LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS4			-2						LH Stone Act 5 (H) Wraith C Blade KS4	1	LH Runes20 LH Stone Act 5 (H) Wraith C Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS4			-2						LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 10			1					415084	Runes 17	10000	LH Nothing	249051																										0
+LH Kill S4 Root 10			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS4	1	LH Kill S4 Runes 10	1																										0
+LH Runes20 LH Stone Swarm 2 (H) Blade Pick KS4			1					192827361	Runes 15	1000000	LH Nothing	115696417																										0
+LH Runes20 LH Stone Swarm 2 (H) Blade KS4			-2						LH Stone Swarm 2 (H) Blade KS4	1	LH Runes20 LH Stone Swarm 2 (H) Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Swarm 2 (H) Blade KS4			-2						LH Runes20 LH Stone Swarm 2 (H) Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 11			1					2471179	Runes 15	10000	LH Nothing	1482708																										0
+LH Kill S4 Root 11			-2						LH Runebands LH Runes20 LH Stone Swarm 2 (H) Blade KS4	1	LH Kill S4 Runes 11	1																										0
+LH Runes20 LH Stone Council (H) Blade Pick KS4			1					7256388	Runes 16	1000000	LH Nothing	4353834																										0
+LH Runes20 LH Stone Council (H) Blade KS4			-2						LH Stone Council (H) Blade	1	LH Runes20 LH Stone Council (H) Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Council (H) Blade KS4			-2						LH Runes20 LH Stone Council (H) Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 12			1					85952	Runes 16	10000	LH Nothing	51572																										0
+LH Kill S4 Root 12			-2						LH Runebands LH Runes20 LH Stone Council (H) Blade KS4	1	LH Kill S4 Runes 12	1																										0
+LH Runes20 LH Stone Act 5 (H) Cast C Blade Pick KS4			1					102549583	Runes 17	1000000	LH Nothing	61529750																										0
+LH Runes20 LH Stone Act 5 (H) Cast C Blade KS4			-2						LH Stone Act 5 (H) Cast C Blade KS4	1	LH Runes20 LH Stone Act 5 (H) Cast C Blade Pick KS4	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Cast C Blade KS4			-2						LH Runes20 LH Stone Act 5 (H) Cast C Blade KS4	1	LH Runebands Roll	1																										0
+LH Kill S4 Runes 13			1					1310470	Runes 17	10000	LH Nothing	786282																										0
+LH Kill S4 Root 13			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Cast C Blade KS4	1	LH Kill S4 Runes 13	1																										0
+LH Reagent Roll (H) KS5			1					1111250	LH Reagents (H)	222000	LH Nothing	666750																										0
+Act 5 (H) H2H C KS5			-2					0	LH Reagent Roll (H) KS5	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Stone Act 5 (H) H2H C Blade KS5			-2						Act 5 (H) H2H C KS5	1	LH Blades I Roll	1																										0
+LH Runes20 LH Stone Act 5 (H) H2H C Blade Pick KS5			1					92232125	Runes 17	1000000	LH Nothing	55339275																										0
+LH Runes20 LH Stone Act 5 (H) H2H C Blade KS5			-2						LH Stone Act 5 (H) H2H C Blade KS5	1	LH Runes20 LH Stone Act 5 (H) H2H C Blade Pick KS5	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) H2H C Blade KS5			-2						LH Runes20 LH Stone Act 5 (H) H2H C Blade KS5	1	LH Runebands Roll	1																										0
+LH Kill S5 Runes 0			1					1145100	Runes 17	10000	LH Nothing	687060																										0
+LH Kill S5 Root 0			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) H2H C Blade KS5	1	LH Kill S5 Runes 0	1																										0
+LH Runes20 LH Stone Act 5 (H) Champ C Blade Pick KS5			1					30250000	Runes 17	1000000	LH Nothing	18150000																										0
+LH Runes20 LH Stone Act 5 (H) Champ C Blade KS5			-2						LH Stone Act 5 (H) Champ C Blade	1	LH Runes20 LH Stone Act 5 (H) Champ C Blade Pick KS5	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Champ C Blade KS5			-2						LH Runes20 LH Stone Act 5 (H) Champ C Blade KS5	1	LH Runebands Roll	1																										0
+LH Kill S5 Runes 1			1					370344	Runes 17	10000	LH Nothing	222207																										0
+LH Kill S5 Root 1			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Champ C Blade KS5	1	LH Kill S5 Runes 1	1																										0
+LH Runes20 LH Stone Act 5 (H) Unique C Blade Pick KS5			1					15431500	Runes 17	1000000	LH Nothing	9258900																										0
+LH Runes20 LH Stone Act 5 (H) Unique C Blade KS5			-2						LH Stone Act 5 (H) Unique C Blade	1	LH Runes20 LH Stone Act 5 (H) Unique C Blade Pick KS5	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Unique C Blade KS5			-2						LH Runes20 LH Stone Act 5 (H) Unique C Blade KS5	1	LH Runebands Roll	1																										0
+LH Kill S5 Runes 2			1					185142	Runes 17	10000	LH Nothing	111086																										0
+LH Kill S5 Root 2			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Unique C Blade KS5	1	LH Kill S5 Runes 2	1																										0
+Act 5 (H) Cast C KS5			-2					0	LH Reagent Roll (H) KS5	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Stone Act 5 (H) Cast C Blade KS5			-2						Act 5 (H) Cast C KS5	1	LH Blades I Roll	1																										0
+LH Runes20 LH Stone Act 5 (H) Cast C Blade Pick KS5			1					92232125	Runes 17	1000000	LH Nothing	55339275																										0
+LH Runes20 LH Stone Act 5 (H) Cast C Blade KS5			-2						LH Stone Act 5 (H) Cast C Blade KS5	1	LH Runes20 LH Stone Act 5 (H) Cast C Blade Pick KS5	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Cast C Blade KS5			-2						LH Runes20 LH Stone Act 5 (H) Cast C Blade KS5	1	LH Runebands Roll	1																										0
+LH Kill S5 Runes 3			1					1145100	Runes 17	10000	LH Nothing	687060																										0
+LH Kill S5 Root 3			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Cast C Blade KS5	1	LH Kill S5 Runes 3	1																										0
+Act 5 (H) Wraith C KS5			-2					0	LH Reagent Roll (H) KS5	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Stone Act 5 (H) Wraith C Blade KS5			-2						Act 5 (H) Wraith C KS5	1	LH Blades I Roll	1																										0
+LH Runes20 LH Stone Act 5 (H) Wraith C Blade Pick KS5			1					29553625	Runes 17	1000000	LH Nothing	17732175																										0
+LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS5			-2						LH Stone Act 5 (H) Wraith C Blade KS5	1	LH Runes20 LH Stone Act 5 (H) Wraith C Blade Pick KS5	1																										0
+LH Runebands LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS5			-2						LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS5	1	LH Runebands Roll	1																										0
+LH Kill S5 Runes 4			1					361639	Runes 17	10000	LH Nothing	216984																										0
+LH Kill S5 Root 4			-2						LH Runebands LH Runes20 LH Stone Act 5 (H) Wraith C Blade KS5	1	LH Kill S5 Runes 4	1																										0
+LH Runes20 LH Stone Council (H) Blade Pick KS5			1					6468250	Runes 16	1000000	LH Nothing	3880950																										0
+LH Runes20 LH Stone Council (H) Blade KS5			-2						LH Stone Council (H) Blade	1	LH Runes20 LH Stone Council (H) Blade Pick KS5	1																										0
+LH Runebands LH Runes20 LH Stone Council (H) Blade KS5			-2						LH Runes20 LH Stone Council (H) Blade KS5	1	LH Runebands Roll	1																										0
+LH Kill S5 Runes 5			1					73655	Runes 16	10000	LH Nothing	44193																										0
+LH Kill S5 Root 5			-2						LH Runebands LH Runes20 LH Stone Council (H) Blade KS5	1	LH Kill S5 Runes 5	1																										0
+LH Reagent Roll (H) KD1			1					1784326	LH Reagents (H)	222000	LH Nothing	1070597																										0
+Act 5 (H) H2H C KD1			-2					0	LH Reagent Roll (H) KD1	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Ember I KD1			1					28221	x01	1000	LH Nothing	16933																										0
+LH Descent H2H I KD1			-3					0	Act 5 (H) H2H C KD1	1	LH Ember I KD1	1	LH Blades I Roll	1																								0
+LH Runebands LH Descent H2H I KD1			-2						LH Descent H2H I KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 0			1					2054464	Runes 17	10000	LH Nothing	1232679																										0
+LH Kill D1 Root 0			-2						LH Runebands LH Descent H2H I KD1	1	LH Kill D1 Runes 0	1																										0
+LH Descent Champ I KD1			-3					0	Act 5 (H) Champ C	1	LH Ember I KD1	1	LH Blades I Roll	1																								0
+LH Runebands LH Descent Champ I KD1			-2						LH Descent Champ I KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 1			1					677083	Runes 17	10000	LH Nothing	406250																										0
+LH Kill D1 Root 1			-2						LH Runebands LH Descent Champ I KD1	1	LH Kill D1 Runes 1	1																										0
+LH Descent Unique I KD1			-3					0	Act 5 (H) Unique C	1	LH Ember I KD1	1	LH Blades I Roll	1																								0
+LH Runebands LH Descent Unique I KD1			-2						LH Descent Unique I KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 2			1					347784	Runes 17	10000	LH Nothing	208671																										0
+LH Kill D1 Root 2			-2						LH Runebands LH Descent Unique I KD1	1	LH Kill D1 Runes 2	1																										0
+Act 5 (H) Miss C KD1			-2					0	LH Reagent Roll (H) KD1	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Descent Miss I KD1			-3					0	Act 5 (H) Miss C KD1	1	LH Ember I KD1	1	LH Blades I Roll	1																								0
+LH Runebands LH Descent Miss I KD1			-2						LH Descent Miss I KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 3			1					2054464	Runes 17	10000	LH Nothing	1232679																										0
+LH Kill D1 Root 3			-2						LH Runebands LH Descent Miss I KD1	1	LH Kill D1 Runes 3	1																										0
+Act 5 (H) Cast C KD1			-2					0	LH Reagent Roll (H) KD1	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Descent Cast I KD1			-3					0	Act 5 (H) Cast C KD1	1	LH Ember I KD1	1	LH Blades I Roll	1																								0
+LH Runebands LH Descent Cast I KD1			-2						LH Descent Cast I KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 4			1					2054464	Runes 17	10000	LH Nothing	1232679																										0
+LH Kill D1 Root 4			-2						LH Runebands LH Descent Cast I KD1	1	LH Kill D1 Runes 4	1																										0
+Act 5 (H) Wraith C KD1			-2					0	LH Reagent Roll (H) KD1	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Runebands Act 5 (H) Wraith C KD1			-2						Act 5 (H) Wraith C KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 5			1					661606	Runes 17	10000	LH Nothing	396965																										0
+LH Kill D1 Root 5			-2						LH Runebands Act 5 (H) Wraith C KD1	1	LH Kill D1 Runes 5	1																										0
+Swarm 2 (H) KD1			-2					0	LH Reagent Roll (H) KD1	1	Swarm 2 (H) Vanilla	1																										0
+LH Runebands Swarm 2 (H) KD1			-2						Swarm 2 (H) KD1	1	LH Runebands Roll	1																										0
+LH Kill D1 Runes 6			1					3860020	Runes 15	10000	LH Nothing	2316012																										0
+LH Kill D1 Root 6			-2						LH Runebands Swarm 2 (H) KD1	1	LH Kill D1 Runes 6	1																										0
+LH Reagent Roll (H) KD2			1					1621813	LH Reagents (H)	222000	LH Nothing	973088																										0
+Act 5 (H) H2H C KD2			-2					0	LH Reagent Roll (H) KD2	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Ember II KD2			1					20501	x01	1000	LH Nothing	12302																										0
+LH Descent H2H II KD2			-3					0	Act 5 (H) H2H C KD2	1	LH Ember II KD2	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent H2H II Pick KD2			1					260944366	Runes 17	1000000	LH Nothing	156566620																										0
+LH Runes15 LH Descent H2H II KD2			-2						LH Descent H2H II KD2	1	LH Runes15 LH Descent H2H II Pick KD2	1																										0
+LH Runebands LH Runes15 LH Descent H2H II KD2			-2						LH Runes15 LH Descent H2H II KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 0			1					1807682	Runes 17	10000	LH Nothing	1084610																										0
+LH Kill D2 Root 0			-2						LH Runebands LH Runes15 LH Descent H2H II KD2	1	LH Kill D2 Runes 0	1																										0
+LH Descent Champ II KD2			-3					0	Act 5 (H) Champ C	1	LH Ember II KD2	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Champ II Pick KD2			1					86346831	Runes 17	1000000	LH Nothing	51808099																										0
+LH Runes15 LH Descent Champ II KD2			-2						LH Descent Champ II KD2	1	LH Runes15 LH Descent Champ II Pick KD2	1																										0
+LH Runebands LH Runes15 LH Descent Champ II KD2			-2						LH Runes15 LH Descent Champ II KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 1			1					592358	Runes 17	10000	LH Nothing	355415																										0
+LH Kill D2 Root 1			-2						LH Runebands LH Runes15 LH Descent Champ II KD2	1	LH Kill D2 Runes 1	1																										0
+LH Descent Unique II KD2			-3					0	Act 5 (H) Unique C	1	LH Ember II KD2	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Unique II Pick KD2			1					44604753	Runes 17	1000000	LH Nothing	26762853																										0
+LH Runes15 LH Descent Unique II KD2			-2						LH Descent Unique II KD2	1	LH Runes15 LH Descent Unique II Pick KD2	1																										0
+LH Runebands LH Runes15 LH Descent Unique II KD2			-2						LH Runes15 LH Descent Unique II KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 2			1					301816	Runes 17	10000	LH Nothing	181091																										0
+LH Kill D2 Root 2			-2						LH Runebands LH Runes15 LH Descent Unique II KD2	1	LH Kill D2 Runes 2	1																										0
+Swarm 2 (H) KD2			-2					0	LH Reagent Roll (H) KD2	1	Swarm 2 (H) Vanilla	1																										0
+LH Runes15 Swarm 2 (H) Pick KD2			1					489817605	Runes 15	1000000	LH Nothing	293890564																										0
+LH Runes15 Swarm 2 (H) KD2			-2						Swarm 2 (H) KD2	1	LH Runes15 Swarm 2 (H) Pick KD2	1																										0
+LH Runebands LH Runes15 Swarm 2 (H) KD2			-2						LH Runes15 Swarm 2 (H) KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 3			1					3400817	Runes 15	10000	LH Nothing	2040491																										0
+LH Kill D2 Root 3			-2						LH Runebands LH Runes15 Swarm 2 (H) KD2	1	LH Kill D2 Runes 3	1																										0
+Act 5 (H) Cast C KD2			-2					0	LH Reagent Roll (H) KD2	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Descent Cast II KD2			-3					0	Act 5 (H) Cast C KD2	1	LH Ember II KD2	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Cast II Pick KD2			1					260944366	Runes 17	1000000	LH Nothing	156566620																										0
+LH Runes15 LH Descent Cast II KD2			-2						LH Descent Cast II KD2	1	LH Runes15 LH Descent Cast II Pick KD2	1																										0
+LH Runebands LH Runes15 LH Descent Cast II KD2			-2						LH Runes15 LH Descent Cast II KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 4			1					1807682	Runes 17	10000	LH Nothing	1084610																										0
+LH Kill D2 Root 4			-2						LH Runebands LH Runes15 LH Descent Cast II KD2	1	LH Kill D2 Runes 4	1																										0
+Act 5 (H) Miss C KD2			-2					0	LH Reagent Roll (H) KD2	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Descent Miss II KD2			-3					0	Act 5 (H) Miss C KD2	1	LH Ember II KD2	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Miss II Pick KD2			1					260944366	Runes 17	1000000	LH Nothing	156566620																										0
+LH Runes15 LH Descent Miss II KD2			-2						LH Descent Miss II KD2	1	LH Runes15 LH Descent Miss II Pick KD2	1																										0
+LH Runebands LH Runes15 LH Descent Miss II KD2			-2						LH Runes15 LH Descent Miss II KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 5			1					1807682	Runes 17	10000	LH Nothing	1084610																										0
+LH Kill D2 Root 5			-2						LH Runebands LH Runes15 LH Descent Miss II KD2	1	LH Kill D2 Runes 5	1																										0
+Act 5 (H) Wraith C KD2			-2					0	LH Reagent Roll (H) KD2	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Runes15 Act 5 (H) Wraith C Pick KD2			1					84385035	Runes 17	1000000	LH Nothing	50631021																										0
+LH Runes15 Act 5 (H) Wraith C KD2			-2						Act 5 (H) Wraith C KD2	1	LH Runes15 Act 5 (H) Wraith C Pick KD2	1																										0
+LH Runebands LH Runes15 Act 5 (H) Wraith C KD2			-2						LH Runes15 Act 5 (H) Wraith C KD2	1	LH Runebands Roll	1																										0
+LH Kill D2 Runes 6			1					578703	Runes 17	10000	LH Nothing	347222																										0
+LH Kill D2 Root 6			-2						LH Runebands LH Runes15 Act 5 (H) Wraith C KD2	1	LH Kill D2 Runes 6	1																										0
+LH Reagent Roll (H) KD3			1					1726921	LH Reagents (H)	222000	LH Nothing	1036154																										0
+Act 5 (H) H2H C KD3			-2					0	LH Reagent Roll (H) KD3	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Ember III KD3			1					16166	x01	1000	LH Nothing	9700																										0
+LH Descent H2H III KD3			-3					0	Act 5 (H) H2H C KD3	1	LH Ember III KD3	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent H2H III Pick KD3			1					276560447	Runes 17	1000000	LH Nothing	165936269																										0
+LH Runes15 LH Descent H2H III KD3			-2						LH Descent H2H III KD3	1	LH Runes15 LH Descent H2H III Pick KD3	1																										0
+LH Runebands LH Runes15 LH Descent H2H III KD3			-2						LH Runes15 LH Descent H2H III KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 0			1					1962325	Runes 17	10000	LH Nothing	1177396																										0
+LH Kill D3 Root 0			-2						LH Runebands LH Runes15 LH Descent H2H III KD3	1	LH Kill D3 Runes 0	1																										0
+LH Descent Champ III KD3			-3					0	Act 5 (H) Champ C	1	LH Ember III KD3	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Champ III Pick KD3			1					91539179	Runes 17	1000000	LH Nothing	54923508																										0
+LH Runes15 LH Descent Champ III KD3			-2						LH Descent Champ III KD3	1	LH Runes15 LH Descent Champ III Pick KD3	1																										0
+LH Runebands LH Runes15 LH Descent Champ III KD3			-2						LH Runes15 LH Descent Champ III KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 1			1					643568	Runes 17	10000	LH Nothing	386142																										0
+LH Kill D3 Root 1			-2						LH Runebands LH Runes15 LH Descent Champ III KD3	1	LH Kill D3 Runes 1	1																										0
+LH Descent Unique III KD3			-3					0	Act 5 (H) Unique C	1	LH Ember III KD3	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Unique III Pick KD3			1					47305037	Runes 17	1000000	LH Nothing	28383023																										0
+LH Runes15 LH Descent Unique III KD3			-2						LH Descent Unique III KD3	1	LH Runes15 LH Descent Unique III Pick KD3	1																										0
+LH Runebands LH Runes15 LH Descent Unique III KD3			-2						LH Runes15 LH Descent Unique III KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 2			1					328298	Runes 17	10000	LH Nothing	196980																										0
+LH Kill D3 Root 2			-2						LH Runebands LH Runes15 LH Descent Unique III KD3	1	LH Kill D3 Runes 2	1																										0
+Act 5 (H) Cast C KD3			-2					0	LH Reagent Roll (H) KD3	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Descent Cast III KD3			-3					0	Act 5 (H) Cast C KD3	1	LH Ember III KD3	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Cast III Pick KD3			1					276560447	Runes 17	1000000	LH Nothing	165936269																										0
+LH Runes15 LH Descent Cast III KD3			-2						LH Descent Cast III KD3	1	LH Runes15 LH Descent Cast III Pick KD3	1																										0
+LH Runebands LH Runes15 LH Descent Cast III KD3			-2						LH Runes15 LH Descent Cast III KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 3			1					1962325	Runes 17	10000	LH Nothing	1177396																										0
+LH Kill D3 Root 3			-2						LH Runebands LH Runes15 LH Descent Cast III KD3	1	LH Kill D3 Runes 3	1																										0
+Act 5 (H) Miss C KD3			-2					0	LH Reagent Roll (H) KD3	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Descent Miss III KD3			-3					0	Act 5 (H) Miss C KD3	1	LH Ember III KD3	1	LH Blades I Roll	1																								0
+LH Runes15 LH Descent Miss III Pick KD3			1					276560447	Runes 17	1000000	LH Nothing	165936269																										0
+LH Runes15 LH Descent Miss III KD3			-2						LH Descent Miss III KD3	1	LH Runes15 LH Descent Miss III Pick KD3	1																										0
+LH Runebands LH Runes15 LH Descent Miss III KD3			-2						LH Runes15 LH Descent Miss III KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 4			1					1962325	Runes 17	10000	LH Nothing	1177396																										0
+LH Kill D3 Root 4			-2						LH Runebands LH Runes15 LH Descent Miss III KD3	1	LH Kill D3 Runes 4	1																										0
+Swarm 2 (H) KD3			-2					0	LH Reagent Roll (H) KD3	1	Swarm 2 (H) Vanilla	1																										0
+LH Runes15 Swarm 2 (H) Pick KD3			1					519097761	Runes 15	1000000	LH Nothing	311458657																										0
+LH Runes15 Swarm 2 (H) KD3			-2						Swarm 2 (H) KD3	1	LH Runes15 Swarm 2 (H) Pick KD3	1																										0
+LH Runebands LH Runes15 Swarm 2 (H) KD3			-2						LH Runes15 Swarm 2 (H) KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 5			1					3691046	Runes 15	10000	LH Nothing	2214628																										0
+LH Kill D3 Root 5			-2						LH Runebands LH Runes15 Swarm 2 (H) KD3	1	LH Kill D3 Runes 5	1																										0
+Act 5 (H) Wraith C KD3			-2					0	LH Reagent Roll (H) KD3	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Runes15 Act 5 (H) Wraith C Pick KD3			1					89460261	Runes 17	1000000	LH Nothing	53676157																										0
+LH Runes15 Act 5 (H) Wraith C KD3			-2						Act 5 (H) Wraith C KD3	1	LH Runes15 Act 5 (H) Wraith C Pick KD3	1																										0
+LH Runebands LH Runes15 Act 5 (H) Wraith C KD3			-2						LH Runes15 Act 5 (H) Wraith C KD3	1	LH Runebands Roll	1																										0
+LH Kill D3 Runes 6			1					628751	Runes 17	10000	LH Nothing	377251																										0
+LH Kill D3 Root 6			-2						LH Runebands LH Runes15 Act 5 (H) Wraith C KD3	1	LH Kill D3 Runes 6	1																										0
+LH Reagent Roll (H) KD4			1					1423750	LH Reagents (H)	222000	LH Nothing	854250																										0
+Act 5 (H) H2H C KD4			-2					0	LH Reagent Roll (H) KD4	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Ember IV KD4			1					10312	x01	1000	LH Nothing	6188																										0
+LH Descent H2H IV KD4			-3					0	Act 5 (H) H2H C KD4	1	LH Ember IV KD4	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent H2H IV Pick KD4			1					115446406	Runes 17	1000000	LH Nothing	69267844																										0
+LH Runes20 LH Descent H2H IV KD4			-2						LH Descent H2H IV KD4	1	LH Runes20 LH Descent H2H IV Pick KD4	1																										0
+LH Runebands LH Runes20 LH Descent H2H IV KD4			-2						LH Runes20 LH Descent H2H IV KD4	1	LH Runebands Roll	1																										0
+LH Kill D4 Runes 0			1					1530963	Runes 17	10000	LH Nothing	918579																										0
+LH Kill D4 Root 0			-2						LH Runebands LH Runes20 LH Descent H2H IV KD4	1	LH Kill D4 Runes 0	1																										0
+LH Descent Champ IV KD4			-3					0	Act 5 (H) Champ C	1	LH Ember IV KD4	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Champ IV Pick KD4			1					37968750	Runes 17	1000000	LH Nothing	22781250																										0
+LH Runes20 LH Descent Champ IV KD4			-2						LH Descent Champ IV KD4	1	LH Runes20 LH Descent Champ IV Pick KD4	1																										0
+LH Runebands LH Runes20 LH Descent Champ IV KD4			-2						LH Runes20 LH Descent Champ IV KD4	1	LH Runebands Roll	1																										0
+LH Kill D4 Runes 1			1					497950	Runes 17	10000	LH Nothing	298771																										0
+LH Kill D4 Root 1			-2						LH Runebands LH Runes20 LH Descent Champ IV KD4	1	LH Kill D4 Runes 1	1																										0
+LH Descent Unique IV KD4			-3					0	Act 5 (H) Unique C	1	LH Ember IV KD4	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Unique IV Pick KD4			1					19445625	Runes 17	1000000	LH Nothing	11667375																										0
+LH Runes20 LH Descent Unique IV KD4			-2						LH Descent Unique IV KD4	1	LH Runes20 LH Descent Unique IV Pick KD4	1																										0
+LH Runebands LH Runes20 LH Descent Unique IV KD4			-2						LH Runes20 LH Descent Unique IV KD4	1	LH Runebands Roll	1																										0
+LH Kill D4 Runes 2			1					251007	Runes 17	10000	LH Nothing	150605																										0
+LH Kill D4 Root 2			-2						LH Runebands LH Runes20 LH Descent Unique IV KD4	1	LH Kill D4 Runes 2	1																										0
+Act 5 (H) Cast C KD4			-2					0	LH Reagent Roll (H) KD4	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Descent Cast IV KD4			-3					0	Act 5 (H) Cast C KD4	1	LH Ember IV KD4	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Cast IV Pick KD4			1					115446406	Runes 17	1000000	LH Nothing	69267844																										0
+LH Runes20 LH Descent Cast IV KD4			-2						LH Descent Cast IV KD4	1	LH Runes20 LH Descent Cast IV Pick KD4	1																										0
+LH Runebands LH Runes20 LH Descent Cast IV KD4			-2						LH Runes20 LH Descent Cast IV KD4	1	LH Runebands Roll	1																										0
+LH Kill D4 Runes 3			1					1530963	Runes 17	10000	LH Nothing	918579																										0
+LH Kill D4 Root 3			-2						LH Runebands LH Runes20 LH Descent Cast IV KD4	1	LH Kill D4 Runes 3	1																										0
+Act 5 (H) Miss C KD4			-2					0	LH Reagent Roll (H) KD4	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Descent Miss IV KD4			-3					0	Act 5 (H) Miss C KD4	1	LH Ember IV KD4	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Miss IV Pick KD4			1					115446406	Runes 17	1000000	LH Nothing	69267844																										0
+LH Runes20 LH Descent Miss IV KD4			-2						LH Descent Miss IV KD4	1	LH Runes20 LH Descent Miss IV Pick KD4	1																										0
+LH Runebands LH Runes20 LH Descent Miss IV KD4			-2						LH Runes20 LH Descent Miss IV KD4	1	LH Runebands Roll	1																										0
+LH Kill D4 Runes 4			1					1530963	Runes 17	10000	LH Nothing	918579																										0
+LH Kill D4 Root 4			-2						LH Runebands LH Runes20 LH Descent Miss IV KD4	1	LH Kill D4 Runes 4	1																										0
+Act 5 (H) Wraith C KD4			-2					0	LH Reagent Roll (H) KD4	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Runes20 Act 5 (H) Wraith C Pick KD4			1					37098281	Runes 17	1000000	LH Nothing	22258969																										0
+LH Runes20 Act 5 (H) Wraith C KD4			-2						Act 5 (H) Wraith C KD4	1	LH Runes20 Act 5 (H) Wraith C Pick KD4	1																										0
+LH Runebands LH Runes20 Act 5 (H) Wraith C KD4			-2						LH Runes20 Act 5 (H) Wraith C KD4	1	LH Runebands Roll	1																										0
+LH Kill D4 Runes 5			1					486343	Runes 17	10000	LH Nothing	291807																										0
+LH Kill D4 Root 5			-2						LH Runebands LH Runes20 Act 5 (H) Wraith C KD4	1	LH Kill D4 Runes 5	1																										0
+LH Reagent Roll (H) KD5			1					1845376	LH Reagents (H)	222000	LH Nothing	1107227																										0
+Act 5 (H) H2H C KD5			-2					0	LH Reagent Roll (H) KD5	1	Act 5 (H) H2H C Vanilla	1																										0
+LH Ember V KD5			1					9295	x01	1000	LH Nothing	5578																										0
+LH Descent H2H V KD5			-3					0	Act 5 (H) H2H C KD5	1	LH Ember V KD5	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent H2H V Pick KD5			1					146767261	Runes 17	1000000	LH Nothing	88060358																										0
+LH Runes20 LH Descent H2H V KD5			-2						LH Descent H2H V KD5	1	LH Runes20 LH Descent H2H V Pick KD5	1																										0
+LH Runebands LH Runes20 LH Descent H2H V KD5			-2						LH Runes20 LH Descent H2H V KD5	1	LH Runebands Roll	1																										0
+LH Kill D5 Runes 0			1					2141166	Runes 17	10000	LH Nothing	1284701																										0
+LH Kill D5 Root 0			-2						LH Runebands LH Runes20 LH Descent H2H V KD5	1	LH Kill D5 Runes 0	1																										0
+LH Descent Champ V KD5			-3					0	Act 5 (H) Champ C	1	LH Ember V KD5	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Champ V Pick KD5			1					48382936	Runes 17	1000000	LH Nothing	29029762																										0
+LH Runes20 LH Descent Champ V KD5			-2						LH Descent Champ V KD5	1	LH Runes20 LH Descent Champ V Pick KD5	1																										0
+LH Runebands LH Runes20 LH Descent Champ V KD5			-2						LH Runes20 LH Descent Champ V KD5	1	LH Runebands Roll	1																										0
+LH Kill D5 Runes 1			1					699746	Runes 17	10000	LH Nothing	419848																										0
+LH Kill D5 Root 1			-2						LH Runebands LH Runes20 LH Descent Champ V KD5	1	LH Kill D5 Runes 1	1																										0
+LH Descent Unique V KD5			-3					0	Act 5 (H) Unique C	1	LH Ember V KD5	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Unique V Pick KD5			1					24861508	Runes 17	1000000	LH Nothing	14916905																										0
+LH Runes20 LH Descent Unique V KD5			-2						LH Descent Unique V KD5	1	LH Runes20 LH Descent Unique V Pick KD5	1																										0
+LH Runebands LH Runes20 LH Descent Unique V KD5			-2						LH Runes20 LH Descent Unique V KD5	1	LH Runebands Roll	1																										0
+LH Kill D5 Runes 2			1					355165	Runes 17	10000	LH Nothing	213100																										0
+LH Kill D5 Root 2			-2						LH Runebands LH Runes20 LH Descent Unique V KD5	1	LH Kill D5 Runes 2	1																										0
+Act 5 (H) Wraith C KD5			-2					0	LH Reagent Roll (H) KD5	1	Act 5 (H) Wraith C Vanilla	1																										0
+LH Runes20 Act 5 (H) Wraith C Pick KD5			1					47277579	Runes 17	1000000	LH Nothing	28366548																										0
+LH Runes20 Act 5 (H) Wraith C KD5			-2						Act 5 (H) Wraith C KD5	1	LH Runes20 Act 5 (H) Wraith C Pick KD5	1																										0
+LH Runebands LH Runes20 Act 5 (H) Wraith C KD5			-2						LH Runes20 Act 5 (H) Wraith C KD5	1	LH Runebands Roll	1																										0
+LH Kill D5 Runes 3			1					683551	Runes 17	10000	LH Nothing	410131																										0
+LH Kill D5 Root 3			-2						LH Runebands LH Runes20 Act 5 (H) Wraith C KD5	1	LH Kill D5 Runes 3	1																										0
+Act 5 (H) Cast C KD5			-2					0	LH Reagent Roll (H) KD5	1	Act 5 (H) Cast C Vanilla	1																										0
+LH Descent Cast V KD5			-3					0	Act 5 (H) Cast C KD5	1	LH Ember V KD5	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Cast V Pick KD5			1					146767261	Runes 17	1000000	LH Nothing	88060358																										0
+LH Runes20 LH Descent Cast V KD5			-2						LH Descent Cast V KD5	1	LH Runes20 LH Descent Cast V Pick KD5	1																										0
+LH Runebands LH Runes20 LH Descent Cast V KD5			-2						LH Runes20 LH Descent Cast V KD5	1	LH Runebands Roll	1																										0
+LH Kill D5 Runes 4			1					2141166	Runes 17	10000	LH Nothing	1284701																										0
+LH Kill D5 Root 4			-2						LH Runebands LH Runes20 LH Descent Cast V KD5	1	LH Kill D5 Runes 4	1																										0
+Act 5 (H) Miss C KD5			-2					0	LH Reagent Roll (H) KD5	1	Act 5 (H) Miss C Vanilla	1																										0
+LH Descent Miss V KD5			-3					0	Act 5 (H) Miss C KD5	1	LH Ember V KD5	1	LH Blades I Roll	1																								0
+LH Runes20 LH Descent Miss V Pick KD5			1					146767261	Runes 17	1000000	LH Nothing	88060358																										0
+LH Runes20 LH Descent Miss V KD5			-2						LH Descent Miss V KD5	1	LH Runes20 LH Descent Miss V Pick KD5	1																										0
+LH Runebands LH Runes20 LH Descent Miss V KD5			-2						LH Runes20 LH Descent Miss V KD5	1	LH Runebands Roll	1																										0
+LH Kill D5 Runes 5			1					2141166	Runes 17	10000	LH Nothing	1284701																										0
+LH Kill D5 Root 5			-2						LH Runebands LH Runes20 LH Descent Miss V KD5	1	LH Kill D5 Runes 5	1																										0

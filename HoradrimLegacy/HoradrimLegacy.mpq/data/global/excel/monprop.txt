@@ -57,3 +57,6 @@ lh_boss_glow_blunderbore	state		233	1	1																										crush			15	15	s
 lh_boss_glow_councilmember1	state		233	1	1																										extra-fire			40	40	state		233	1	1																					extra-fire			100	100	state		233	1	1																					0
 lh_boss_glow_councilmember2	state		233	1	1																										extra-fire			40	40	state		233	1	1																					extra-fire			100	100	state		233	1	1																					0
 lh_boss_glow_councilmember3	state		233	1	1																										extra-fire			40	40	state		233	1	1																					extra-fire			100	100	state		233	1	1																					0
+lh_dspeed10_plain																																																													move2			10	10	swing2			10	10																					0
+lh_dspeed10_blunderbore																															crush			15	15																										crush			25	25	move2			10	10	swing2			10	10																0
+lh_dspeed15_plain																																																													move2			15	15	swing2			15	15																					0
