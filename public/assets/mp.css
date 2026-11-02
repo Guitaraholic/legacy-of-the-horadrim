@@ -1,0 +1,33 @@
+/* The secret page's layer over app.css (moo.py's page only): the hero, the numbered sections, the four panels and the
+   drops' database layout. Everything else is the house's own parts (.st-page, .dxroute, .bp-facts, .led, .rail, .tile). */
+
+/* The hero: the herd massed across the banner under one word (the owner, 24 Oct: option A plus the hero). The herd's art
+   is one composed WebP (moo.py); until the renders land the layer is empty and the fog carries it. */
+.mp-hero{position:relative;display:grid;place-items:center;min-height:300px;border:1px solid var(--line);margin:18px 0 6px;overflow:hidden;
+  background:radial-gradient(ellipse at 50% 118%,#33434f,#1c2632 46%,#11151d 78%,#0b0b0d)}
+.mp-hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 100%}
+.mp-moo{position:relative;font:400 clamp(64px,11vw,128px) Metamorphous,Georgia,serif;color:var(--title);letter-spacing:.06em;text-shadow:0 2px 18px #000c,0 0 60px #0b0b0d}
+.mp-lede{font-size:17px;margin:0 0 6px}
+.mp-route{margin:10px 0 8px} .mp-route .dxd{gap:6px} .mp-route .rtart .dxd img{width:30px;height:30px}
+.mp-route li.mp-dest{border-color:#6b5a3a;background:#15130f} .mp-route li.mp-dest b{font:400 17px Metamorphous,serif;color:var(--gold)}
+.mp-four{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0 8px;align-items:start}
+.mp-four .st-panel{min-width:0;padding:12px 14px}
+.mp-four h2.sect{font-size:20px;margin:0 0 10px;padding:0;border:0} .mp-four .st-step{width:26px;height:26px;flex-basis:26px;font-size:14px}
+.mp-four .gfhero{margin:0 0 8px} .mp-four .bp-facts{grid-template-columns:minmax(0,1fr)} .mp-four .bp-fact{min-height:0;padding:8px 10px}
+.mp-four .bp-fact b{font-size:22px} .mp-four .bp-res{font-size:14px;gap:2px 8px}
+.mp-four p{font-size:14.5px;line-height:1.45;margin:0 0 8px}
+.mp-herd{border-top:2px solid #9fb6d6} .mp-king{border-top:2px solid var(--gold)} .mp-p5{border-top:2px solid #d8d2c4}
+.mp-pool{margin:0 0 8px} .mp-pool .icons{gap:2px} .mp-pool .icons a{min-width:30px;min-height:34px} .mp-pool .icons img{height:26px;max-width:26px}
+.mp-giver{margin:0 0 6px} .mp-giver .dxd img{width:32px;height:32px}
+.mp-more summary{cursor:pointer;color:var(--mut);font-size:14px;min-height:32px;display:flex;align-items:center} .mp-more .tbl{font-size:13px}
+.mp-db{grid-template-columns:250px minmax(0,1fr);margin-top:6px}
+.mp-db .bar{display:flex;align-items:center;gap:10px;margin:0 0 10px} .mp-db .bar .vtog{margin-left:auto} .mp-odds{color:var(--mut);font-size:14.5px}
+.mp-db .rail .pills{display:flex;flex-wrap:wrap;gap:5px}
+.mp-db [role=listbox]{max-height:min(560px,calc(100vh - 200px));overflow:auto}  /* the hoard's box (#465) */
+.mp-set ul{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:3px} .mp-set li span{color:var(--mut);display:inline-block;min-width:66px}
+.mp-card{cursor:pointer} .mp-card.on{outline:1px solid var(--gold);outline-offset:-1px} .mp-card:focus-visible{outline:2px solid var(--mana)}
+.mp-setcard .d2tip{padding-top:14px}
+@media(max-width:1200px){.mp-four{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:1000px){.mp-db{grid-template-columns:minmax(0,1fr)} .mp-db [role=listbox]{max-height:none}}
+@media(max-width:640px){.mp-four{grid-template-columns:minmax(0,1fr)} .mp-pool .icons a{min-width:44px;min-height:44px} .mp-hero{min-height:220px} .mp-moo{font-size:64px}}
+.mp-page>p{max-width:75ch}  /* .st-page (app.css, the Stones page) already sets the numbered headers */
